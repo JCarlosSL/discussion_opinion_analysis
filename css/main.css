@@ -1,0 +1,152 @@
+body {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #676a6c;
+}
+.chartView{
+	height: 86%;
+}
+.timeView{
+	height: 14%;
+}
+.overview{
+	border-right: solid #D8D8D8 3px;
+}
+
+.clusterMark{
+	fill:#555555;
+	fill-opacity:.1;
+	stroke:#555555;
+	stroke-opacity:.3;
+}
+.clusterMark:hover{
+	fill-opacity:.3;
+}
+
+.nvtooltip{
+	width: 300px !important;
+	white-space: pre-wrap; 
+	border-radius: 5px;
+	font-size: 9px;
+}
+h5{
+	font-size: 10px;
+}
+.nvtooltip.opinion0{
+	background-color: rgba(4,180,95,0.1);
+}
+.nvtooltip.opinion1{
+	background-color: rgba(223,58,1,0.1);
+}
+.nvtooltip.opinion2{
+	background-color: rgba(230,230,230,.9);
+}
+
+.nvtooltip.select{
+	border: #819FF7 solid 3px;
+}
+
+.miniThread.select{
+	opacity: .3;
+}
+
+#end{
+	fill:#8181F7;
+}
+.miniBackground{
+	fill:none;
+	stroke:#2ECCFA;
+	stroke-width:3px;
+}
+.peopleCircle{
+  stroke-opacity:.6;
+}
+.peopleNode.highlight{
+	stroke:#555555 !important;
+	stroke-width:2px;
+}
+
+.postLink.fade{
+	fill-opacity:.05;
+}
+
+.postLink{
+	fill-opacity:.2;
+}
+.postLink.highlight{
+	fill-opacity:.6 !important;
+}
+
+.peopleNode.fade{
+	opacity: .2;
+}
+
+
+.post.fade{
+	opacity:.15;
+}
+.post.highlight{
+}
+
+.clusterArcBorder.odd{
+	stroke:#29088A;
+	opacity:0.8;
+	fill:#29088A;
+}
+.clusterArcBorder.even{
+	stroke:#00BFFF;
+	opacity:0.8;
+	fill:#00BFFF;
+}
+
+.clusterLabel.odd{
+	fill:#29088A;
+}
+.clusterLabel.even{
+	fill:#00BFFF;
+}
+
+.pieArc{
+	fill-opacity:0.2;
+}
+.postRingCircle{
+	stroke:#555555;
+}
+.postRingCircle.fadeout{
+	opacity:.3;
+}
+/*
+.postRingCircle.highlight{
+	stroke:#555555 !important;
+	stroke-width:2px !important;
+}*/
+
+.replyLink{
+	fill:none;
+	stroke-width:2.5px;
+}
+
+.postBar.fade{
+	opacity: .1;
+}
+
+.summaryArc{
+	opacity: .8;
+}
+
+.summaryArc.fade{
+	opacity: .05;
+}
+
+.toplevel{
+	stroke:#FE9A2E !important;
+	stroke-width:8px;
+}
+
+.legend{
+	fill:#555;
+	stroke:#FE9A2E !important;
+	stroke-width:8px;
+	fill-opacity:.3;
+	stroke-opacity:.8;
+}
