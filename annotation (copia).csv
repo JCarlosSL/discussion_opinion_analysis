@@ -1,0 +1,1458 @@
+_unit_id,_golden,_trusted_judgments,_last_judgment_at,opinion_toward_the_above_topic,opinion_toward_the_above_topic:confidence,opinion_toward_the_above_topic_gold,post_id,thread_id,time,topic,user_id
+90476944,FALSE,4,7/27/2011 9:08,Not Sure,0.7975,,1,409192893_1100030352001,Fri 11 June 2010 02:46 AM,abortion_as_rights_or_choices,IHAWKER
+90476946,TRUE,26,7/27/2011 8:56,For,0.8504,"For
+Not Sure",3,409192893_1100030352001,Fri 11 June 2010 11:32 AM,abortion_as_rights_or_choices,Cider33_Alpha
+90476947,TRUE,20,7/27/2011 5:45,Not Sure,0.9195,Not Sure,4,409192893_1100030352001,Fri 11 June 2010 12:31 PM,abortion_as_rights_or_choices,IHAWKER
+90476950,FALSE,4,7/27/2011 9:27,For,0.7664,,7,409192893_1100030352001,Fri 11 June 2010 03:22 PM,abortion_as_rights_or_choices,cosmicfish
+90476954,TRUE,24,7/27/2011 9:27,Not Sure,0.6482,"For
+Against
+Not Sure",11,409192893_1100030352001,Fri 11 June 2010 04:12 PM,abortion_as_rights_or_choices,GunnyZak
+90476956,TRUE,1,7/27/2011 7:17,For,1,Against,13,409192893_1100030352001,Fri 11 June 2010 04:21 PM,abortion_as_rights_or_choices,SignalSgtWilliams
+90476957,TRUE,1,7/26/2011 18:51,Against,1,Against,14,409192893_1100030352001,Fri 11 June 2010 08:23 PM,abortion_as_rights_or_choices,PinkBlossoms
+90476959,FALSE,4,7/27/2011 9:27,For,0.7742,,16,409192893_1100030352001,Sat 12 June 2010 06:43 AM,abortion_as_rights_or_choices,SeaWitch1220
+90476962,TRUE,1,7/27/2011 3:49,For,1,Not Sure,19,409192893_1100030352001,Sat 12 June 2010 10:04 AM,abortion_as_rights_or_choices,skinman13
+90476963,TRUE,1,7/27/2011 8:59,For,1,Against,20,409192893_1100030352001,Sat 12 June 2010 10:49 AM,abortion_as_rights_or_choices,IHAWKER
+90476965,TRUE,1,7/26/2011 18:49,Not Sure,1,Not Sure,22,409192893_1100030352001,Sat 12 June 2010 02:06 PM,abortion_as_rights_or_choices,Boospar
+90476967,TRUE,12,7/27/2011 2:48,For,0.7521,Not Sure,24,409192893_1100030352001,Sat 12 June 2010 03:52 PM,abortion_as_rights_or_choices,skinman13
+90476968,TRUE,13,7/27/2011 7:22,Not Sure,0.3793,"Against
+Not Sure",25,409192893_1100030352001,Sat 12 June 2010 04:13 PM,abortion_as_rights_or_choices,LineDoggie
+90476969,TRUE,31,7/27/2011 9:41,Against,0.5394,"For
+Against
+Not Sure",26,409192893_1100030352001,Sat 12 June 2010 04:37 PM,abortion_as_rights_or_choices,GunnyZak
+90476974,TRUE,1,7/27/2011 7:28,Against,1,For,31,409192893_1100030352001,Sat 12 June 2010 10:38 PM,abortion_as_rights_or_choices,Golgoth
+90476975,TRUE,27,7/27/2011 8:39,For,0.8667,"For
+Not Sure",32,409192893_1100030352001,Sun 13 June 2010 05:02 AM,abortion_as_rights_or_choices,thorin001
+90476976,TRUE,1,7/27/2011 4:15,Not Sure,1,Not Sure,33,409192893_1100030352001,Sun 13 June 2010 06:41 AM,abortion_as_rights_or_choices,SeaWitch1220
+90476987,FALSE,4,7/27/2011 9:08,Against,0.5017,,44,409192893_1100030352001,Sun 13 June 2010 02:18 PM,abortion_as_rights_or_choices,Esample1
+90476992,FALSE,4,7/27/2011 9:27,For,0.5222,,49,409192893_1100030352001,Thu 17 June 2010 07:37 PM,abortion_as_rights_or_choices,Boospar
+90476993,FALSE,4,7/27/2011 9:27,Against,0.7514,,50,409192893_1100030352001,Thu 17 June 2010 07:45 PM,abortion_as_rights_or_choices,Boospar
+90476994,FALSE,4,7/27/2011 9:08,Not Sure,0.7448,,51,409192893_1100030352001,Thu 17 June 2010 07:58 PM,abortion_as_rights_or_choices,Boospar
+90476995,FALSE,3,7/27/2011 8:44,For,0.6597,,52,409192893_1100030352001,Thu 17 June 2010 09:06 PM,abortion_as_rights_or_choices,thorin001
+90476996,FALSE,3,7/27/2011 1:31,Not Sure,0.6604,,53,409192893_1100030352001,Thu 17 June 2010 09:47 PM,abortion_as_rights_or_choices,Boospar
+90476997,FALSE,3,7/27/2011 6:44,Not Sure,0.6268,,54,409192893_1100030352001,Fri 18 June 2010 12:05 PM,abortion_as_rights_or_choices,thorin001
+90476998,FALSE,4,7/27/2011 9:41,For,0.5417,,55,409192893_1100030352001,Fri 18 June 2010 02:10 PM,abortion_as_rights_or_choices,Boospar
+90476999,FALSE,3,7/27/2011 8:03,For,1,,56,409192893_1100030352001,Fri 18 June 2010 05:12 PM,abortion_as_rights_or_choices,thorin001
+90477000,FALSE,3,7/27/2011 6:36,Against,0.7094,,57,409192893_1100030352001,Fri 18 June 2010 06:47 PM,abortion_as_rights_or_choices,Boospar
+90477001,FALSE,4,7/27/2011 9:08,Not Sure,0.5193,,58,409192893_1100030352001,Fri 18 June 2010 06:51 PM,abortion_as_rights_or_choices,Boospar
+90477002,FALSE,4,7/27/2011 4:52,For,0.5213,,59,409192893_1100030352001,Fri 18 June 2010 08:06 PM,abortion_as_rights_or_choices,thorin001
+90477003,FALSE,4,7/27/2011 9:27,Not Sure,0.7763,,60,409192893_1100030352001,Fri 18 June 2010 08:08 PM,abortion_as_rights_or_choices,thorin001
+90477004,FALSE,4,7/27/2011 9:08,Not Sure,0.5572,,61,409192893_1100030352001,Fri 18 June 2010 08:23 PM,abortion_as_rights_or_choices,Boospar
+90477005,FALSE,3,7/27/2011 8:47,Not Sure,0.6099,,62,409192893_1100030352001,Fri 18 June 2010 08:26 PM,abortion_as_rights_or_choices,Boospar
+90477006,FALSE,4,7/27/2011 9:27,Not Sure,0.7891,,63,409192893_1100030352001,Sat 19 June 2010 07:54 AM,abortion_as_rights_or_choices,tawodi
+90477007,FALSE,4,7/27/2011 9:41,For,0.5211,,64,409192893_1100030352001,Sat 19 June 2010 08:04 AM,abortion_as_rights_or_choices,Cider33_Alpha
+90477008,FALSE,3,7/27/2011 1:28,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477009,FALSE,4,7/27/2011 9:27,For,0.5067,,1,409192893_2520020171001,Fri 22 February 2008 10:08 PM,abortion_as_rights_or_choices,machiavellean
+90477010,FALSE,4,7/27/2011 9:27,Against,0.7504,,2,409192893_2520020171001,Sun 09 March 2008 03:55 PM,abortion_as_rights_or_choices,aggie_swife
+90477011,FALSE,3,7/27/2011 4:21,For,1,,3,409192893_2520020171001,Sun 09 March 2008 03:58 PM,abortion_as_rights_or_choices,scottrj50
+90477012,FALSE,4,7/27/2011 9:40,Against,1,,4,409192893_2520020171001,Sun 09 March 2008 04:10 PM,abortion_as_rights_or_choices,mmulder67
+90477013,FALSE,4,7/27/2011 9:40,Against,0.7325,,5,409192893_2520020171001,Sun 09 March 2008 04:19 PM,abortion_as_rights_or_choices,Persy
+90477014,FALSE,4,7/27/2011 9:40,Against,0.4994,,6,409192893_2520020171001,Sun 09 March 2008 04:22 PM,abortion_as_rights_or_choices,mmulder67
+90477015,FALSE,4,7/27/2011 9:40,Not Sure,0.5007,,7,409192893_2520020171001,Sun 09 March 2008 04:34 PM,abortion_as_rights_or_choices,aggie_swife
+90477016,FALSE,4,7/27/2011 9:41,Not Sure,0.4962,,8,409192893_2520020171001,Sun 09 March 2008 05:26 PM,abortion_as_rights_or_choices,mmulder67
+90477017,FALSE,4,7/27/2011 9:41,For,0.5148,,9,409192893_2520020171001,Sun 09 March 2008 05:40 PM,abortion_as_rights_or_choices,Marou
+90477018,FALSE,3,7/27/2011 7:34,Against,0.7237,,10,409192893_2520020171001,Sun 09 March 2008 05:53 PM,abortion_as_rights_or_choices,mmulder67
+90477019,FALSE,3,7/27/2011 8:00,For,1,,11,409192893_2520020171001,Sun 09 March 2008 06:02 PM,abortion_as_rights_or_choices,Marou
+90477020,FALSE,3,7/27/2011 6:23,Not Sure,0.6884,,12,409192893_2520020171001,Sun 09 March 2008 06:14 PM,abortion_as_rights_or_choices,Golgoth
+90477021,FALSE,3,7/27/2011 7:29,Against,0.66,,13,409192893_2520020171001,Sun 09 March 2008 06:48 PM,abortion_as_rights_or_choices,sweetsuds
+90477022,FALSE,3,7/27/2011 5:21,Against,1,,14,409192893_2520020171001,Sun 09 March 2008 09:27 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477023,FALSE,3,7/27/2011 3:56,Against,1,,15,409192893_2520020171001,Sun 09 March 2008 09:40 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477024,FALSE,3,7/27/2011 7:36,Against,0.6288,,16,409192893_2520020171001,Sun 09 March 2008 09:44 PM,abortion_as_rights_or_choices,mmulder67
+90477025,FALSE,3,7/27/2011 8:45,Against,0.6655,,17,409192893_2520020171001,Sun 09 March 2008 10:22 PM,abortion_as_rights_or_choices,scottrj50
+90477026,FALSE,3,7/27/2011 6:37,Against,1,,18,409192893_2520020171001,Mon 10 March 2008 04:32 AM,abortion_as_rights_or_choices,PinkBlossoms
+90477027,FALSE,3,7/27/2011 7:07,Not Sure,0.3635,,19,409192893_2520020171001,Mon 10 March 2008 05:41 AM,abortion_as_rights_or_choices,GunnyRet03
+90477028,FALSE,3,7/27/2011 2:04,For,0.6486,,20,409192893_2520020171001,Mon 10 March 2008 06:44 AM,abortion_as_rights_or_choices,Fightdirector
+90477029,FALSE,3,7/27/2011 4:21,Not Sure,1,,21,409192893_2520020171001,Mon 10 March 2008 06:57 AM,abortion_as_rights_or_choices,Fightdirector
+90477030,FALSE,3,7/27/2011 0:22,For,1,,22,409192893_2520020171001,Mon 10 March 2008 07:53 AM,abortion_as_rights_or_choices,sweetsuds
+90477031,FALSE,3,7/27/2011 8:00,Not Sure,0.6771,,23,409192893_2520020171001,Mon 10 March 2008 08:29 AM,abortion_as_rights_or_choices,DocTrowerFMF
+90477032,FALSE,3,7/27/2011 8:52,For,1,,24,409192893_2520020171001,Mon 10 March 2008 08:37 AM,abortion_as_rights_or_choices,Fightdirector
+90477033,FALSE,3,7/27/2011 4:38,For,0.7027,,25,409192893_2520020171001,Mon 10 March 2008 09:39 AM,abortion_as_rights_or_choices,WhoFreak
+90477034,FALSE,3,7/27/2011 7:20,Not Sure,0.6771,,26,409192893_2520020171001,Mon 10 March 2008 11:53 AM,abortion_as_rights_or_choices,rm444
+90477035,FALSE,3,7/27/2011 6:38,Not Sure,0.7116,,27,409192893_2520020171001,Mon 10 March 2008 02:46 PM,abortion_as_rights_or_choices,nurse_attorney
+90477036,FALSE,3,7/27/2011 6:58,Not Sure,0.6675,,28,409192893_2520020171001,Mon 10 March 2008 02:49 PM,abortion_as_rights_or_choices,nurse_attorney
+90477037,FALSE,3,7/27/2011 7:25,Not Sure,0.668,,29,409192893_2520020171001,Mon 10 March 2008 03:02 PM,abortion_as_rights_or_choices,Persy
+90477038,FALSE,3,7/27/2011 8:47,Not Sure,0.353,,30,409192893_2520020171001,Mon 10 March 2008 03:17 PM,abortion_as_rights_or_choices,sweetsuds
+90477039,FALSE,3,7/27/2011 7:34,Not Sure,0.3642,,31,409192893_2520020171001,Mon 10 March 2008 07:24 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477040,FALSE,3,7/27/2011 5:39,For,0.6616,,32,409192893_2520020171001,Mon 10 March 2008 07:34 PM,abortion_as_rights_or_choices,sweetsuds
+90477041,FALSE,3,7/27/2011 6:02,Against,1,,33,409192893_2520020171001,Mon 10 March 2008 07:53 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477042,FALSE,3,7/27/2011 9:06,Not Sure,0.679,,34,409192893_2520020171001,Mon 10 March 2008 07:57 PM,abortion_as_rights_or_choices,billbright
+90477043,FALSE,3,7/27/2011 6:08,Not Sure,0.6922,,35,409192893_2520020171001,Mon 10 March 2008 08:23 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477044,FALSE,3,7/27/2011 7:37,Not Sure,0.6845,,36,409192893_2520020171001,Tue 11 March 2008 09:46 AM,abortion_as_rights_or_choices,nurse_attorney
+90477045,FALSE,3,7/27/2011 4:19,Not Sure,0.6629,,37,409192893_2520020171001,Tue 11 March 2008 09:50 AM,abortion_as_rights_or_choices,sweetsuds
+90477046,FALSE,3,7/27/2011 7:03,Against,0.6944,,38,409192893_2520020171001,Tue 11 March 2008 09:51 AM,abortion_as_rights_or_choices,nurse_attorney
+90477047,FALSE,3,7/27/2011 8:42,Not Sure,0.6524,,39,409192893_2520020171001,Tue 11 March 2008 09:52 AM,abortion_as_rights_or_choices,nurse_attorney
+90477048,FALSE,4,7/27/2011 9:01,For,1,,40,409192893_2520020171001,Tue 11 March 2008 09:54 AM,abortion_as_rights_or_choices,nurse_attorney
+90477049,FALSE,3,7/27/2011 2:23,Against,0.6931,,41,409192893_2520020171001,Tue 11 March 2008 10:06 AM,abortion_as_rights_or_choices,sweetsuds
+90477050,FALSE,4,7/27/2011 4:50,Not Sure,0.7349,,42,409192893_2520020171001,Tue 11 March 2008 02:27 PM,abortion_as_rights_or_choices,CalDreaming02
+90477051,FALSE,3,7/27/2011 8:45,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477052,FALSE,3,7/27/2011 1:29,Against,1,,1,5531905206_6420099791001,Fri 05 September 2008 04:24 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477053,FALSE,3,7/27/2011 7:19,For,1,,2,5531905206_6420099791001,Fri 05 September 2008 04:53 PM,abortion_as_rights_or_choices,sweetsuds
+90477054,FALSE,3,7/27/2011 5:51,For,0.6244,,3,5531905206_6420099791001,Fri 05 September 2008 05:18 PM,abortion_as_rights_or_choices,mmulder67
+90477055,FALSE,3,7/27/2011 6:57,Against,1,,4,5531905206_6420099791001,Fri 05 September 2008 05:20 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477056,FALSE,3,7/27/2011 7:55,Not Sure,1,,5,5531905206_6420099791001,Fri 05 September 2008 05:25 PM,abortion_as_rights_or_choices,Silverbusa
+90477057,FALSE,3,7/27/2011 8:52,Not Sure,0.6403,,6,5531905206_6420099791001,Fri 05 September 2008 05:38 PM,abortion_as_rights_or_choices,mmulder67
+90477058,FALSE,3,7/27/2011 4:34,Not Sure,1,,7,5531905206_6420099791001,Fri 05 September 2008 05:39 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477059,FALSE,3,7/27/2011 6:05,For,0.6958,,8,5531905206_6420099791001,Fri 05 September 2008 05:49 PM,abortion_as_rights_or_choices,mmulder67
+90477060,FALSE,3,7/27/2011 7:48,Against,0.7037,,9,5531905206_6420099791001,Fri 05 September 2008 06:19 PM,abortion_as_rights_or_choices,Silverbusa
+90477061,FALSE,3,7/27/2011 7:27,For,0.6235,,10,5531905206_6420099791001,Fri 05 September 2008 06:47 PM,abortion_as_rights_or_choices,mmulder67
+90477062,FALSE,4,7/27/2011 7:43,Not Sure,0.7869,,11,5531905206_6420099791001,Fri 05 September 2008 06:49 PM,abortion_as_rights_or_choices,Silverbusa
+90477063,FALSE,3,7/27/2011 7:38,For,0.6291,,12,5531905206_6420099791001,Fri 05 September 2008 07:17 PM,abortion_as_rights_or_choices,SkipHadaway
+90477064,FALSE,3,7/27/2011 6:52,Against,0.6661,,13,5531905206_6420099791001,Fri 05 September 2008 07:40 PM,abortion_as_rights_or_choices,sweetsuds
+90477065,FALSE,3,7/27/2011 6:57,For,1,,14,5531905206_6420099791001,Fri 05 September 2008 07:45 PM,abortion_as_rights_or_choices,HANtheMANN
+90477066,FALSE,3,7/27/2011 4:21,For,1,,15,5531905206_6420099791001,Fri 05 September 2008 08:09 PM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477067,FALSE,3,7/27/2011 7:16,Against,0.7256,,16,5531905206_6420099791001,Fri 05 September 2008 09:18 PM,abortion_as_rights_or_choices,Silverbusa
+90477068,FALSE,3,7/27/2011 7:05,For,1,,17,5531905206_6420099791001,Fri 05 September 2008 09:30 PM,abortion_as_rights_or_choices,mmulder67
+90477069,FALSE,3,7/27/2011 4:51,For,1,,18,5531905206_6420099791001,Fri 05 September 2008 10:18 PM,abortion_as_rights_or_choices,RetiredMarineWife
+90477070,FALSE,3,7/27/2011 7:11,For,0.6821,,19,5531905206_6420099791001,Sat 06 September 2008 07:56 AM,abortion_as_rights_or_choices,Sgt_Salaam
+90477071,FALSE,4,7/27/2011 9:09,For,1,,20,5531905206_6420099791001,Sat 06 September 2008 09:13 AM,abortion_as_rights_or_choices,SurfaceDog
+90477072,FALSE,3,7/27/2011 7:15,Against,0.6994,,21,5531905206_6420099791001,Sat 06 September 2008 09:55 AM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477073,FALSE,3,7/27/2011 8:44,For,1,,22,5531905206_6420099791001,Sat 06 September 2008 10:36 AM,abortion_as_rights_or_choices,Sgt_Salaam
+90477074,FALSE,3,7/27/2011 6:48,For,0.3628,,23,5531905206_6420099791001,Sat 06 September 2008 10:45 AM,abortion_as_rights_or_choices,sweetsuds
+90477075,FALSE,3,7/27/2011 7:48,For,0.641,,24,5531905206_6420099791001,Sat 06 September 2008 10:50 AM,abortion_as_rights_or_choices,sweetsuds
+90477076,FALSE,3,7/27/2011 7:07,Against,1,,25,5531905206_6420099791001,Sat 06 September 2008 11:16 AM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477077,FALSE,3,7/27/2011 4:23,For,1,,26,5531905206_6420099791001,Sat 06 September 2008 12:32 PM,abortion_as_rights_or_choices,sweetsuds
+90477078,FALSE,3,7/27/2011 1:46,For,0.6843,,27,5531905206_6420099791001,Sat 06 September 2008 01:20 PM,abortion_as_rights_or_choices,undercoversister
+90477079,FALSE,3,7/27/2011 1:49,For,0.6687,,28,5531905206_6420099791001,Sat 06 September 2008 02:58 PM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477080,FALSE,3,7/27/2011 8:13,Not Sure,0.3825,,29,5531905206_6420099791001,Sat 06 September 2008 03:05 PM,abortion_as_rights_or_choices,billbright
+90477081,FALSE,3,7/27/2011 7:54,Against,0.7125,,30,5531905206_6420099791001,Sat 06 September 2008 03:06 PM,abortion_as_rights_or_choices,billbright
+90477082,FALSE,3,7/27/2011 6:29,Against,0.6568,,31,5531905206_6420099791001,Sat 06 September 2008 04:27 PM,abortion_as_rights_or_choices,Silverbusa
+90477083,FALSE,3,7/27/2011 7:34,For,0.6832,,32,5531905206_6420099791001,Sat 06 September 2008 04:27 PM,abortion_as_rights_or_choices,rayld2
+90477084,FALSE,3,7/27/2011 7:27,Against,1,,33,5531905206_6420099791001,Sat 06 September 2008 04:34 PM,abortion_as_rights_or_choices,Silverbusa
+90477085,FALSE,3,7/27/2011 7:27,Against,0.4035,,34,5531905206_6420099791001,Sat 06 September 2008 05:13 PM,abortion_as_rights_or_choices,Fin_atic
+90477086,FALSE,3,7/27/2011 5:23,For,0.6835,,35,5531905206_6420099791001,Sat 06 September 2008 05:26 PM,abortion_as_rights_or_choices,sweetsuds
+90477087,FALSE,3,7/27/2011 7:19,For,1,,36,5531905206_6420099791001,Sat 06 September 2008 06:23 PM,abortion_as_rights_or_choices,liberal90
+90477088,FALSE,3,7/27/2011 5:48,For,0.6114,,37,5531905206_6420099791001,Sat 06 September 2008 06:30 PM,abortion_as_rights_or_choices,Grachus
+90477089,FALSE,4,7/27/2011 8:04,For,0.4662,,38,5531905206_6420099791001,Sat 06 September 2008 07:03 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477090,FALSE,3,7/27/2011 7:15,For,0.664,,39,5531905206_6420099791001,Sat 06 September 2008 07:05 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477091,FALSE,3,7/27/2011 8:57,For,1,,40,5531905206_6420099791001,Sat 06 September 2008 07:09 PM,abortion_as_rights_or_choices,sweetsuds
+90477092,FALSE,3,7/27/2011 7:22,Against,0.7079,,41,5531905206_6420099791001,Sat 06 September 2008 07:11 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477093,FALSE,3,7/27/2011 8:20,Against,0.3684,,42,5531905206_6420099791001,Sat 06 September 2008 07:27 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477094,FALSE,3,7/27/2011 8:48,For,0.6322,,43,5531905206_6420099791001,Sat 06 September 2008 07:55 PM,abortion_as_rights_or_choices,sweetsuds
+90477095,FALSE,3,7/27/2011 6:50,Against,0.7074,,44,5531905206_6420099791001,Sat 06 September 2008 07:56 PM,abortion_as_rights_or_choices,Tower_Flower
+90477096,FALSE,3,7/27/2011 8:59,Against,0.3822,,45,5531905206_6420099791001,Sat 06 September 2008 10:23 PM,abortion_as_rights_or_choices,Silverbusa
+90477097,FALSE,4,7/27/2011 5:05,Against,0.7962,,46,5531905206_6420099791001,Sat 06 September 2008 10:27 PM,abortion_as_rights_or_choices,Silverbusa
+90477098,FALSE,3,7/27/2011 7:57,For,1,,47,5531905206_6420099791001,Sat 06 September 2008 10:37 PM,abortion_as_rights_or_choices,undercoversister
+90477099,FALSE,3,7/27/2011 6:58,For,0.6118,,48,5531905206_6420099791001,Sat 06 September 2008 10:57 PM,abortion_as_rights_or_choices,Silverbusa
+90477100,FALSE,3,7/27/2011 8:48,For,1,,49,5531905206_6420099791001,Sat 06 September 2008 10:59 PM,abortion_as_rights_or_choices,undercoversister
+90477101,FALSE,4,7/27/2011 9:00,For,1,,50,5531905206_6420099791001,Sun 07 September 2008 01:14 AM,abortion_as_rights_or_choices,mmulder67
+90477102,FALSE,3,7/27/2011 6:06,For,0.6853,,51,5531905206_6420099791001,Sun 07 September 2008 12:41 PM,abortion_as_rights_or_choices,Tower_Flower
+90477103,FALSE,3,7/27/2011 9:08,For,0.3538,,52,5531905206_6420099791001,Sun 07 September 2008 02:52 PM,abortion_as_rights_or_choices,Grachus
+90477104,FALSE,3,7/27/2011 6:48,For,0.6648,,53,5531905206_6420099791001,Sun 07 September 2008 03:59 PM,abortion_as_rights_or_choices,billbright
+90477105,FALSE,3,7/27/2011 6:50,Against,0.7206,,54,5531905206_6420099791001,Sun 07 September 2008 05:11 PM,abortion_as_rights_or_choices,USAF_76_2_80
+90477106,FALSE,3,7/27/2011 8:57,For,0.6622,,55,5531905206_6420099791001,Sun 07 September 2008 05:17 PM,abortion_as_rights_or_choices,rayld2
+90477107,FALSE,3,7/27/2011 7:41,Against,0.3656,,56,5531905206_6420099791001,Sun 07 September 2008 05:22 PM,abortion_as_rights_or_choices,rayld2
+90477108,FALSE,3,7/27/2011 7:03,Not Sure,0.6448,,57,5531905206_6420099791001,Sun 07 September 2008 09:18 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477109,FALSE,3,7/27/2011 7:32,For,1,,58,5531905206_6420099791001,Mon 08 September 2008 12:41 AM,abortion_as_rights_or_choices,mmulder67
+90477110,FALSE,3,7/27/2011 6:57,For,1,,59,5531905206_6420099791001,Mon 08 September 2008 05:37 AM,abortion_as_rights_or_choices,rayld2
+90477111,FALSE,3,7/27/2011 8:11,Not Sure,0.6479,,60,5531905206_6420099791001,Mon 08 September 2008 12:47 PM,abortion_as_rights_or_choices,Tower_Flower
+90477112,FALSE,3,7/27/2011 5:36,Against,1,,61,5531905206_6420099791001,Mon 08 September 2008 03:08 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477113,FALSE,3,7/27/2011 8:06,Against,0.6387,,62,5531905206_6420099791001,Mon 08 September 2008 07:26 PM,abortion_as_rights_or_choices,billbright
+90477114,FALSE,3,7/27/2011 5:48,Against,1,,63,5531905206_6420099791001,Mon 08 September 2008 11:53 PM,abortion_as_rights_or_choices,nspreitler
+90477115,FALSE,3,7/27/2011 8:39,For,0.6861,,64,5531905206_6420099791001,Tue 09 September 2008 12:53 AM,abortion_as_rights_or_choices,mmulder67
+90477116,FALSE,3,7/27/2011 6:00,For,0.6272,,65,5531905206_6420099791001,Tue 09 September 2008 01:14 AM,abortion_as_rights_or_choices,mmulder67
+90477117,FALSE,3,7/27/2011 8:42,Against,0.6688,,66,5531905206_6420099791001,Tue 09 September 2008 05:51 AM,abortion_as_rights_or_choices,Angie1228
+90477118,FALSE,3,7/27/2011 8:41,For,0.7,,67,5531905206_6420099791001,Tue 09 September 2008 07:08 AM,abortion_as_rights_or_choices,rayld2
+90477119,FALSE,3,7/27/2011 7:11,For,1,,68,5531905206_6420099791001,Tue 09 September 2008 10:21 AM,abortion_as_rights_or_choices,mmulder67
+90477120,FALSE,3,7/27/2011 8:56,For,0.6829,,69,5531905206_6420099791001,Tue 09 September 2008 10:29 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477121,FALSE,3,7/27/2011 7:20,Not Sure,1,,70,5531905206_6420099791001,Tue 09 September 2008 11:07 AM,abortion_as_rights_or_choices,Tower_Flower
+90477122,FALSE,3,7/27/2011 4:27,For,0.6853,,71,5531905206_6420099791001,Tue 09 September 2008 11:17 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477123,FALSE,3,7/27/2011 7:04,Not Sure,1,,72,5531905206_6420099791001,Tue 09 September 2008 11:27 AM,abortion_as_rights_or_choices,Tower_Flower
+90477124,FALSE,4,7/27/2011 6:53,For,1,,73,5531905206_6420099791001,Tue 09 September 2008 11:37 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477125,FALSE,5,7/27/2011 9:09,For,0.6281,,74,5531905206_6420099791001,Tue 09 September 2008 11:42 AM,abortion_as_rights_or_choices,Tower_Flower
+90477126,FALSE,3,7/27/2011 7:04,For,0.628,,75,5531905206_6420099791001,Tue 09 September 2008 11:43 AM,abortion_as_rights_or_choices,Angie1228
+90477127,FALSE,3,7/27/2011 4:53,For,0.3811,,76,5531905206_6420099791001,Tue 09 September 2008 01:51 PM,abortion_as_rights_or_choices,rayld2
+90477128,FALSE,3,7/27/2011 4:50,Not Sure,1,,77,5531905206_6420099791001,Tue 09 September 2008 02:40 PM,abortion_as_rights_or_choices,Tower_Flower
+90477129,FALSE,3,7/27/2011 5:53,Not Sure,1,,78,5531905206_6420099791001,Wed 10 September 2008 08:00 AM,abortion_as_rights_or_choices,sweetsuds
+90477130,FALSE,3,7/27/2011 6:24,Not Sure,0.6764,,79,5531905206_6420099791001,Wed 10 September 2008 09:21 AM,abortion_as_rights_or_choices,tawodi
+90477131,FALSE,3,7/27/2011 7:54,Not Sure,0.6725,,80,5531905206_6420099791001,Wed 10 September 2008 05:52 PM,abortion_as_rights_or_choices,sweetsuds
+90477132,FALSE,3,7/27/2011 5:55,Not Sure,0.7073,,81,5531905206_6420099791001,Wed 10 September 2008 06:22 PM,abortion_as_rights_or_choices,tawodi
+90477133,FALSE,3,7/27/2011 5:39,For,0.7139,,82,5531905206_6420099791001,Wed 01 October 2008 06:34 AM,abortion_as_rights_or_choices,lcplcross
+90477134,FALSE,3,7/27/2011 5:43,For,1,,83,5531905206_6420099791001,Tue 28 October 2008 03:13 PM,abortion_as_rights_or_choices,entmjzi
+90477135,FALSE,3,7/27/2011 4:17,Against,0.6655,,84,5531905206_6420099791001,Wed 12 November 2008 02:03 PM,abortion_as_rights_or_choices,Whirled_Peas
+90477136,FALSE,3,7/27/2011 8:45,Not Sure,0.3531,,85,5531905206_6420099791001,Thu 13 November 2008 06:33 PM,abortion_as_rights_or_choices,sweetsuds
+90477137,FALSE,3,7/27/2011 2:09,Not Sure,0.6694,,86,5531905206_6420099791001,Fri 14 November 2008 07:42 AM,abortion_as_rights_or_choices,Whirled_Peas
+90477138,FALSE,3,7/27/2011 7:19,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477139,FALSE,4,7/27/2011 6:39,Not Sure,0.5082,,1,409192893_1310027322001,Tue 19 May 2009 08:50 PM,abortion_as_rights_or_choices,Fightdirector
+90477141,TRUE,26,7/27/2011 9:27,Not Sure,0.7203,"Against
+Not Sure",3,409192893_1310027322001,Tue 19 May 2009 09:26 PM,abortion_as_rights_or_choices,Yooper_tj
+90477143,TRUE,1,7/27/2011 8:13,Against,1,For,5,409192893_1310027322001,Tue 19 May 2009 10:02 PM,abortion_as_rights_or_choices,Tangler
+90477148,TRUE,1,7/26/2011 19:12,Against,1,Not Sure,7,409192893_1310027322001,Wed 20 May 2009 06:02 AM,abortion_as_rights_or_choices,ACR26
+90477149,TRUE,10,7/27/2011 1:55,For,0.7166,"Against
+Not Sure",8,409192893_1310027322001,Wed 20 May 2009 06:13 AM,abortion_as_rights_or_choices,rayld2
+90477154,FALSE,3,7/27/2011 7:11,Against,0.649,,13,409192893_1310027322001,Wed 20 May 2009 08:13 AM,abortion_as_rights_or_choices,Irwin_R_Schyster
+90477156,FALSE,4,7/27/2011 6:11,Against,0.529,,15,409192893_1310027322001,Wed 20 May 2009 01:19 PM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477157,TRUE,12,7/27/2011 2:58,Against,0.834,Against,16,409192893_1310027322001,Wed 20 May 2009 01:24 PM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477158,TRUE,1,7/27/2011 7:24,For,1,For,17,409192893_1310027322001,Wed 20 May 2009 03:23 PM,abortion_as_rights_or_choices,thorin001
+90477159,TRUE,23,7/27/2011 9:01,For,0.7962,For,18,409192893_1310027322001,Wed 20 May 2009 06:29 PM,abortion_as_rights_or_choices,Tangler
+90477160,TRUE,1,7/27/2011 7:27,Not Sure,1,For,19,409192893_1310027322001,Wed 20 May 2009 07:15 PM,abortion_as_rights_or_choices,PinkBlossoms
+90477161,TRUE,1,7/27/2011 4:16,Not Sure,1,Against,20,409192893_1310027322001,Wed 20 May 2009 09:01 PM,abortion_as_rights_or_choices,Fightdirector
+90477162,FALSE,3,7/27/2011 8:13,Against,0.7037,,21,409192893_1310027322001,Thu 21 May 2009 04:19 AM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477163,FALSE,3,7/27/2011 7:39,Against,0.661,,22,409192893_1310027322001,Thu 21 May 2009 04:26 AM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477164,TRUE,3,7/26/2011 23:14,Not Sure,0.6733,"For
+Not Sure",23,409192893_1310027322001,Thu 21 May 2009 04:47 AM,abortion_as_rights_or_choices,backtoiraq
+90477167,FALSE,3,7/27/2011 8:41,For,0.6292,,26,409192893_1310027322001,Thu 21 May 2009 04:53 AM,abortion_as_rights_or_choices,backtoiraq
+90477168,FALSE,3,7/27/2011 8:03,Not Sure,1,,27,409192893_1310027322001,Thu 21 May 2009 04:59 AM,abortion_as_rights_or_choices,skinman13
+90477169,FALSE,3,7/27/2011 5:05,Against,1,,28,409192893_1310027322001,Thu 21 May 2009 06:13 AM,abortion_as_rights_or_choices,PinkBlossoms
+90477170,TRUE,22,7/27/2011 8:48,Not Sure,0.4036,"For
+Not Sure",29,409192893_1310027322001,Thu 21 May 2009 06:25 AM,abortion_as_rights_or_choices,SeaWitch1220
+90477171,FALSE,4,7/27/2011 6:41,Not Sure,0.4358,,30,409192893_1310027322001,Thu 21 May 2009 06:30 AM,abortion_as_rights_or_choices,DMarkUhler
+90477172,FALSE,3,7/27/2011 8:00,For,0.7295,,31,409192893_1310027322001,Thu 21 May 2009 06:46 AM,abortion_as_rights_or_choices,cosmicfish
+90477173,FALSE,3,7/27/2011 6:41,Against,1,,32,409192893_1310027322001,Thu 21 May 2009 06:54 AM,abortion_as_rights_or_choices,Fightdirector
+90477174,FALSE,3,7/27/2011 8:49,For,0.7007,,33,409192893_1310027322001,Thu 21 May 2009 07:35 AM,abortion_as_rights_or_choices,rayld2
+90477175,FALSE,3,7/27/2011 7:24,Not Sure,0.6359,,34,409192893_1310027322001,Thu 21 May 2009 09:42 AM,abortion_as_rights_or_choices,dragonflyer04
+90477176,FALSE,3,7/27/2011 7:44,For,0.366,,35,409192893_1310027322001,Thu 21 May 2009 11:19 AM,abortion_as_rights_or_choices,mnoble1066
+90477177,FALSE,3,7/27/2011 8:10,For,1,,36,409192893_1310027322001,Thu 21 May 2009 02:28 PM,abortion_as_rights_or_choices,SeaWitch1220
+90477178,FALSE,3,7/27/2011 7:24,For,0.6502,,37,409192893_1310027322001,Thu 21 May 2009 02:38 PM,abortion_as_rights_or_choices,cosmicfish
+90477179,FALSE,3,7/27/2011 6:05,Against,1,,38,409192893_1310027322001,Fri 22 May 2009 03:31 AM,abortion_as_rights_or_choices,mnoble1066
+90477180,FALSE,3,7/27/2011 2:55,For,0.7292,,39,409192893_1310027322001,Fri 22 May 2009 04:42 AM,abortion_as_rights_or_choices,SeaWitch1220
+90477181,FALSE,3,7/27/2011 3:32,For,0.6678,,40,409192893_1310027322001,Fri 22 May 2009 05:39 AM,abortion_as_rights_or_choices,ProgMod
+90477182,FALSE,3,7/27/2011 8:39,For,1,,41,409192893_1310027322001,Fri 22 May 2009 09:18 PM,abortion_as_rights_or_choices,skinman13
+90477183,FALSE,3,7/27/2011 7:04,For,0.709,,42,409192893_1310027322001,Sat 23 May 2009 04:21 PM,abortion_as_rights_or_choices,ColdWarGranny
+90477184,FALSE,3,7/27/2011 7:50,For,0.6352,,43,409192893_1310027322001,Sun 24 May 2009 12:33 AM,abortion_as_rights_or_choices,thorin001
+90477185,FALSE,4,7/27/2011 9:01,For,0.5535,,44,409192893_1310027322001,Sun 24 May 2009 07:11 PM,abortion_as_rights_or_choices,KJ1110
+90477186,FALSE,4,7/27/2011 5:54,For,1,,45,409192893_1310027322001,Tue 02 June 2009 06:27 AM,abortion_as_rights_or_choices,R102v2
+90477187,FALSE,3,7/27/2011 7:28,For,0.6396,,46,409192893_1310027322001,Tue 02 June 2009 06:48 AM,abortion_as_rights_or_choices,soscorpio
+90477188,FALSE,3,7/27/2011 6:57,Not Sure,0.6375,,47,409192893_1310027322001,Tue 02 June 2009 09:42 AM,abortion_as_rights_or_choices,thorin001
+90477189,FALSE,3,7/27/2011 5:47,Not Sure,0.6829,,48,409192893_1310027322001,Tue 02 June 2009 12:16 PM,abortion_as_rights_or_choices,soscorpio
+90477190,FALSE,3,7/27/2011 8:13,Against,0.6743,,49,409192893_1310027322001,Tue 02 June 2009 12:23 PM,abortion_as_rights_or_choices,L0A1
+90477191,FALSE,3,7/27/2011 7:12,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477192,FALSE,3,7/27/2011 7:03,Against,0.7324,,1,409192893_6200039561001,Wed 23 January 2008 07:59 AM,abortion_as_rights_or_choices,Fightdirector
+90477193,FALSE,3,7/27/2011 8:03,For,1,,2,409192893_6200039561001,Wed 23 January 2008 08:06 AM,abortion_as_rights_or_choices,sweetsuds
+90477194,FALSE,3,7/27/2011 7:56,For,1,,3,409192893_6200039561001,Wed 23 January 2008 08:18 AM,abortion_as_rights_or_choices,LRS51st
+90477195,FALSE,3,7/27/2011 9:27,For,0.7095,,4,409192893_6200039561001,Wed 23 January 2008 08:21 AM,abortion_as_rights_or_choices,rm444
+90477196,FALSE,3,7/27/2011 3:32,For,0.6914,,5,409192893_6200039561001,Wed 23 January 2008 08:24 AM,abortion_as_rights_or_choices,Fightdirector
+90477197,FALSE,3,7/27/2011 7:43,Not Sure,1,,6,409192893_6200039561001,Wed 23 January 2008 08:26 AM,abortion_as_rights_or_choices,Killswitch_Engage
+90477198,FALSE,3,7/27/2011 6:17,Against,0.3685,,7,409192893_6200039561001,Wed 23 January 2008 08:31 AM,abortion_as_rights_or_choices,OrangeCat97
+90477199,FALSE,3,7/27/2011 4:14,Against,0.6843,,8,409192893_6200039561001,Wed 23 January 2008 08:34 AM,abortion_as_rights_or_choices,Fightdirector
+90477200,FALSE,3,7/27/2011 7:21,Not Sure,0.6273,,9,409192893_6200039561001,Wed 23 January 2008 08:54 AM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477201,FALSE,3,7/27/2011 6:25,Not Sure,1,,10,409192893_6200039561001,Wed 23 January 2008 09:43 AM,abortion_as_rights_or_choices,The_Bonesaw
+90477202,FALSE,3,7/27/2011 7:17,For,0.6452,,11,409192893_6200039561001,Wed 23 January 2008 09:53 AM,abortion_as_rights_or_choices,PSimon572
+90477203,FALSE,3,7/27/2011 6:32,Not Sure,1,,12,409192893_6200039561001,Wed 23 January 2008 10:00 AM,abortion_as_rights_or_choices,rm444
+90477204,FALSE,3,7/27/2011 8:45,For,1,,13,409192893_6200039561001,Wed 23 January 2008 10:53 AM,abortion_as_rights_or_choices,OrangeCat97
+90477205,FALSE,3,7/27/2011 8:45,For,0.3623,,14,409192893_6200039561001,Wed 23 January 2008 11:59 AM,abortion_as_rights_or_choices,boughtwaprice
+90477206,FALSE,3,7/27/2011 7:37,Against,0.643,,15,409192893_6200039561001,Wed 23 January 2008 12:07 PM,abortion_as_rights_or_choices,PUFFBOY
+90477207,FALSE,3,7/27/2011 2:19,For,0.6352,,16,409192893_6200039561001,Wed 23 January 2008 12:14 PM,abortion_as_rights_or_choices,torkel
+90477208,FALSE,3,7/27/2011 7:41,For,1,,17,409192893_6200039561001,Wed 23 January 2008 12:21 PM,abortion_as_rights_or_choices,WhoFreak
+90477209,FALSE,3,7/27/2011 7:46,For,0.6137,,18,409192893_6200039561001,Wed 23 January 2008 01:04 PM,abortion_as_rights_or_choices,LRS51st
+90477210,FALSE,4,7/27/2011 8:56,Against,0.7419,,19,409192893_6200039561001,Wed 23 January 2008 01:42 PM,abortion_as_rights_or_choices,Tomcatt
+90477211,FALSE,3,7/27/2011 4:53,Not Sure,0.6361,,20,409192893_6200039561001,Wed 23 January 2008 01:51 PM,abortion_as_rights_or_choices,alcyone
+90477212,FALSE,3,7/27/2011 7:30,For,1,,21,409192893_6200039561001,Wed 23 January 2008 01:54 PM,abortion_as_rights_or_choices,FriscoLady01
+90477213,FALSE,3,7/27/2011 7:19,Against,1,,22,409192893_6200039561001,Wed 23 January 2008 01:56 PM,abortion_as_rights_or_choices,Kegler300
+90477214,FALSE,3,7/27/2011 4:21,Not Sure,0.6572,,23,409192893_6200039561001,Wed 23 January 2008 02:04 PM,abortion_as_rights_or_choices,scottrj50
+90477215,FALSE,3,7/27/2011 5:41,Against,0.7167,,24,409192893_6200039561001,Wed 23 January 2008 02:16 PM,abortion_as_rights_or_choices,navy8086
+90477216,FALSE,3,7/27/2011 4:15,Not Sure,0.7027,,25,409192893_6200039561001,Wed 23 January 2008 02:21 PM,abortion_as_rights_or_choices,LRS51st
+90477217,FALSE,3,7/27/2011 7:10,Against,1,,26,409192893_6200039561001,Wed 23 January 2008 02:22 PM,abortion_as_rights_or_choices,scottrj50
+90477218,FALSE,3,7/27/2011 8:53,For,1,,27,409192893_6200039561001,Wed 23 January 2008 02:23 PM,abortion_as_rights_or_choices,FriscoLady01
+90477219,FALSE,3,7/27/2011 7:19,Not Sure,0.6201,,28,409192893_6200039561001,Wed 23 January 2008 02:27 PM,abortion_as_rights_or_choices,LRS51st
+90477220,FALSE,3,7/27/2011 6:54,Not Sure,0.646,,29,409192893_6200039561001,Wed 23 January 2008 02:28 PM,abortion_as_rights_or_choices,Opfor6
+90477221,FALSE,3,7/27/2011 8:51,Not Sure,0.6496,,30,409192893_6200039561001,Wed 23 January 2008 02:38 PM,abortion_as_rights_or_choices,scottrj50
+90477222,FALSE,3,7/27/2011 3:54,Not Sure,0.6371,,31,409192893_6200039561001,Wed 23 January 2008 02:41 PM,abortion_as_rights_or_choices,beatch71
+90477223,FALSE,3,7/27/2011 8:47,Against,0.6546,,32,409192893_6200039561001,Wed 23 January 2008 02:43 PM,abortion_as_rights_or_choices,pken
+90477224,FALSE,3,7/27/2011 6:09,For,1,,33,409192893_6200039561001,Wed 23 January 2008 02:47 PM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477225,FALSE,3,7/27/2011 7:22,Against,1,,34,409192893_6200039561001,Wed 23 January 2008 03:14 PM,abortion_as_rights_or_choices,navy8086
+90477226,FALSE,3,7/27/2011 7:41,For,0.7285,,35,409192893_6200039561001,Wed 23 January 2008 03:21 PM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477227,FALSE,4,7/27/2011 6:44,For,0.5243,,36,409192893_6200039561001,Wed 23 January 2008 03:23 PM,abortion_as_rights_or_choices,rm444
+90477228,FALSE,3,7/27/2011 4:37,For,0.7006,,37,409192893_6200039561001,Wed 23 January 2008 03:31 PM,abortion_as_rights_or_choices,Duster6
+90477229,FALSE,3,7/27/2011 4:29,Not Sure,1,,38,409192893_6200039561001,Wed 23 January 2008 03:55 PM,abortion_as_rights_or_choices,aggie_swife
+90477230,FALSE,3,7/27/2011 7:17,For,1,,39,409192893_6200039561001,Wed 23 January 2008 05:45 PM,abortion_as_rights_or_choices,PhoenixDark
+90477231,FALSE,3,7/27/2011 6:03,For,1,,40,409192893_6200039561001,Wed 23 January 2008 05:57 PM,abortion_as_rights_or_choices,PSimon572
+90477232,FALSE,3,7/27/2011 7:49,For,0.7138,,41,409192893_6200039561001,Wed 23 January 2008 06:01 PM,abortion_as_rights_or_choices,marineJacksonsgirl
+90477233,FALSE,3,7/27/2011 8:12,For,0.7165,,42,409192893_6200039561001,Wed 23 January 2008 06:11 PM,abortion_as_rights_or_choices,sweetsuds
+90477234,FALSE,3,7/27/2011 6:22,Against,1,,43,409192893_6200039561001,Wed 23 January 2008 06:11 PM,abortion_as_rights_or_choices,aggie_swife
+90477235,FALSE,4,7/27/2011 5:32,Not Sure,1,,44,409192893_6200039561001,Wed 23 January 2008 06:19 PM,abortion_as_rights_or_choices,sweetsuds
+90477236,FALSE,3,7/27/2011 8:49,Not Sure,0.6667,,45,409192893_6200039561001,Wed 23 January 2008 07:58 PM,abortion_as_rights_or_choices,aggie_swife
+90477237,FALSE,3,7/27/2011 8:47,For,1,,46,409192893_6200039561001,Wed 23 January 2008 08:21 PM,abortion_as_rights_or_choices,liberal90
+90477238,FALSE,3,7/27/2011 6:41,Against,1,,47,409192893_6200039561001,Wed 23 January 2008 08:31 PM,abortion_as_rights_or_choices,OldUSAFSniper
+90477239,FALSE,3,7/27/2011 8:06,Against,0.6399,,48,409192893_6200039561001,Wed 23 January 2008 11:15 PM,abortion_as_rights_or_choices,Opfor6
+90477240,FALSE,3,7/27/2011 8:05,Against,1,,49,409192893_6200039561001,Wed 23 January 2008 11:25 PM,abortion_as_rights_or_choices,undercoversister
+90477241,FALSE,3,7/27/2011 7:12,Against,0.3819,,50,409192893_6200039561001,Wed 23 January 2008 11:47 PM,abortion_as_rights_or_choices,Opfor6
+90477242,FALSE,3,7/27/2011 7:36,Against,0.6757,,51,409192893_6200039561001,Thu 24 January 2008 07:28 AM,abortion_as_rights_or_choices,Fightdirector
+90477243,FALSE,3,7/27/2011 7:31,For,0.3656,,52,409192893_6200039561001,Thu 24 January 2008 08:33 AM,abortion_as_rights_or_choices,pken
+90477244,FALSE,3,7/27/2011 8:09,Not Sure,0.3367,,53,409192893_6200039561001,Thu 24 January 2008 09:23 AM,abortion_as_rights_or_choices,Fightdirector
+90477245,FALSE,3,7/27/2011 6:41,Not Sure,1,,54,409192893_6200039561001,Thu 24 January 2008 09:55 AM,abortion_as_rights_or_choices,oldmole
+90477246,FALSE,3,7/27/2011 7:34,Not Sure,0.6258,,55,409192893_6200039561001,Thu 24 January 2008 10:13 AM,abortion_as_rights_or_choices,rm444
+90477249,FALSE,3,7/27/2011 0:53,Not Sure,0.705,,56,409192893_6200039561001,Thu 24 January 2008 10:59 AM,abortion_as_rights_or_choices,LRS51st
+90477250,FALSE,3,7/27/2011 6:55,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477251,FALSE,3,7/27/2011 6:23,For,0.6365,,1,409192893_3440079132001,Wed 26 August 2009 08:05 PM,US_healthcare_reform,SeaWitch1220
+90477252,FALSE,3,7/27/2011 6:30,For,0.6486,,2,409192893_3440079132001,Wed 26 August 2009 08:12 PM,US_healthcare_reform,Thud357L
+90477253,FALSE,3,7/27/2011 7:46,Not Sure,0.3997,,3,409192893_3440079132001,Wed 26 August 2009 08:19 PM,US_healthcare_reform,ACR26
+90477254,FALSE,3,7/27/2011 5:57,Not Sure,0.3801,,4,409192893_3440079132001,Wed 26 August 2009 08:22 PM,US_healthcare_reform,SeaWitch1220
+90477255,FALSE,3,7/27/2011 5:43,Against,0.3629,,5,409192893_3440079132001,Wed 26 August 2009 08:24 PM,US_healthcare_reform,Tomcatt
+90477256,FALSE,3,7/27/2011 5:53,Not Sure,0.6712,,6,409192893_3440079132001,Wed 26 August 2009 08:26 PM,US_healthcare_reform,SeaWitch1220
+90477257,FALSE,3,7/27/2011 6:45,Not Sure,1,,7,409192893_3440079132001,Wed 26 August 2009 08:28 PM,US_healthcare_reform,Tomcatt
+90477258,FALSE,3,7/27/2011 7:17,Not Sure,0.6389,,8,409192893_3440079132001,Wed 26 August 2009 08:59 PM,US_healthcare_reform,Dave_M
+90477259,FALSE,3,7/27/2011 8:55,For,0.6855,,9,409192893_3440079132001,Wed 26 August 2009 09:22 PM,US_healthcare_reform,Navy_Grunt
+90477260,FALSE,3,7/27/2011 8:01,Not Sure,1,,10,409192893_3440079132001,Wed 26 August 2009 10:17 PM,US_healthcare_reform,dragonflyer04
+90477261,FALSE,3,7/27/2011 7:04,For,0.7226,,11,409192893_3440079132001,Fri 28 August 2009 12:47 AM,US_healthcare_reform,Thud357L
+90477262,FALSE,3,7/27/2011 6:33,Against,0.6629,,12,409192893_3440079132001,Fri 28 August 2009 02:26 AM,US_healthcare_reform,Duster6
+90477263,FALSE,3,7/27/2011 6:06,For,0.6743,,13,409192893_3440079132001,Fri 28 August 2009 10:24 AM,US_healthcare_reform,Thud357L
+90477264,FALSE,4,7/27/2011 9:00,Against,0.5165,,14,409192893_3440079132001,Fri 28 August 2009 11:46 AM,US_healthcare_reform,67NOV
+90477265,FALSE,3,7/27/2011 7:37,Against,0.3594,,15,409192893_3440079132001,Fri 28 August 2009 12:38 PM,US_healthcare_reform,peter3_1
+90477266,FALSE,3,7/27/2011 5:41,Not Sure,0.353,,16,409192893_3440079132001,Mon 31 August 2009 03:35 PM,US_healthcare_reform,Thud357L
+90477267,FALSE,3,7/27/2011 7:27,Against,0.6273,,17,409192893_3440079132001,Mon 31 August 2009 10:21 PM,US_healthcare_reform,2nd_freedomfighter
+90477268,FALSE,3,7/27/2011 5:04,For,1,,18,409192893_3440079132001,Tue 01 September 2009 05:21 AM,US_healthcare_reform,SeaWitch1220
+90477269,FALSE,3,7/27/2011 8:49,Not Sure,0.3567,,19,409192893_3440079132001,Tue 01 September 2009 06:23 AM,US_healthcare_reform,67NOV
+90477270,FALSE,3,7/27/2011 6:34,For,0.6896,,20,409192893_3440079132001,Tue 01 September 2009 06:30 AM,US_healthcare_reform,Esample1
+90477271,FALSE,4,7/27/2011 7:03,Against,0.7974,,21,409192893_3440079132001,Tue 01 September 2009 06:42 AM,US_healthcare_reform,67NOV
+90477272,FALSE,3,7/27/2011 8:12,Not Sure,0.6771,,22,409192893_3440079132001,Wed 02 September 2009 12:35 PM,US_healthcare_reform,MaxwellEdison
+90477273,FALSE,3,7/27/2011 8:42,Not Sure,0.6804,,23,409192893_3440079132001,Wed 02 September 2009 02:09 PM,US_healthcare_reform,2nd_freedomfighter
+90477274,FALSE,3,7/27/2011 6:02,For,0.7116,,24,409192893_3440079132001,Wed 02 September 2009 03:59 PM,US_healthcare_reform,Bladensburg
+90477275,FALSE,3,7/27/2011 6:31,Against,1,,25,409192893_3440079132001,Wed 02 September 2009 04:55 PM,US_healthcare_reform,RogerCollins
+90477276,FALSE,3,7/27/2011 6:09,For,0.6816,,26,409192893_3440079132001,Thu 03 September 2009 05:13 AM,US_healthcare_reform,SeaWitch1220
+90477277,FALSE,3,7/27/2011 6:52,Against,1,,27,409192893_3440079132001,Thu 03 September 2009 05:22 AM,US_healthcare_reform,mnoble1066
+90477278,FALSE,3,7/27/2011 8:11,For,1,,28,409192893_3440079132001,Thu 03 September 2009 06:14 AM,US_healthcare_reform,SeaWitch1220
+90477279,FALSE,4,7/27/2011 6:55,For,0.4792,,29,409192893_3440079132001,Thu 03 September 2009 06:31 AM,US_healthcare_reform,mnoble1066
+90477280,FALSE,3,7/27/2011 8:59,For,0.6582,,30,409192893_3440079132001,Thu 03 September 2009 10:01 AM,US_healthcare_reform,RogerCollins
+90477281,FALSE,3,7/27/2011 7:29,For,0.368,,31,409192893_3440079132001,Fri 04 September 2009 08:46 PM,US_healthcare_reform,2nd_freedomfighter
+90477282,FALSE,3,7/27/2011 8:58,For,0.3615,,32,409192893_3440079132001,Sat 05 September 2009 06:52 AM,US_healthcare_reform,SeaWitch1220
+90477283,FALSE,3,7/27/2011 8:01,Not Sure,1,,33,409192893_3440079132001,Sat 05 September 2009 06:54 AM,US_healthcare_reform,2494906
+90477284,FALSE,3,7/27/2011 7:04,Against,0.6593,,34,409192893_3440079132001,Sat 05 September 2009 08:26 AM,US_healthcare_reform,RogerCollins
+90477285,FALSE,3,7/27/2011 9:06,Against,0.662,,35,409192893_3440079132001,Sat 05 September 2009 08:56 AM,US_healthcare_reform,RogerCollins
+90477286,FALSE,3,7/27/2011 7:32,Not Sure,0.6389,,36,409192893_3440079132001,Sun 06 September 2009 12:47 AM,US_healthcare_reform,2nd_freedomfighter
+90477287,FALSE,3,7/27/2011 4:22,Not Sure,1,,37,409192893_3440079132001,Sun 06 September 2009 05:08 AM,US_healthcare_reform,SeaWitch1220
+90477288,FALSE,3,7/27/2011 5:12,Against,1,,38,409192893_3440079132001,Sun 06 September 2009 10:06 AM,US_healthcare_reform,RogerCollins
+90477289,FALSE,3,7/27/2011 7:05,Not Sure,0.3642,,39,409192893_3440079132001,Sun 06 September 2009 10:17 AM,US_healthcare_reform,RogerCollins
+90477290,FALSE,3,7/27/2011 7:29,Against,1,,40,409192893_3440079132001,Sun 06 September 2009 10:22 AM,US_healthcare_reform,Azurerepublic
+90477291,FALSE,3,7/27/2011 7:13,For,0.6642,,41,409192893_3440079132001,Sun 06 September 2009 01:24 PM,US_healthcare_reform,2nd_freedomfighter
+90477292,FALSE,3,7/27/2011 8:03,For,0.6257,,42,409192893_3440079132001,Sun 06 September 2009 05:02 PM,US_healthcare_reform,RogerCollins
+90477293,FALSE,3,7/27/2011 8:47,For,1,,43,409192893_3440079132001,Sun 06 September 2009 06:53 PM,US_healthcare_reform,Dave_M
+90477294,FALSE,4,7/27/2011 9:00,For,1,,44,409192893_3440079132001,Mon 07 September 2009 01:18 AM,US_healthcare_reform,2nd_freedomfighter
+90477295,FALSE,3,7/27/2011 8:20,For,0.6226,,45,409192893_3440079132001,Mon 07 September 2009 04:45 AM,US_healthcare_reform,SeaWitch1220
+90477296,FALSE,3,7/27/2011 7:01,For,0.6303,,46,409192893_3440079132001,Mon 07 September 2009 05:22 AM,US_healthcare_reform,I_M_Qwerty
+90477297,FALSE,4,7/27/2011 7:03,For,0.7839,,47,409192893_3440079132001,Mon 07 September 2009 05:59 AM,US_healthcare_reform,SeaWitch1220
+90477298,FALSE,3,7/27/2011 5:48,For,0.6578,,48,409192893_3440079132001,Mon 07 September 2009 07:49 AM,US_healthcare_reform,Dave_M
+90477299,FALSE,3,7/27/2011 7:41,For,0.6293,,49,409192893_3440079132001,Mon 07 September 2009 08:05 AM,US_healthcare_reform,RogerCollins
+90477300,FALSE,3,7/27/2011 8:53,Not Sure,0.6678,,50,409192893_3440079132001,Mon 07 September 2009 08:08 AM,US_healthcare_reform,RogerCollins
+90477301,FALSE,3,7/27/2011 5:33,Not Sure,0.6929,,51,409192893_3440079132001,Mon 07 September 2009 08:43 AM,US_healthcare_reform,Dave_M
+90477302,FALSE,3,7/27/2011 3:54,Not Sure,0.6513,,52,409192893_3440079132001,Mon 07 September 2009 08:48 AM,US_healthcare_reform,I_M_Qwerty
+90477303,FALSE,3,7/27/2011 7:39,Not Sure,0.6894,,53,409192893_3440079132001,Mon 07 September 2009 08:53 AM,US_healthcare_reform,RogerCollins
+90477304,FALSE,3,7/27/2011 6:30,Not Sure,0.6767,,54,409192893_3440079132001,Mon 07 September 2009 09:25 AM,US_healthcare_reform,Dave_M
+90477305,FALSE,3,7/27/2011 7:31,For,0.649,,55,409192893_3440079132001,Mon 07 September 2009 09:43 AM,US_healthcare_reform,I_M_Qwerty
+90477306,FALSE,3,7/27/2011 8:57,Not Sure,0.6606,,56,409192893_3440079132001,Mon 07 September 2009 10:34 AM,US_healthcare_reform,Dave_M
+90477307,FALSE,3,7/27/2011 9:06,For,1,,57,409192893_3440079132001,Mon 07 September 2009 11:10 AM,US_healthcare_reform,rcjarrell
+90477308,FALSE,3,7/27/2011 7:07,For,0.7165,,58,409192893_3440079132001,Mon 07 September 2009 11:45 AM,US_healthcare_reform,Dave_M
+90477309,FALSE,3,7/27/2011 6:25,Against,0.6923,,59,409192893_3440079132001,Mon 07 September 2009 01:31 PM,US_healthcare_reform,2nd_freedomfighter
+90477310,FALSE,3,7/27/2011 7:48,Against,0.6848,,60,409192893_3440079132001,Mon 07 September 2009 04:20 PM,US_healthcare_reform,RogerCollins
+90477311,FALSE,4,7/27/2011 9:01,For,0.5208,,61,409192893_3440079132001,Mon 07 September 2009 04:36 PM,US_healthcare_reform,RogerCollins
+90477312,FALSE,3,7/27/2011 5:55,For,0.6429,,62,409192893_3440079132001,Mon 07 September 2009 05:36 PM,US_healthcare_reform,Dave_M
+90477313,FALSE,3,7/27/2011 6:10,For,0.6871,,63,409192893_3440079132001,Mon 07 September 2009 06:14 PM,US_healthcare_reform,rcjarrell
+90477314,FALSE,3,7/27/2011 5:03,Not Sure,0.6223,,64,409192893_3440079132001,Tue 08 September 2009 05:45 AM,US_healthcare_reform,SeaWitch1220
+90477315,FALSE,3,7/27/2011 8:48,For,0.6928,,65,409192893_3440079132001,Tue 08 September 2009 07:13 AM,US_healthcare_reform,RogerCollins
+90477316,FALSE,3,7/27/2011 6:54,Against,0.6885,,66,409192893_3440079132001,Tue 08 September 2009 07:24 AM,US_healthcare_reform,ELLIOTT1980
+90477317,FALSE,3,7/27/2011 7:34,Against,0.7027,,67,409192893_3440079132001,Tue 08 September 2009 07:30 AM,US_healthcare_reform,rcjarrell
+90477318,FALSE,3,7/27/2011 5:40,For,0.6747,,68,409192893_3440079132001,Tue 08 September 2009 07:41 AM,US_healthcare_reform,RogerCollins
+90477319,FALSE,3,7/27/2011 7:36,Not Sure,0.6316,,69,409192893_3440079132001,Tue 08 September 2009 10:31 AM,US_healthcare_reform,rcjarrell
+90477320,FALSE,3,7/27/2011 4:15,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477321,FALSE,3,7/27/2011 7:22,For,0.625,,1,409192893_1200067442001,Sun 14 February 2010 06:22 AM,US_healthcare_reform,SenClaghorn
+90477322,FALSE,3,7/27/2011 3:28,Not Sure,1,,2,409192893_1200067442001,Sun 14 February 2010 08:12 AM,US_healthcare_reform,Johnny_B
+90477323,FALSE,3,7/27/2011 8:06,Not Sure,1,,3,409192893_1200067442001,Sun 14 February 2010 08:16 AM,US_healthcare_reform,SenClaghorn
+90477324,FALSE,3,7/27/2011 7:17,Against,0.6958,,4,409192893_1200067442001,Sun 14 February 2010 08:45 AM,US_healthcare_reform,Fighterpilotmafia
+90477325,FALSE,3,7/27/2011 7:15,Not Sure,0.6826,,5,409192893_1200067442001,Sun 14 February 2010 08:59 AM,US_healthcare_reform,SenClaghorn
+90477326,FALSE,3,7/27/2011 7:04,Against,1,,6,409192893_1200067442001,Sun 14 February 2010 09:19 AM,US_healthcare_reform,Fighterpilotmafia
+90477327,FALSE,4,7/27/2011 5:58,Against,0.7635,,7,409192893_1200067442001,Sun 14 February 2010 09:27 AM,US_healthcare_reform,GRAYMAN
+90477328,FALSE,3,7/27/2011 6:59,Not Sure,0.6562,,8,409192893_1200067442001,Sun 14 February 2010 09:28 AM,US_healthcare_reform,SenClaghorn
+90477329,FALSE,3,7/27/2011 6:58,For,0.6494,,9,409192893_1200067442001,Sun 14 February 2010 09:37 AM,US_healthcare_reform,RogerCollins
+90477330,FALSE,3,7/27/2011 8:15,For,0.6561,,10,409192893_1200067442001,Sun 14 February 2010 09:50 AM,US_healthcare_reform,billbright
+90477331,FALSE,3,7/27/2011 1:08,Against,1,,11,409192893_1200067442001,Sun 14 February 2010 10:12 AM,US_healthcare_reform,RogerCollins
+90477332,FALSE,3,7/27/2011 8:43,Against,0.3417,,12,409192893_1200067442001,Sun 14 February 2010 10:27 AM,US_healthcare_reform,billbright
+90477333,FALSE,3,7/27/2011 6:09,Not Sure,1,,13,409192893_1200067442001,Sun 14 February 2010 11:00 AM,US_healthcare_reform,RogerCollins
+90477334,FALSE,4,7/27/2011 6:28,Against,0.5071,,14,409192893_1200067442001,Sun 14 February 2010 12:43 PM,US_healthcare_reform,backtoiraq
+90477335,FALSE,3,7/27/2011 7:25,Not Sure,0.6216,,15,409192893_1200067442001,Sun 14 February 2010 01:57 PM,US_healthcare_reform,RogerCollins
+90477336,FALSE,3,7/27/2011 7:26,Against,0.6579,,16,409192893_1200067442001,Sun 14 February 2010 02:32 PM,US_healthcare_reform,tawodi
+90477337,FALSE,3,7/27/2011 8:08,Against,1,,17,409192893_1200067442001,Sun 14 February 2010 07:18 PM,US_healthcare_reform,Johnny_B
+90477338,FALSE,3,7/27/2011 7:40,For,0.6891,,18,409192893_1200067442001,Sun 14 February 2010 07:47 PM,US_healthcare_reform,SenClaghorn
+90477339,FALSE,3,7/27/2011 7:19,For,0.7047,,19,409192893_1200067442001,Mon 15 February 2010 12:26 AM,US_healthcare_reform,scooter_mech
+90477340,FALSE,3,7/27/2011 6:31,Against,0.7132,,20,409192893_1200067442001,Mon 15 February 2010 04:14 AM,US_healthcare_reform,Kegler300
+90477341,FALSE,3,7/27/2011 6:31,Against,0.3462,,21,409192893_1200067442001,Mon 15 February 2010 06:02 AM,US_healthcare_reform,SeaWitch1220
+90477342,FALSE,4,7/27/2011 5:48,Against,1,,22,409192893_1200067442001,Mon 15 February 2010 07:08 AM,US_healthcare_reform,Johnny_B
+90477343,FALSE,3,7/27/2011 6:22,Not Sure,0.6667,,23,409192893_1200067442001,Mon 15 February 2010 07:27 AM,US_healthcare_reform,RogerCollins
+90477344,FALSE,4,7/27/2011 9:00,Against,0.5153,,24,409192893_1200067442001,Mon 15 February 2010 08:43 AM,US_healthcare_reform,SenClaghorn
+90477345,FALSE,3,7/27/2011 8:40,Against,0.6353,,25,409192893_1200067442001,Mon 15 February 2010 08:51 AM,US_healthcare_reform,ELLIOTT1980
+90477346,FALSE,3,7/27/2011 9:08,For,0.3596,,26,409192893_1200067442001,Mon 15 February 2010 08:57 AM,US_healthcare_reform,EarnestWillUSN
+90477347,FALSE,3,7/27/2011 8:43,For,0.3681,,27,409192893_1200067442001,Mon 15 February 2010 08:59 AM,US_healthcare_reform,godawgz
+90477348,FALSE,3,7/27/2011 8:06,Against,0.3862,,28,409192893_1200067442001,Mon 15 February 2010 09:01 AM,US_healthcare_reform,ELLIOTT1980
+90477351,FALSE,3,7/27/2011 7:33,Against,0.6473,,29,409192893_1200067442001,Mon 15 February 2010 09:07 AM,US_healthcare_reform,godawgz
+90477352,FALSE,3,7/27/2011 8:58,For,1,,30,409192893_1200067442001,Mon 15 February 2010 09:08 AM,US_healthcare_reform,EarnestWillUSN
+90477353,FALSE,3,7/27/2011 7:16,For,0.6317,,31,409192893_1200067442001,Mon 15 February 2010 09:26 AM,US_healthcare_reform,SenClaghorn
+90477354,FALSE,3,7/27/2011 6:31,Not Sure,0.6869,,32,409192893_1200067442001,Mon 15 February 2010 09:29 AM,US_healthcare_reform,ACR26
+90477355,FALSE,4,7/27/2011 7:15,Not Sure,0.7255,,33,409192893_1200067442001,Mon 15 February 2010 09:31 AM,US_healthcare_reform,ACR26
+90477356,FALSE,3,7/27/2011 7:53,Against,0.6381,,34,409192893_1200067442001,Mon 15 February 2010 09:36 AM,US_healthcare_reform,ELLIOTT1980
+90477357,FALSE,3,7/27/2011 8:08,Not Sure,0.6364,,35,409192893_1200067442001,Mon 15 February 2010 09:38 AM,US_healthcare_reform,ELLIOTT1980
+90477358,FALSE,3,7/27/2011 8:45,Against,0.6612,,36,409192893_1200067442001,Mon 15 February 2010 09:39 AM,US_healthcare_reform,SenClaghorn
+90477359,FALSE,3,7/27/2011 8:50,Against,0.3625,,37,409192893_1200067442001,Mon 15 February 2010 10:22 AM,US_healthcare_reform,Fighterpilotmafia
+90477360,FALSE,3,7/27/2011 7:31,Not Sure,0.7075,,38,409192893_1200067442001,Mon 15 February 2010 10:22 AM,US_healthcare_reform,ipw533
+90477361,FALSE,3,7/27/2011 7:30,Not Sure,0.7174,,39,409192893_1200067442001,Mon 15 February 2010 10:23 AM,US_healthcare_reform,Fighterpilotmafia
+90477362,FALSE,3,7/27/2011 8:47,Not Sure,0.6534,,40,409192893_1200067442001,Mon 15 February 2010 10:24 AM,US_healthcare_reform,Fighterpilotmafia
+90477363,FALSE,3,7/27/2011 7:34,Against,1,,41,409192893_1200067442001,Mon 15 February 2010 10:26 AM,US_healthcare_reform,Johnny_B
+90477364,FALSE,3,7/27/2011 7:47,Against,0.6296,,42,409192893_1200067442001,Mon 15 February 2010 10:27 AM,US_healthcare_reform,godawgz
+90477365,FALSE,3,7/27/2011 8:50,For,0.6438,,43,409192893_1200067442001,Mon 15 February 2010 10:43 AM,US_healthcare_reform,EarnestWillUSN
+90477366,FALSE,3,7/27/2011 8:13,Not Sure,1,,44,409192893_1200067442001,Mon 15 February 2010 10:50 AM,US_healthcare_reform,billbright
+90477367,FALSE,3,7/27/2011 7:34,Not Sure,0.6188,,45,409192893_1200067442001,Mon 15 February 2010 10:59 AM,US_healthcare_reform,ipw533
+90477368,FALSE,3,7/27/2011 7:05,Not Sure,1,,46,409192893_1200067442001,Mon 15 February 2010 11:02 AM,US_healthcare_reform,reducetension
+90477369,FALSE,3,7/27/2011 7:30,Not Sure,1,,47,409192893_1200067442001,Mon 15 February 2010 11:11 AM,US_healthcare_reform,ELLIOTT1980
+90477370,FALSE,4,7/27/2011 8:10,Not Sure,0.7505,,48,409192893_1200067442001,Mon 15 February 2010 11:25 AM,US_healthcare_reform,ipw533
+90477371,FALSE,4,7/27/2011 6:02,For,0.5002,,49,409192893_1200067442001,Mon 15 February 2010 11:47 AM,US_healthcare_reform,EarnestWillUSN
+90477372,FALSE,3,7/27/2011 6:27,Not Sure,0.7285,,50,409192893_1200067442001,Mon 15 February 2010 11:49 AM,US_healthcare_reform,EarnestWillUSN
+90477373,FALSE,3,7/27/2011 7:36,Not Sure,1,,51,409192893_1200067442001,Mon 15 February 2010 11:53 AM,US_healthcare_reform,10tenths
+90477374,FALSE,3,7/27/2011 7:22,Not Sure,1,,52,409192893_1200067442001,Mon 15 February 2010 12:09 PM,US_healthcare_reform,reducetension
+90477375,FALSE,4,7/27/2011 9:00,For,0.5088,,53,409192893_1200067442001,Mon 15 February 2010 03:14 PM,US_healthcare_reform,SenClaghorn
+90477376,FALSE,3,7/27/2011 8:57,For,1,,54,409192893_1200067442001,Mon 15 February 2010 04:03 PM,US_healthcare_reform,Johnny_B
+90477377,FALSE,3,7/27/2011 6:20,Not Sure,1,,55,409192893_1200067442001,Mon 15 February 2010 04:49 PM,US_healthcare_reform,RogerCollins
+90477378,FALSE,3,7/27/2011 0:08,Against,0.6466,,56,409192893_1200067442001,Mon 15 February 2010 05:29 PM,US_healthcare_reform,SenClaghorn
+90477380,FALSE,3,7/27/2011 7:21,Against,1,,57,409192893_1200067442001,Mon 15 February 2010 06:13 PM,US_healthcare_reform,ipw533
+90477381,FALSE,3,7/27/2011 6:05,Not Sure,0.3428,,58,409192893_1200067442001,Mon 15 February 2010 06:49 PM,US_healthcare_reform,SenClaghorn
+90477382,FALSE,3,7/27/2011 8:20,Not Sure,0.35,,59,409192893_1200067442001,Mon 15 February 2010 07:10 PM,US_healthcare_reform,EarnestWillUSN
+90477383,FALSE,3,7/27/2011 6:00,Against,1,,60,409192893_1200067442001,Mon 15 February 2010 07:18 PM,US_healthcare_reform,Mom2APAJ
+90477384,FALSE,3,7/27/2011 7:40,Against,0.6479,,61,409192893_1200067442001,Tue 16 February 2010 12:46 PM,US_healthcare_reform,billbright
+90477385,FALSE,3,7/27/2011 7:46,Not Sure,0.6341,,62,409192893_1200067442001,Tue 16 February 2010 12:58 PM,US_healthcare_reform,ipw533
+90477386,FALSE,3,7/27/2011 6:32,Not Sure,0.606,,63,409192893_1200067442001,Wed 17 February 2010 03:57 PM,US_healthcare_reform,john2x
+90477387,FALSE,3,7/27/2011 3:50,Not Sure,1,,64,409192893_1200067442001,Wed 17 February 2010 04:08 PM,US_healthcare_reform,Fighterpilotmafia
+90477388,FALSE,3,7/27/2011 7:29,Against,1,,65,409192893_1200067442001,Wed 17 February 2010 04:09 PM,US_healthcare_reform,godawgz
+90477389,FALSE,3,7/27/2011 8:50,Against,0.335,,66,409192893_1200067442001,Wed 17 February 2010 04:17 PM,US_healthcare_reform,john2x
+90477390,FALSE,3,7/27/2011 8:03,Not Sure,0.6601,,67,409192893_1200067442001,Wed 17 February 2010 08:01 PM,US_healthcare_reform,ELLIOTT1980
+90477391,FALSE,3,7/27/2011 7:29,Not Sure,0.7328,,68,409192893_1200067442001,Thu 18 February 2010 04:45 AM,US_healthcare_reform,godawgz
+90477392,FALSE,3,7/27/2011 7:38,Not Sure,0.713,,69,409192893_1200067442001,Thu 18 February 2010 11:56 AM,US_healthcare_reform,ELLIOTT1980
+90477393,FALSE,3,7/27/2011 8:57,Not Sure,0.6506,,Post ID,Thread ID,Time,Topic,User ID
+90477394,FALSE,3,7/27/2011 3:32,Against,1,,1,409192893_7370029922001,Sat 01 August 2009 06:43 PM,US_healthcare_reform,threerings
+90477395,FALSE,3,7/27/2011 8:46,For,0.6239,,2,409192893_7370029922001,Sat 01 August 2009 06:45 PM,US_healthcare_reform,threerings
+90477396,FALSE,3,7/27/2011 6:47,For,1,,3,409192893_7370029922001,Sat 01 August 2009 07:02 PM,US_healthcare_reform,Yooper_tj
+90477397,FALSE,3,7/27/2011 5:40,Not Sure,0.7122,,4,409192893_7370029922001,Sat 01 August 2009 07:09 PM,US_healthcare_reform,NSNN
+90477398,FALSE,3,7/27/2011 7:26,For,1,,5,409192893_7370029922001,Sat 01 August 2009 07:10 PM,US_healthcare_reform,NSNN
+90477399,FALSE,3,7/27/2011 3:53,Not Sure,0.6797,,6,409192893_7370029922001,Sat 01 August 2009 07:21 PM,US_healthcare_reform,skinman13
+90477400,FALSE,3,7/27/2011 4:14,For,0.679,,7,409192893_7370029922001,Sat 01 August 2009 07:51 PM,US_healthcare_reform,Yooper_tj
+90477401,FALSE,3,7/27/2011 7:13,Against,0.6834,,8,409192893_7370029922001,Sat 01 August 2009 09:13 PM,US_healthcare_reform,jdksfcret
+90477402,FALSE,3,7/27/2011 7:19,Against,0.3407,,9,409192893_7370029922001,Sun 02 August 2009 05:25 AM,US_healthcare_reform,SeaWitch1220
+90477403,FALSE,3,7/27/2011 5:51,Against,0.6388,,10,409192893_7370029922001,Sun 02 August 2009 05:49 AM,US_healthcare_reform,threerings
+90477404,FALSE,3,7/27/2011 8:51,For,1,,11,409192893_7370029922001,Sun 02 August 2009 06:55 AM,US_healthcare_reform,SeaWitch1220
+90477405,FALSE,3,7/27/2011 7:44,Against,0.6811,,12,409192893_7370029922001,Sun 02 August 2009 07:14 AM,US_healthcare_reform,Boots_
+90477406,FALSE,3,7/27/2011 8:24,For,0.7086,,13,409192893_7370029922001,Sun 02 August 2009 07:29 AM,US_healthcare_reform,SeaWitch1220
+90477407,FALSE,3,7/27/2011 8:20,Against,0.672,,14,409192893_7370029922001,Sun 02 August 2009 11:39 AM,US_healthcare_reform,threerings
+90477408,FALSE,4,7/27/2011 7:02,Not Sure,1,,15,409192893_7370029922001,Sun 02 August 2009 11:56 AM,US_healthcare_reform,SeaWitch1220
+90477409,FALSE,3,7/27/2011 5:36,Against,1,,16,409192893_7370029922001,Sun 02 August 2009 12:00 PM,US_healthcare_reform,threerings
+90477410,FALSE,3,7/27/2011 4:23,Not Sure,1,,17,409192893_7370029922001,Sun 02 August 2009 12:03 PM,US_healthcare_reform,threerings
+90477411,FALSE,3,7/27/2011 8:12,Not Sure,0.5942,,18,409192893_7370029922001,Sun 02 August 2009 12:19 PM,US_healthcare_reform,SeaWitch1220
+90477412,FALSE,3,7/27/2011 7:25,Against,0.65,,19,409192893_7370029922001,Sun 02 August 2009 12:28 PM,US_healthcare_reform,SeaWitch1220
+90477413,FALSE,3,7/27/2011 8:02,Against,1,,20,409192893_7370029922001,Sun 02 August 2009 12:51 PM,US_healthcare_reform,threerings
+90477414,FALSE,3,7/27/2011 6:51,Against,0.6834,,21,409192893_7370029922001,Sun 02 August 2009 12:52 PM,US_healthcare_reform,threerings
+90477415,FALSE,3,7/27/2011 7:27,Against,0.6793,,22,409192893_7370029922001,Sun 02 August 2009 03:03 PM,US_healthcare_reform,peter3_1
+90477416,FALSE,3,7/27/2011 6:41,Against,0.6727,,23,409192893_7370029922001,Sun 02 August 2009 06:47 PM,US_healthcare_reform,RRR52
+90477417,FALSE,3,7/27/2011 7:28,Not Sure,1,,24,409192893_7370029922001,Sun 02 August 2009 07:55 PM,US_healthcare_reform,Yooper_tj
+90477418,FALSE,3,7/27/2011 7:55,Against,0.7194,,25,409192893_7370029922001,Tue 04 August 2009 07:55 PM,US_healthcare_reform,RRR52
+90477419,FALSE,3,7/27/2011 6:25,Against,0.6371,,26,409192893_7370029922001,Tue 04 August 2009 08:26 PM,US_healthcare_reform,RRR52
+90477420,FALSE,3,7/27/2011 7:34,For,0.6364,,27,409192893_7370029922001,Tue 04 August 2009 08:33 PM,US_healthcare_reform,RRR52
+90477421,FALSE,3,7/27/2011 7:28,Against,1,,28,409192893_7370029922001,Tue 04 August 2009 08:41 PM,US_healthcare_reform,21796227
+90477422,FALSE,3,7/27/2011 3:54,Against,1,,29,409192893_7370029922001,Tue 04 August 2009 08:41 PM,US_healthcare_reform,CYCLIC_RUNAWAY
+90477423,FALSE,3,7/27/2011 7:36,Against,0.6014,,30,409192893_7370029922001,Tue 04 August 2009 08:44 PM,US_healthcare_reform,21796227
+90477424,FALSE,5,7/27/2011 6:51,Against,0.5586,,31,409192893_7370029922001,Tue 04 August 2009 09:12 PM,US_healthcare_reform,Esample1
+90477425,FALSE,3,7/27/2011 7:22,Not Sure,0.6489,,32,409192893_7370029922001,Tue 04 August 2009 09:16 PM,US_healthcare_reform,tawodi
+90477426,FALSE,3,7/27/2011 0:53,Against,0.6613,,33,409192893_7370029922001,Tue 04 August 2009 09:23 PM,US_healthcare_reform,tawodi
+90477427,FALSE,3,7/27/2011 8:59,For,0.6418,,34,409192893_7370029922001,Tue 04 August 2009 10:03 PM,US_healthcare_reform,Esample1
+90477428,FALSE,3,7/27/2011 0:52,For,0.3575,,35,409192893_7370029922001,Wed 05 August 2009 04:59 AM,US_healthcare_reform,SeaWitch1220
+90477429,FALSE,3,7/27/2011 8:58,For,0.6574,,36,409192893_7370029922001,Wed 05 August 2009 05:30 AM,US_healthcare_reform,DMarkUhler
+90477430,FALSE,3,7/27/2011 7:41,Not Sure,0.6771,,37,409192893_7370029922001,Wed 05 August 2009 05:58 AM,US_healthcare_reform,SeaWitch1220
+90477431,FALSE,3,7/27/2011 7:17,Against,1,,38,409192893_7370029922001,Wed 05 August 2009 06:06 AM,US_healthcare_reform,Boilerman_01
+90477432,FALSE,3,7/27/2011 8:24,For,1,,39,409192893_7370029922001,Wed 05 August 2009 06:16 AM,US_healthcare_reform,SeaWitch1220
+90477433,FALSE,3,7/27/2011 7:42,For,0.6316,,40,409192893_7370029922001,Wed 05 August 2009 06:24 AM,US_healthcare_reform,GunnyRet03
+90477434,FALSE,3,7/27/2011 8:03,Against,0.6395,,41,409192893_7370029922001,Wed 05 August 2009 06:57 AM,US_healthcare_reform,Boilerman_01
+90477435,FALSE,3,7/27/2011 6:50,For,0.6696,,42,409192893_7370029922001,Wed 05 August 2009 07:40 AM,US_healthcare_reform,stormer73
+90477436,FALSE,3,7/27/2011 6:38,For,0.368,,43,409192893_7370029922001,Wed 05 August 2009 07:45 AM,US_healthcare_reform,threerings
+90477437,FALSE,3,7/27/2011 6:35,Not Sure,1,,44,409192893_7370029922001,Wed 05 August 2009 12:37 PM,US_healthcare_reform,ACR26
+90477438,FALSE,3,7/27/2011 7:18,Against,0.6633,,45,409192893_7370029922001,Wed 05 August 2009 12:38 PM,US_healthcare_reform,ACR26
+90477439,FALSE,3,7/27/2011 4:15,Not Sure,1,,46,409192893_7370029922001,Thu 06 August 2009 03:59 AM,US_healthcare_reform,Kegler300
+90477440,FALSE,3,7/27/2011 8:46,For,1,,47,409192893_7370029922001,Thu 06 August 2009 04:47 AM,US_healthcare_reform,SeaWitch1220
+90477441,FALSE,3,7/27/2011 8:48,Not Sure,0.6438,,48,409192893_7370029922001,Thu 06 August 2009 05:09 AM,US_healthcare_reform,Kegler300
+90477442,FALSE,3,7/27/2011 5:59,Against,1,,49,409192893_7370029922001,Thu 06 August 2009 05:12 AM,US_healthcare_reform,GlassOnion
+90477443,FALSE,3,7/27/2011 8:51,For,1,,50,409192893_7370029922001,Thu 06 August 2009 05:27 AM,US_healthcare_reform,SeaWitch1220
+90477444,FALSE,3,7/27/2011 7:20,Against,1,,51,409192893_7370029922001,Thu 06 August 2009 06:42 AM,US_healthcare_reform,ACR26
+90477445,FALSE,3,7/27/2011 4:41,Not Sure,0.6975,,52,409192893_7370029922001,Thu 06 August 2009 02:29 PM,US_healthcare_reform,SeaWitch1220
+90477446,FALSE,3,7/27/2011 6:29,Not Sure,1,,53,409192893_7370029922001,Thu 06 August 2009 02:42 PM,US_healthcare_reform,21796227
+90477447,FALSE,3,7/27/2011 8:10,Not Sure,1,,54,409192893_7370029922001,Thu 06 August 2009 04:53 PM,US_healthcare_reform,threerings
+90477448,FALSE,3,7/27/2011 7:36,Against,1,,55,409192893_7370029922001,Thu 06 August 2009 05:08 PM,US_healthcare_reform,RRR52
+90477449,FALSE,3,7/27/2011 8:02,For,0.7075,,56,409192893_7370029922001,Fri 07 August 2009 05:30 AM,US_healthcare_reform,SeaWitch1220
+90477450,FALSE,4,7/27/2011 9:01,For,0.5345,,57,409192893_7370029922001,Fri 07 August 2009 06:58 AM,US_healthcare_reform,RRR52
+90477451,FALSE,3,7/27/2011 6:30,Against,1,,58,409192893_7370029922001,Fri 07 August 2009 06:59 AM,US_healthcare_reform,L0A1
+90477454,FALSE,3,7/27/2011 8:53,Against,0.6545,,59,409192893_7370029922001,Fri 07 August 2009 07:06 AM,US_healthcare_reform,RRR52
+90477455,FALSE,3,7/27/2011 8:21,Not Sure,0.6851,,60,409192893_7370029922001,Fri 07 August 2009 07:07 AM,US_healthcare_reform,DMarkUhler
+90477456,FALSE,3,7/27/2011 7:14,Not Sure,1,,61,409192893_7370029922001,Fri 07 August 2009 09:03 PM,US_healthcare_reform,tawodi
+90477457,FALSE,3,7/27/2011 7:51,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477458,FALSE,3,7/27/2011 4:57,Against,0.6629,,1,672198221_3750043832001,Thu 19 November 2009 11:43 AM,US_healthcare_reform,I_M_Qwerty
+90477459,FALSE,3,7/27/2011 5:46,Against,0.6095,,2,672198221_3750043832001,Thu 19 November 2009 11:45 AM,US_healthcare_reform,psychoABN
+90477460,FALSE,3,7/27/2011 8:49,Not Sure,0.6445,,3,672198221_3750043832001,Thu 19 November 2009 11:46 AM,US_healthcare_reform,GunnyRet03
+90477461,FALSE,3,7/27/2011 7:05,Not Sure,0.6377,,4,672198221_3750043832001,Thu 19 November 2009 11:49 AM,US_healthcare_reform,SUNLINER81
+90477462,FALSE,3,7/27/2011 8:59,Not Sure,0.7297,,5,672198221_3750043832001,Thu 19 November 2009 12:04 PM,US_healthcare_reform,GunnyRet03
+90477463,FALSE,3,7/27/2011 7:31,Not Sure,0.65,,6,672198221_3750043832001,Thu 19 November 2009 12:29 PM,US_healthcare_reform,L0A1
+90477464,FALSE,3,7/27/2011 8:49,Not Sure,0.6129,,7,672198221_3750043832001,Thu 19 November 2009 12:46 PM,US_healthcare_reform,67NOV
+90477465,FALSE,3,7/27/2011 8:47,Not Sure,0.6834,,8,672198221_3750043832001,Thu 19 November 2009 03:38 PM,US_healthcare_reform,Navy_Grunt
+90477466,FALSE,3,7/27/2011 7:22,Against,1,,9,672198221_3750043832001,Thu 19 November 2009 03:47 PM,US_healthcare_reform,FriscoLady01
+90477467,FALSE,4,7/27/2011 6:47,Not Sure,0.7183,,10,672198221_3750043832001,Thu 19 November 2009 04:01 PM,US_healthcare_reform,SignalSgtWilliams
+90477468,FALSE,3,7/27/2011 6:40,Not Sure,0.6364,,11,672198221_3750043832001,Thu 19 November 2009 04:49 PM,US_healthcare_reform,crackerjacks61
+90477469,FALSE,3,7/27/2011 4:18,Not Sure,1,,12,672198221_3750043832001,Thu 19 November 2009 04:54 PM,US_healthcare_reform,LineDoggie
+90477470,FALSE,3,7/27/2011 5:25,Not Sure,1,,13,672198221_3750043832001,Thu 19 November 2009 04:55 PM,US_healthcare_reform,crackerjacks61
+90477471,FALSE,3,7/27/2011 5:30,Not Sure,0.6165,,14,672198221_3750043832001,Thu 19 November 2009 04:56 PM,US_healthcare_reform,crackerjacks61
+90477472,FALSE,3,7/27/2011 2:17,Against,1,,15,672198221_3750043832001,Thu 19 November 2009 05:35 PM,US_healthcare_reform,RRR52
+90477473,FALSE,3,7/27/2011 7:36,For,0.6428,,16,672198221_3750043832001,Thu 19 November 2009 05:46 PM,US_healthcare_reform,crackerjacks61
+90477474,FALSE,3,7/27/2011 7:57,Not Sure,1,,17,672198221_3750043832001,Thu 19 November 2009 06:28 PM,US_healthcare_reform,world_king377
+90477475,FALSE,3,7/27/2011 6:57,Not Sure,0.6903,,18,672198221_3750043832001,Fri 20 November 2009 04:06 AM,US_healthcare_reform,Kegler300
+90477476,FALSE,3,7/27/2011 8:51,Against,0.6226,,19,672198221_3750043832001,Fri 20 November 2009 05:43 AM,US_healthcare_reform,ssgduke56
+90477477,FALSE,3,7/27/2011 7:21,Not Sure,1,,20,672198221_3750043832001,Fri 20 November 2009 05:55 AM,US_healthcare_reform,Woody_in_La
+90477478,FALSE,3,7/27/2011 7:31,Not Sure,1,,21,672198221_3750043832001,Fri 20 November 2009 06:17 AM,US_healthcare_reform,ssgduke56
+90477479,FALSE,3,7/27/2011 6:57,Not Sure,1,,22,672198221_3750043832001,Fri 20 November 2009 12:19 PM,US_healthcare_reform,6486143
+90477480,FALSE,3,7/27/2011 6:59,Against,0.6494,,23,672198221_3750043832001,Fri 20 November 2009 12:27 PM,US_healthcare_reform,Elesso
+90477481,FALSE,3,7/27/2011 7:16,Not Sure,0.6482,,24,672198221_3750043832001,Fri 20 November 2009 01:09 PM,US_healthcare_reform,cosmicfish
+90477482,FALSE,3,7/27/2011 8:46,Not Sure,0.6522,,25,672198221_3750043832001,Fri 20 November 2009 01:36 PM,US_healthcare_reform,avent42
+90477483,FALSE,3,7/27/2011 7:20,Not Sure,0.679,,26,672198221_3750043832001,Fri 20 November 2009 02:34 PM,US_healthcare_reform,TTar
+90477484,FALSE,3,7/27/2011 7:40,Not Sure,1,,27,672198221_3750043832001,Fri 20 November 2009 02:41 PM,US_healthcare_reform,I_M_Qwerty
+90477485,FALSE,3,7/27/2011 8:07,Against,0.7188,,28,672198221_3750043832001,Fri 20 November 2009 09:27 PM,US_healthcare_reform,RRR52
+90477486,FALSE,3,7/27/2011 5:40,Not Sure,1,,29,672198221_3750043832001,Fri 20 November 2009 09:50 PM,US_healthcare_reform,SUNLINER81
+90477487,FALSE,3,7/27/2011 8:00,For,1,,30,672198221_3750043832001,Sat 21 November 2009 04:01 AM,US_healthcare_reform,jack_flats
+90477488,FALSE,3,7/27/2011 8:56,Against,0.6589,,31,672198221_3750043832001,Sat 21 November 2009 04:11 AM,US_healthcare_reform,Kegler300
+90477489,FALSE,3,7/27/2011 1:16,For,0.6929,,32,672198221_3750043832001,Sat 21 November 2009 04:16 AM,US_healthcare_reform,crackerjacks61
+90477490,FALSE,3,7/27/2011 6:02,For,1,,33,672198221_3750043832001,Sat 21 November 2009 04:28 AM,US_healthcare_reform,jack_flats
+90477491,FALSE,3,7/27/2011 7:27,For,1,,34,672198221_3750043832001,Sat 21 November 2009 04:33 AM,US_healthcare_reform,jack_flats
+90477492,FALSE,3,7/27/2011 3:49,Against,0.6694,,35,672198221_3750043832001,Sat 21 November 2009 05:18 AM,US_healthcare_reform,LineDoggie
+90477493,FALSE,3,7/27/2011 9:08,Against,1,,36,672198221_3750043832001,Sat 21 November 2009 05:20 AM,US_healthcare_reform,Woody_in_La
+90477494,FALSE,3,7/27/2011 7:41,Against,0.6651,,37,672198221_3750043832001,Sat 21 November 2009 05:27 AM,US_healthcare_reform,Woody_in_La
+90477495,FALSE,4,7/27/2011 7:08,Against,0.5231,,38,672198221_3750043832001,Sat 21 November 2009 06:01 AM,US_healthcare_reform,NM11AZ
+90477496,FALSE,3,7/27/2011 8:48,For,0.6994,,39,672198221_3750043832001,Sat 21 November 2009 06:15 AM,US_healthcare_reform,SignalSgtWilliams
+90477497,FALSE,3,7/27/2011 5:54,For,0.6736,,40,672198221_3750043832001,Sat 21 November 2009 06:17 AM,US_healthcare_reform,SignalSgtWilliams
+90477498,FALSE,3,7/27/2011 7:41,Against,1,,41,672198221_3750043832001,Sat 21 November 2009 06:45 AM,US_healthcare_reform,stec74
+90477499,FALSE,3,7/27/2011 6:37,Against,0.6317,,42,672198221_3750043832001,Sat 21 November 2009 07:18 AM,US_healthcare_reform,jack_flats
+90477500,FALSE,4,7/27/2011 6:35,For,0.5389,,43,672198221_3750043832001,Sat 21 November 2009 07:52 AM,US_healthcare_reform,stec74
+90477501,FALSE,3,7/27/2011 7:34,Against,1,,44,672198221_3750043832001,Sat 21 November 2009 09:03 AM,US_healthcare_reform,L0A1
+90477502,FALSE,3,7/27/2011 8:48,For,0.6837,,45,672198221_3750043832001,Sat 21 November 2009 10:09 AM,US_healthcare_reform,Agent991
+90477503,FALSE,3,7/27/2011 7:01,Not Sure,1,,46,672198221_3750043832001,Sat 21 November 2009 10:16 AM,US_healthcare_reform,Agent991
+90477504,FALSE,3,7/27/2011 4:28,Not Sure,1,,47,672198221_3750043832001,Sat 21 November 2009 12:01 PM,US_healthcare_reform,EAG154
+90477505,FALSE,3,7/27/2011 3:35,Against,0.6528,,48,672198221_3750043832001,Sat 21 November 2009 12:19 PM,US_healthcare_reform,Agent991
+90477506,FALSE,3,7/27/2011 8:07,Against,1,,49,672198221_3750043832001,Sat 21 November 2009 12:24 PM,US_healthcare_reform,Agent991
+90477507,FALSE,3,7/27/2011 8:54,Against,0.6562,,50,672198221_3750043832001,Sat 21 November 2009 12:27 PM,US_healthcare_reform,Kegler300
+90477508,FALSE,3,7/27/2011 8:41,For,0.6712,,51,672198221_3750043832001,Sat 21 November 2009 12:30 PM,US_healthcare_reform,Agent991
+90477509,FALSE,3,7/27/2011 7:04,Against,0.6857,,52,672198221_3750043832001,Sat 21 November 2009 12:32 PM,US_healthcare_reform,Agent991
+90477510,FALSE,3,7/27/2011 7:48,Against,0.6931,,53,672198221_3750043832001,Sat 21 November 2009 12:44 PM,US_healthcare_reform,Kegler300
+90477511,FALSE,3,7/27/2011 5:40,For,0.3676,,54,672198221_3750043832001,Sat 21 November 2009 01:38 PM,US_healthcare_reform,oldmole
+90477512,FALSE,3,7/27/2011 8:45,Against,0.6621,,55,672198221_3750043832001,Sat 21 November 2009 01:39 PM,US_healthcare_reform,Kegler300
+90477513,FALSE,3,7/27/2011 8:49,Against,0.6483,,56,672198221_3750043832001,Sat 21 November 2009 04:53 PM,US_healthcare_reform,SUNLINER81
+90477514,FALSE,3,7/27/2011 8:57,Against,0.6249,,57,672198221_3750043832001,Sun 22 November 2009 06:15 AM,US_healthcare_reform,EAG154
+90477515,FALSE,3,7/27/2011 5:49,Not Sure,1,,58,672198221_3750043832001,Sun 22 November 2009 06:17 AM,US_healthcare_reform,EAG154
+90477516,FALSE,3,7/27/2011 7:55,Not Sure,0.6913,,59,672198221_3750043832001,Sun 22 November 2009 12:38 PM,US_healthcare_reform,SUNLINER81
+90477517,FALSE,3,7/27/2011 7:42,Against,0.6897,,60,672198221_3750043832001,Sun 22 November 2009 02:05 PM,US_healthcare_reform,FlankerFlyer
+90477518,FALSE,3,7/27/2011 6:49,Against,1,,61,672198221_3750043832001,Mon 23 November 2009 10:52 AM,US_healthcare_reform,EAG154
+90477519,FALSE,3,7/27/2011 8:42,Not Sure,0.6289,,Post ID,Thread ID,Time,Topic,User ID
+90477520,FALSE,3,7/27/2011 7:05,Against,0.6582,,1,672198221_5470025932001,Sun 06 December 2009 02:52 PM,US_healthcare_reform,ss_287
+90477521,FALSE,3,7/27/2011 8:06,For,0.7206,,2,672198221_5470025932001,Sun 06 December 2009 03:08 PM,US_healthcare_reform,SeaWitch1220
+90477522,FALSE,3,7/27/2011 8:03,Not Sure,0.3786,,3,672198221_5470025932001,Sun 06 December 2009 03:12 PM,US_healthcare_reform,ss_287
+90477523,FALSE,3,7/27/2011 7:47,Against,0.3687,,4,672198221_5470025932001,Sun 06 December 2009 03:22 PM,US_healthcare_reform,FriscoLady01
+90477524,FALSE,3,7/27/2011 8:57,Against,0.6411,,5,672198221_5470025932001,Sun 06 December 2009 03:36 PM,US_healthcare_reform,ss_287
+90477525,FALSE,3,7/27/2011 7:15,Not Sure,1,,6,672198221_5470025932001,Sun 06 December 2009 04:44 PM,US_healthcare_reform,SignalSgtWilliams
+90477526,FALSE,3,7/27/2011 7:27,For,1,,7,672198221_5470025932001,Sun 06 December 2009 05:14 PM,US_healthcare_reform,ETCPJ
+90477527,FALSE,3,7/27/2011 7:49,Against,0.6194,,8,672198221_5470025932001,Sun 06 December 2009 05:22 PM,US_healthcare_reform,sw614
+90477528,FALSE,3,7/27/2011 8:46,Against,0.3624,,9,672198221_5470025932001,Sun 06 December 2009 06:34 PM,US_healthcare_reform,WO1_Tango
+90477529,FALSE,3,7/27/2011 8:01,For,0.641,,10,672198221_5470025932001,Sun 06 December 2009 06:40 PM,US_healthcare_reform,ETCPJ
+90477530,FALSE,3,7/27/2011 6:54,For,1,,11,672198221_5470025932001,Sun 06 December 2009 06:45 PM,US_healthcare_reform,ETCPJ
+90477531,FALSE,3,7/27/2011 7:22,Not Sure,0.6656,,12,672198221_5470025932001,Sun 06 December 2009 07:18 PM,US_healthcare_reform,LineDoggie
+90477532,FALSE,3,7/27/2011 5:57,For,0.6348,,13,672198221_5470025932001,Mon 07 December 2009 05:43 AM,US_healthcare_reform,stec74
+90477533,FALSE,3,7/27/2011 8:45,Not Sure,0.6388,,14,672198221_5470025932001,Mon 07 December 2009 05:47 AM,US_healthcare_reform,sw614
+90477534,FALSE,3,7/27/2011 8:01,Against,1,,15,672198221_5470025932001,Mon 07 December 2009 05:59 AM,US_healthcare_reform,sw614
+90477535,FALSE,3,7/27/2011 5:48,Against,0.6693,,16,672198221_5470025932001,Mon 07 December 2009 06:07 AM,US_healthcare_reform,NSNN
+90477536,FALSE,3,7/27/2011 7:44,For,1,,17,672198221_5470025932001,Mon 07 December 2009 06:11 AM,US_healthcare_reform,NSNN
+90477537,FALSE,3,7/27/2011 6:27,Not Sure,1,,18,672198221_5470025932001,Mon 07 December 2009 06:17 AM,US_healthcare_reform,Woody_in_La
+90477538,FALSE,4,7/27/2011 6:29,Against,0.5243,,19,672198221_5470025932001,Mon 07 December 2009 06:29 AM,US_healthcare_reform,sw614
+90477539,FALSE,3,7/27/2011 3:45,Against,1,,20,672198221_5470025932001,Mon 07 December 2009 06:33 AM,US_healthcare_reform,jack_flats
+90477540,FALSE,3,7/27/2011 6:32,Not Sure,0.6821,,21,672198221_5470025932001,Mon 07 December 2009 06:37 AM,US_healthcare_reform,67NOV
+90477541,FALSE,4,7/27/2011 9:09,For,0.7456,,22,672198221_5470025932001,Mon 07 December 2009 06:37 AM,US_healthcare_reform,SignalSgtWilliams
+90477542,FALSE,4,7/27/2011 7:21,Against,0.7697,,23,672198221_5470025932001,Mon 07 December 2009 06:38 AM,US_healthcare_reform,67NOV
+90477543,FALSE,3,7/27/2011 8:13,Not Sure,0.6992,,24,672198221_5470025932001,Mon 07 December 2009 06:47 AM,US_healthcare_reform,stec74
+90477544,FALSE,3,7/27/2011 7:46,Against,0.7084,,25,672198221_5470025932001,Mon 07 December 2009 06:50 AM,US_healthcare_reform,stec74
+90477545,FALSE,3,7/27/2011 6:55,For,0.6306,,26,672198221_5470025932001,Mon 07 December 2009 07:01 AM,US_healthcare_reform,NSNN
+90477546,FALSE,3,7/27/2011 6:08,Against,1,,27,672198221_5470025932001,Mon 07 December 2009 07:02 AM,US_healthcare_reform,NSNN
+90477547,FALSE,3,7/27/2011 7:31,Against,0.6317,,28,672198221_5470025932001,Mon 07 December 2009 07:04 AM,US_healthcare_reform,67NOV
+90477548,FALSE,3,7/27/2011 7:07,Against,0.3819,,29,672198221_5470025932001,Mon 07 December 2009 07:08 AM,US_healthcare_reform,NSNN
+90477549,FALSE,3,7/27/2011 8:04,Not Sure,0.6909,,30,672198221_5470025932001,Mon 07 December 2009 07:16 AM,US_healthcare_reform,WO1_Tango
+90477550,FALSE,3,7/27/2011 6:41,For,0.7032,,31,672198221_5470025932001,Mon 07 December 2009 07:40 AM,US_healthcare_reform,67NOV
+90477551,FALSE,3,7/27/2011 7:19,Against,0.3511,,32,672198221_5470025932001,Mon 07 December 2009 08:17 AM,US_healthcare_reform,TTar
+90477552,FALSE,3,7/27/2011 6:58,Against,1,,33,672198221_5470025932001,Tue 08 December 2009 08:23 AM,US_healthcare_reform,ss_287
+90477553,FALSE,3,7/27/2011 8:45,For,0.7047,,34,672198221_5470025932001,Tue 08 December 2009 08:38 AM,US_healthcare_reform,jack_flats
+90477554,FALSE,3,7/27/2011 5:12,Not Sure,0.6101,,35,672198221_5470025932001,Tue 08 December 2009 08:41 AM,US_healthcare_reform,I_M_Qwerty
+90477555,FALSE,3,7/27/2011 8:48,Not Sure,0.6835,,36,672198221_5470025932001,Tue 08 December 2009 08:46 AM,US_healthcare_reform,jwr6
+90477556,FALSE,3,7/27/2011 7:47,Against,1,,37,672198221_5470025932001,Tue 08 December 2009 08:51 AM,US_healthcare_reform,jwr6
+90477557,FALSE,3,7/27/2011 7:43,Against,1,,38,672198221_5470025932001,Tue 08 December 2009 08:52 AM,US_healthcare_reform,LineDoggie
+90477558,FALSE,3,7/27/2011 7:05,Against,0.7009,,39,672198221_5470025932001,Tue 08 December 2009 09:51 AM,US_healthcare_reform,rayevinsonsr
+90477559,FALSE,3,7/27/2011 8:17,For,0.6344,,40,672198221_5470025932001,Tue 08 December 2009 12:34 PM,US_healthcare_reform,Ol_Doc
+90477560,FALSE,3,7/27/2011 7:36,Not Sure,1,,41,672198221_5470025932001,Tue 08 December 2009 12:45 PM,US_healthcare_reform,I_M_Qwerty
+90477561,FALSE,3,7/27/2011 8:46,For,1,,42,672198221_5470025932001,Tue 08 December 2009 01:16 PM,US_healthcare_reform,jwr6
+90477562,FALSE,3,7/27/2011 6:21,Not Sure,0.6487,,43,672198221_5470025932001,Tue 08 December 2009 01:34 PM,US_healthcare_reform,peter3_1
+90477563,FALSE,3,7/27/2011 8:12,For,0.3785,,44,672198221_5470025932001,Thu 10 December 2009 10:34 AM,US_healthcare_reform,NSNN
+90477564,FALSE,3,7/27/2011 8:39,Not Sure,0.6763,,45,672198221_5470025932001,Thu 10 December 2009 10:39 AM,US_healthcare_reform,mcgreer
+90477565,FALSE,3,7/27/2011 7:27,Not Sure,0.6829,,46,672198221_5470025932001,Thu 10 December 2009 10:52 AM,US_healthcare_reform,Sand_Flea
+90477566,FALSE,3,7/27/2011 7:53,Against,0.3875,,47,672198221_5470025932001,Thu 10 December 2009 03:07 PM,US_healthcare_reform,ACR26
+90477567,FALSE,3,7/27/2011 6:49,Against,0.6479,,48,672198221_5470025932001,Thu 10 December 2009 03:13 PM,US_healthcare_reform,ACR26
+90477568,FALSE,3,7/27/2011 5:58,Not Sure,1,,49,672198221_5470025932001,Thu 10 December 2009 04:38 PM,US_healthcare_reform,L0A1
+90477569,FALSE,3,7/27/2011 6:25,Against,0.3407,,50,672198221_5470025932001,Thu 10 December 2009 06:37 PM,US_healthcare_reform,ACR26
+90477570,FALSE,3,7/27/2011 5:40,For,0.7213,,51,672198221_5470025932001,Thu 10 December 2009 06:58 PM,US_healthcare_reform,rayevinsonsr
+90477571,FALSE,3,7/27/2011 0:57,For,0.3922,,52,672198221_5470025932001,Thu 10 December 2009 07:51 PM,US_healthcare_reform,m551sheridan
+90477572,FALSE,3,7/27/2011 4:26,Against,0.6632,,53,672198221_5470025932001,Thu 10 December 2009 08:27 PM,US_healthcare_reform,skinman13
+90477573,FALSE,3,7/27/2011 8:50,For,0.6473,,54,672198221_5470025932001,Thu 10 December 2009 10:30 PM,US_healthcare_reform,NSNN
+90477574,FALSE,3,7/27/2011 5:21,Against,0.3624,,55,672198221_5470025932001,Thu 10 December 2009 11:53 PM,US_healthcare_reform,54D_Zippo
+90477575,FALSE,3,7/27/2011 4:50,Against,0.6448,,56,672198221_5470025932001,Thu 10 December 2009 11:53 PM,US_healthcare_reform,FlankerFlyer
+90477576,FALSE,3,7/27/2011 8:00,Against,0.6937,,57,672198221_5470025932001,Fri 11 December 2009 08:11 AM,US_healthcare_reform,FlankerFlyer
+90477577,FALSE,3,7/27/2011 7:17,Against,0.6937,,58,672198221_5470025932001,Fri 11 December 2009 09:20 AM,US_healthcare_reform,jack_flats
+90477578,FALSE,3,7/27/2011 7:32,For,0.6555,,59,672198221_5470025932001,Fri 11 December 2009 10:34 AM,US_healthcare_reform,mcgreer
+90477579,FALSE,3,7/27/2011 6:36,Not Sure,1,,60,672198221_5470025932001,Fri 11 December 2009 02:35 PM,US_healthcare_reform,ACR26
+90477580,FALSE,3,7/27/2011 4:14,Not Sure,0.6616,,61,672198221_5470025932001,Mon 14 December 2009 05:38 PM,US_healthcare_reform,mcgreer
+90477581,FALSE,3,7/27/2011 8:08,Not Sure,0.7075,,62,672198221_5470025932001,Mon 14 December 2009 06:56 PM,US_healthcare_reform,ACR26
+90477582,FALSE,3,7/27/2011 6:44,Not Sure,1,,63,672198221_5470025932001,Mon 14 December 2009 08:52 PM,US_healthcare_reform,mcgreer
+90477583,FALSE,3,7/27/2011 4:21,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477584,FALSE,3,7/27/2011 7:07,Against,1,,1,5291911282_4540057871001,Sat 12 April 2008 11:24 AM,illegal_immigrants_and_immigration,grampi46
+90477585,FALSE,3,7/27/2011 4:11,Against,1,,2,5291911282_4540057871001,Sat 12 April 2008 11:27 AM,illegal_immigrants_and_immigration,spikerzzz
+90477586,FALSE,4,7/27/2011 7:10,Against,0.8006,,3,5291911282_4540057871001,Sat 12 April 2008 11:31 AM,illegal_immigrants_and_immigration,Bergy46
+90477587,FALSE,3,7/27/2011 1:52,Against,1,,4,5291911282_4540057871001,Sat 12 April 2008 11:38 AM,illegal_immigrants_and_immigration,greywolfghost
+90477588,FALSE,3,7/27/2011 7:47,Not Sure,0.6609,,5,5291911282_4540057871001,Sat 12 April 2008 11:46 AM,illegal_immigrants_and_immigration,Bergy46
+90477589,FALSE,3,7/27/2011 4:24,Against,0.6337,,6,5291911282_4540057871001,Sat 12 April 2008 11:49 AM,illegal_immigrants_and_immigration,nevdka
+90477590,FALSE,3,7/27/2011 7:50,Against,0.6111,,7,5291911282_4540057871001,Sat 12 April 2008 11:52 AM,illegal_immigrants_and_immigration,galloglas
+90477591,FALSE,3,7/27/2011 8:01,Against,1,,8,5291911282_4540057871001,Sat 12 April 2008 11:55 AM,illegal_immigrants_and_immigration,m551sheridan
+90477592,FALSE,3,7/27/2011 8:07,Against,0.7013,,9,5291911282_4540057871001,Sat 12 April 2008 01:39 PM,illegal_immigrants_and_immigration,sargeant_green
+90477593,FALSE,4,7/27/2011 8:12,Against,1,,10,5291911282_4540057871001,Sat 12 April 2008 01:47 PM,illegal_immigrants_and_immigration,greywolfghost
+90477594,FALSE,3,7/27/2011 5:03,Against,1,,11,5291911282_4540057871001,Sun 13 April 2008 12:30 PM,illegal_immigrants_and_immigration,Militaedes
+90477595,FALSE,3,7/27/2011 7:39,For,1,,12,5291911282_4540057871001,Sun 13 April 2008 12:44 PM,illegal_immigrants_and_immigration,patriot101
+90477596,FALSE,3,7/27/2011 5:40,For,0.6748,,13,5291911282_4540057871001,Sun 13 April 2008 12:55 PM,illegal_immigrants_and_immigration,sweetsuds
+90477597,FALSE,3,7/27/2011 6:48,Against,1,,14,5291911282_4540057871001,Sun 13 April 2008 01:14 PM,illegal_immigrants_and_immigration,Bergy46
+90477598,FALSE,3,7/27/2011 8:55,Not Sure,0.6616,,15,5291911282_4540057871001,Sun 13 April 2008 01:20 PM,illegal_immigrants_and_immigration,Sgt_Schlappy
+90477599,FALSE,3,7/27/2011 6:41,For,0.6415,,16,5291911282_4540057871001,Sun 13 April 2008 01:28 PM,illegal_immigrants_and_immigration,lstgnfghtr
+90477600,FALSE,3,7/27/2011 5:33,Against,1,,17,5291911282_4540057871001,Sun 13 April 2008 08:39 PM,illegal_immigrants_and_immigration,raider173rd
+90477601,FALSE,3,7/27/2011 7:47,Not Sure,1,,18,5291911282_4540057871001,Sun 13 April 2008 09:50 PM,illegal_immigrants_and_immigration,jkeller47
+90477602,FALSE,3,7/27/2011 3:46,Not Sure,1,,19,5291911282_4540057871001,Sun 13 April 2008 09:51 PM,illegal_immigrants_and_immigration,Bergy46
+90477603,FALSE,3,7/27/2011 8:53,Not Sure,0.6989,,20,5291911282_4540057871001,Mon 14 April 2008 04:31 AM,illegal_immigrants_and_immigration,Navywifeinparadise
+90477604,FALSE,3,7/27/2011 6:07,Against,1,,21,5291911282_4540057871001,Mon 14 April 2008 09:30 PM,illegal_immigrants_and_immigration,ENYVTHS
+90477605,FALSE,3,7/27/2011 8:48,Against,0.6574,,22,5291911282_4540057871001,Mon 14 April 2008 11:22 PM,illegal_immigrants_and_immigration,oldgoat49
+90477606,FALSE,3,7/27/2011 6:58,Against,1,,23,5291911282_4540057871001,Mon 14 April 2008 11:38 PM,illegal_immigrants_and_immigration,scooter_mech
+90477607,FALSE,3,7/27/2011 7:25,Against,0.75,,24,5291911282_4540057871001,Tue 15 April 2008 05:20 AM,illegal_immigrants_and_immigration,grampi46
+90477608,FALSE,3,7/27/2011 7:32,Against,0.7385,,25,5291911282_4540057871001,Tue 15 April 2008 05:22 AM,illegal_immigrants_and_immigration,Bergy46
+90477609,FALSE,3,7/27/2011 7:54,For,1,,26,5291911282_4540057871001,Wed 16 April 2008 02:24 AM,illegal_immigrants_and_immigration,1militaryproudfemale
+90477610,FALSE,3,7/27/2011 7:03,Against,0.7094,,27,5291911282_4540057871001,Wed 16 April 2008 02:54 AM,illegal_immigrants_and_immigration,JimSorber
+90477611,FALSE,4,7/27/2011 8:11,Against,0.4836,,28,5291911282_4540057871001,Wed 16 April 2008 04:55 AM,illegal_immigrants_and_immigration,MissU2
+90477612,FALSE,3,7/27/2011 5:07,Against,1,,29,5291911282_4540057871001,Wed 16 April 2008 05:33 AM,illegal_immigrants_and_immigration,grampi46
+90477613,FALSE,4,7/27/2011 9:01,For,0.5493,,30,5291911282_4540057871001,Wed 16 April 2008 05:43 AM,illegal_immigrants_and_immigration,MissU2
+90477614,FALSE,3,7/27/2011 8:08,For,1,,31,5291911282_4540057871001,Wed 23 April 2008 03:00 PM,illegal_immigrants_and_immigration,NileRider
+90477615,FALSE,3,7/27/2011 7:47,Against,0.7143,,32,5291911282_4540057871001,Wed 23 April 2008 03:47 PM,illegal_immigrants_and_immigration,greywolfghost
+90477616,FALSE,3,7/27/2011 9:06,Against,0.6665,,33,5291911282_4540057871001,Thu 29 January 2009 02:19 PM,illegal_immigrants_and_immigration,grampi46
+90477617,FALSE,3,7/27/2011 7:25,Against,0.6878,,34,5291911282_4540057871001,Thu 29 January 2009 02:33 PM,illegal_immigrants_and_immigration,sargeant_green
+90477618,FALSE,3,7/27/2011 8:10,Against,1,,35,5291911282_4540057871001,Thu 29 January 2009 03:41 PM,illegal_immigrants_and_immigration,swremwin
+90477619,FALSE,3,7/27/2011 7:17,Against,0.6244,,36,5291911282_4540057871001,Thu 29 January 2009 04:03 PM,illegal_immigrants_and_immigration,NileRider
+90477620,FALSE,3,7/27/2011 8:48,Against,0.679,,37,5291911282_4540057871001,Thu 29 January 2009 04:31 PM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477621,FALSE,3,7/27/2011 7:40,Against,0.6484,,38,5291911282_4540057871001,Thu 29 January 2009 04:41 PM,illegal_immigrants_and_immigration,NileRider
+90477622,FALSE,3,7/27/2011 5:48,Against,0.7075,,39,5291911282_4540057871001,Thu 29 January 2009 05:13 PM,illegal_immigrants_and_immigration,Vampire3R
+90477623,FALSE,4,7/27/2011 5:40,Against,1,,40,5291911282_4540057871001,Thu 29 January 2009 05:30 PM,illegal_immigrants_and_immigration,Bergy46
+90477624,FALSE,3,7/27/2011 7:28,For,0.6976,,41,5291911282_4540057871001,Thu 29 January 2009 07:03 PM,illegal_immigrants_and_immigration,sw614
+90477625,FALSE,3,7/27/2011 8:45,Not Sure,0.3864,,42,5291911282_4540057871001,Thu 29 January 2009 08:05 PM,illegal_immigrants_and_immigration,mfdaniels_rph
+90477626,FALSE,3,7/27/2011 8:49,Against,0.6714,,43,5291911282_4540057871001,Fri 30 January 2009 04:34 AM,illegal_immigrants_and_immigration,grampi46
+90477627,FALSE,3,7/27/2011 3:32,Not Sure,0.6537,,44,5291911282_4540057871001,Fri 30 January 2009 05:22 AM,illegal_immigrants_and_immigration,grampi46
+90477628,FALSE,3,7/27/2011 7:14,Against,0.6344,,45,5291911282_4540057871001,Fri 30 January 2009 05:42 AM,illegal_immigrants_and_immigration,FollowMeInfantry
+90477629,FALSE,3,7/27/2011 5:47,Not Sure,0.6507,,46,5291911282_4540057871001,Fri 30 January 2009 05:51 AM,illegal_immigrants_and_immigration,FollowMeInfantry
+90477630,FALSE,3,7/27/2011 8:02,Not Sure,0.7256,,47,5291911282_4540057871001,Fri 30 January 2009 08:21 AM,illegal_immigrants_and_immigration,AceShaw
+90477631,FALSE,3,7/27/2011 8:03,Against,1,,48,5291911282_4540057871001,Fri 30 January 2009 08:51 AM,illegal_immigrants_and_immigration,sargeant_green
+90477632,FALSE,3,7/27/2011 6:29,Against,1,,49,5291911282_4540057871001,Fri 30 January 2009 09:01 AM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477633,FALSE,3,7/27/2011 7:33,Against,1,,50,5291911282_4540057871001,Fri 30 January 2009 09:10 AM,illegal_immigrants_and_immigration,sargeant_green
+90477634,FALSE,3,7/27/2011 8:42,For,0.6602,,51,5291911282_4540057871001,Fri 30 January 2009 09:32 AM,illegal_immigrants_and_immigration,NileRider
+90477635,FALSE,3,7/27/2011 7:34,Against,1,,52,5291911282_4540057871001,Fri 30 January 2009 09:44 AM,illegal_immigrants_and_immigration,mallovesthetroops
+90477636,FALSE,3,7/27/2011 6:24,Against,1,,53,5291911282_4540057871001,Fri 30 January 2009 10:01 AM,illegal_immigrants_and_immigration,NileRider
+90477637,FALSE,3,7/27/2011 8:51,Against,0.3666,,54,5291911282_4540057871001,Fri 30 January 2009 01:24 PM,illegal_immigrants_and_immigration,grampi46
+90477638,FALSE,3,7/27/2011 1:25,Not Sure,1,,55,5291911282_4540057871001,Fri 30 January 2009 01:35 PM,illegal_immigrants_and_immigration,FollowMeInfantry
+90477639,FALSE,4,7/27/2011 8:56,Against,0.7158,,56,5291911282_4540057871001,Fri 30 January 2009 02:06 PM,illegal_immigrants_and_immigration,GeorgeRGarcia
+90477640,FALSE,4,7/27/2011 6:31,Against,1,,57,5291911282_4540057871001,Fri 30 January 2009 02:32 PM,illegal_immigrants_and_immigration,NileRider
+90477641,FALSE,3,7/27/2011 8:09,Against,0.67,,58,5291911282_4540057871001,Fri 30 January 2009 03:48 PM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477642,FALSE,3,7/27/2011 5:57,Against,1,,59,5291911282_4540057871001,Fri 30 January 2009 04:08 PM,illegal_immigrants_and_immigration,swremwin
+90477643,FALSE,3,7/27/2011 8:42,For,0.6568,,60,5291911282_4540057871001,Fri 30 January 2009 04:49 PM,illegal_immigrants_and_immigration,Vanir97
+90477644,FALSE,3,7/27/2011 4:12,Against,1,,61,5291911282_4540057871001,Fri 30 January 2009 05:10 PM,illegal_immigrants_and_immigration,dman1948
+90477645,FALSE,3,7/27/2011 7:45,Against,0.7118,,62,5291911282_4540057871001,Fri 30 January 2009 05:31 PM,illegal_immigrants_and_immigration,21yrsUSCGUSCS
+90477646,FALSE,3,7/27/2011 7:05,Against,1,,63,5291911282_4540057871001,Sat 31 January 2009 05:30 AM,illegal_immigrants_and_immigration,grampi46
+90477647,FALSE,3,7/27/2011 7:01,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477648,FALSE,3,7/27/2011 8:52,For,0.6703,,1,5291911282_3420042351001,Mon 29 October 2007 07:21 PM,illegal_immigrants_and_immigration,deadbutdrowning
+90477649,FALSE,3,7/27/2011 8:08,For,1,,2,5291911282_3420042351001,Mon 29 October 2007 07:30 PM,illegal_immigrants_and_immigration,JimSorber
+90477650,FALSE,3,7/27/2011 4:26,Not Sure,0.6693,,3,5291911282_3420042351001,Mon 29 October 2007 08:17 PM,illegal_immigrants_and_immigration,EOCRon
+90477651,FALSE,3,7/27/2011 8:05,Against,0.6835,,4,5291911282_3420042351001,Tue 30 October 2007 05:54 AM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477652,FALSE,3,7/27/2011 6:21,Not Sure,0.6792,,5,5291911282_3420042351001,Tue 30 October 2007 10:44 AM,illegal_immigrants_and_immigration,jkeller47
+90477653,FALSE,3,7/27/2011 6:47,Against,1,,6,5291911282_3420042351001,Tue 30 October 2007 11:11 AM,illegal_immigrants_and_immigration,Dar1025
+90477654,FALSE,3,7/27/2011 8:21,Not Sure,1,,7,5291911282_3420042351001,Tue 30 October 2007 11:12 AM,illegal_immigrants_and_immigration,sidewinder123
+90477655,FALSE,3,7/27/2011 8:53,Not Sure,1,,8,5291911282_3420042351001,Tue 30 October 2007 11:18 AM,illegal_immigrants_and_immigration,Dar1025
+90477656,FALSE,3,7/27/2011 7:01,Not Sure,1,,9,5291911282_3420042351001,Tue 30 October 2007 11:19 AM,illegal_immigrants_and_immigration,sidewinder123
+90477657,FALSE,3,7/27/2011 7:25,For,0.6993,,10,5291911282_3420042351001,Tue 30 October 2007 02:32 PM,illegal_immigrants_and_immigration,deadbutdrowning
+90477658,FALSE,4,7/27/2011 7:48,Against,0.8012,,11,5291911282_3420042351001,Tue 30 October 2007 02:39 PM,illegal_immigrants_and_immigration,Dar1025
+90477659,FALSE,3,7/27/2011 8:03,For,0.7254,,12,5291911282_3420042351001,Tue 30 October 2007 02:49 PM,illegal_immigrants_and_immigration,DiscountAttic
+90477660,FALSE,3,7/27/2011 7:51,Against,0.7373,,13,5291911282_3420042351001,Tue 30 October 2007 02:58 PM,illegal_immigrants_and_immigration,Dar1025
+90477661,FALSE,3,7/27/2011 7:34,For,0.65,,14,5291911282_3420042351001,Tue 30 October 2007 03:46 PM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477662,FALSE,3,7/27/2011 6:59,For,0.6571,,15,5291911282_3420042351001,Tue 30 October 2007 03:48 PM,illegal_immigrants_and_immigration,DiscountAttic
+90477663,FALSE,3,7/27/2011 7:17,Against,1,,16,5291911282_3420042351001,Tue 30 October 2007 04:00 PM,illegal_immigrants_and_immigration,Dar1025
+90477664,FALSE,3,7/27/2011 7:54,Against,1,,17,5291911282_3420042351001,Tue 30 October 2007 04:33 PM,illegal_immigrants_and_immigration,Vanir97
+90477665,FALSE,3,7/27/2011 4:25,Not Sure,1,,18,5291911282_3420042351001,Tue 30 October 2007 04:41 PM,illegal_immigrants_and_immigration,Bergy77
+90477666,FALSE,3,7/27/2011 7:19,For,1,,19,5291911282_3420042351001,Tue 30 October 2007 05:02 PM,illegal_immigrants_and_immigration,greywolfghost
+90477667,FALSE,4,7/27/2011 6:50,For,1,,20,5291911282_3420042351001,Tue 30 October 2007 07:33 PM,illegal_immigrants_and_immigration,deadbutdrowning
+90477668,FALSE,3,7/27/2011 8:07,Against,0.6896,,21,5291911282_3420042351001,Tue 30 October 2007 08:14 PM,illegal_immigrants_and_immigration,Dar1025
+90477669,FALSE,3,7/27/2011 6:10,Against,1,,22,5291911282_3420042351001,Tue 30 October 2007 08:15 PM,illegal_immigrants_and_immigration,FBoehm
+90477670,FALSE,3,7/27/2011 7:53,Against,1,,23,5291911282_3420042351001,Wed 31 October 2007 05:08 AM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477671,FALSE,3,7/27/2011 5:58,Against,0.6854,,24,5291911282_3420042351001,Wed 31 October 2007 05:29 AM,illegal_immigrants_and_immigration,IzzyBizzy
+90477672,FALSE,3,7/27/2011 7:26,Against,1,,25,5291911282_3420042351001,Wed 31 October 2007 08:11 AM,illegal_immigrants_and_immigration,JimSorber
+90477673,FALSE,3,7/27/2011 7:54,For,1,,26,5291911282_3420042351001,Wed 31 October 2007 09:22 AM,illegal_immigrants_and_immigration,deadbutdrowning
+90477674,FALSE,3,7/27/2011 7:13,Against,0.6259,,27,5291911282_3420042351001,Wed 31 October 2007 12:32 PM,illegal_immigrants_and_immigration,deadbutdrowning
+90477675,FALSE,3,7/27/2011 6:25,Against,0.6909,,28,5291911282_3420042351001,Wed 31 October 2007 01:06 PM,illegal_immigrants_and_immigration,Wolfhound_1968
+90477676,FALSE,3,7/27/2011 4:26,Against,1,,29,5291911282_3420042351001,Wed 31 October 2007 01:52 PM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477677,FALSE,3,7/27/2011 8:08,Against,1,,30,5291911282_3420042351001,Wed 31 October 2007 01:55 PM,illegal_immigrants_and_immigration,JimSorber
+90477678,FALSE,3,7/27/2011 9:01,For,0.6824,,31,5291911282_3420042351001,Wed 31 October 2007 02:08 PM,illegal_immigrants_and_immigration,dman1948
+90477679,FALSE,3,7/27/2011 7:03,Not Sure,1,,32,5291911282_3420042351001,Wed 31 October 2007 02:22 PM,illegal_immigrants_and_immigration,JimSorber
+90477680,FALSE,3,7/27/2011 7:24,Against,1,,33,5291911282_3420042351001,Wed 31 October 2007 02:25 PM,illegal_immigrants_and_immigration,Dar1025
+90477681,FALSE,4,7/27/2011 9:01,For,0.5051,,34,5291911282_3420042351001,Wed 31 October 2007 08:15 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477682,FALSE,3,7/27/2011 6:57,Against,0.6803,,35,5291911282_3420042351001,Wed 31 October 2007 09:40 PM,illegal_immigrants_and_immigration,FBoehm
+90477683,FALSE,3,7/27/2011 1:38,For,0.7124,,36,5291911282_3420042351001,Wed 31 October 2007 09:55 PM,illegal_immigrants_and_immigration,ReaperDoc
+90477684,FALSE,4,7/27/2011 5:41,For,0.7776,,37,5291911282_3420042351001,Thu 01 November 2007 08:25 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477685,FALSE,3,7/27/2011 8:49,Against,0.6598,,38,5291911282_3420042351001,Thu 01 November 2007 08:43 AM,illegal_immigrants_and_immigration,TaxmanJim
+90477686,FALSE,3,7/27/2011 7:15,Not Sure,0.6673,,39,5291911282_3420042351001,Thu 01 November 2007 11:54 AM,illegal_immigrants_and_immigration,LISAJACKSON
+90477687,FALSE,3,7/27/2011 1:26,Not Sure,1,,40,5291911282_3420042351001,Fri 02 November 2007 11:06 AM,illegal_immigrants_and_immigration,RH_iowa
+90477688,FALSE,3,7/27/2011 6:47,Against,1,,41,5291911282_3420042351001,Sat 03 November 2007 08:11 AM,illegal_immigrants_and_immigration,Vanir97
+90477689,FALSE,3,7/27/2011 7:37,Not Sure,0.6727,,42,5291911282_3420042351001,Sat 03 November 2007 09:19 AM,illegal_immigrants_and_immigration,moe1942
+90477690,FALSE,3,7/27/2011 7:03,For,0.683,,43,5291911282_3420042351001,Sat 03 November 2007 10:53 AM,illegal_immigrants_and_immigration,greywolfghost
+90477691,FALSE,3,7/27/2011 3:32,For,0.3467,,44,5291911282_3420042351001,Sat 03 November 2007 08:40 PM,illegal_immigrants_and_immigration,ReaperDoc
+90477692,FALSE,3,7/27/2011 7:57,Against,1,,45,5291911282_3420042351001,Sun 04 November 2007 03:55 PM,illegal_immigrants_and_immigration,Stg77
+90477693,FALSE,3,7/27/2011 6:25,Against,0.6956,,46,5291911282_3420042351001,Sun 04 November 2007 04:12 PM,illegal_immigrants_and_immigration,greywolfghost
+90477694,FALSE,3,7/27/2011 7:39,Against,0.6129,,47,5291911282_3420042351001,Sun 04 November 2007 04:36 PM,illegal_immigrants_and_immigration,Stg77
+90477695,FALSE,3,7/27/2011 8:01,For,0.645,,48,5291911282_3420042351001,Sun 04 November 2007 05:29 PM,illegal_immigrants_and_immigration,DiscountAttic
+90477696,FALSE,3,7/27/2011 6:31,Against,1,,49,5291911282_3420042351001,Sun 04 November 2007 06:18 PM,illegal_immigrants_and_immigration,greywolfghost
+90477697,FALSE,3,7/27/2011 3:45,Against,0.6722,,50,5291911282_3420042351001,Mon 05 November 2007 07:07 PM,illegal_immigrants_and_immigration,VCP63
+90477698,FALSE,3,7/27/2011 6:11,Against,0.6772,,51,5291911282_3420042351001,Mon 05 November 2007 11:19 PM,illegal_immigrants_and_immigration,Stg77
+90477699,FALSE,3,7/27/2011 8:17,Against,1,,52,5291911282_3420042351001,Mon 05 November 2007 11:31 PM,illegal_immigrants_and_immigration,Stg77
+90477700,FALSE,3,7/27/2011 0:24,For,1,,53,5291911282_3420042351001,Tue 06 November 2007 07:21 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477701,FALSE,3,7/27/2011 8:48,Against,0.6783,,54,5291911282_3420042351001,Tue 06 November 2007 07:52 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477702,FALSE,4,7/27/2011 9:01,For,0.5051,,55,5291911282_3420042351001,Tue 06 November 2007 08:34 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477703,FALSE,3,7/27/2011 8:49,Against,0.6716,,56,5291911282_3420042351001,Tue 06 November 2007 02:15 PM,illegal_immigrants_and_immigration,VCP63
+90477704,FALSE,3,7/27/2011 8:20,For,0.3564,,57,5291911282_3420042351001,Tue 06 November 2007 02:30 PM,illegal_immigrants_and_immigration,ss_287
+90477705,FALSE,3,7/27/2011 7:30,Against,0.6593,,58,5291911282_3420042351001,Fri 09 November 2007 02:43 PM,illegal_immigrants_and_immigration,ss_287
+90477706,FALSE,3,7/27/2011 7:16,Against,1,,59,5291911282_3420042351001,Fri 09 November 2007 08:00 PM,illegal_immigrants_and_immigration,tiedie4
+90477707,FALSE,3,7/27/2011 6:30,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477708,FALSE,3,7/27/2011 8:42,Against,0.667,,1,672198221_8350066961001,Fri 15 February 2008 07:13 AM,illegal_immigrants_and_immigration,Lucky_Lieutenant
+90477709,FALSE,4,7/27/2011 7:15,For,0.7391,,2,672198221_8350066961001,Fri 15 February 2008 07:15 AM,illegal_immigrants_and_immigration,NSNN
+90477710,FALSE,3,7/27/2011 7:41,Against,0.5942,,3,672198221_8350066961001,Fri 15 February 2008 07:25 AM,illegal_immigrants_and_immigration,Lucky_Lieutenant
+90477711,FALSE,3,7/27/2011 7:15,Not Sure,0.6743,,4,672198221_8350066961001,Fri 15 February 2008 07:31 AM,illegal_immigrants_and_immigration,godawgz
+90477712,FALSE,4,7/27/2011 6:58,Against,0.7971,,5,672198221_8350066961001,Fri 15 February 2008 07:35 AM,illegal_immigrants_and_immigration,Lucky_Lieutenant
+90477713,FALSE,3,7/27/2011 7:40,Not Sure,0.6486,,6,672198221_8350066961001,Fri 15 February 2008 07:37 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477714,FALSE,3,7/27/2011 6:24,Against,1,,7,672198221_8350066961001,Fri 15 February 2008 07:44 AM,illegal_immigrants_and_immigration,EAG154
+90477715,FALSE,3,7/27/2011 8:49,Against,0.6193,,8,672198221_8350066961001,Fri 15 February 2008 07:48 AM,illegal_immigrants_and_immigration,NSNN
+90477716,FALSE,3,7/27/2011 5:30,For,1,,9,672198221_8350066961001,Fri 15 February 2008 07:56 AM,illegal_immigrants_and_immigration,Elesso
+90477717,FALSE,3,7/27/2011 7:11,Not Sure,0.6421,,10,672198221_8350066961001,Fri 15 February 2008 07:59 AM,illegal_immigrants_and_immigration,bill_kananen
+90477718,FALSE,4,7/27/2011 6:28,For,0.786,,11,672198221_8350066961001,Fri 15 February 2008 08:02 AM,illegal_immigrants_and_immigration,NSNN
+90477719,FALSE,3,7/27/2011 6:33,Against,0.6638,,12,672198221_8350066961001,Fri 15 February 2008 08:04 AM,illegal_immigrants_and_immigration,bill_kananen
+90477720,FALSE,3,7/27/2011 6:55,For,0.3559,,13,672198221_8350066961001,Fri 15 February 2008 08:05 AM,illegal_immigrants_and_immigration,godawgz
+90477721,FALSE,3,7/27/2011 5:51,Against,0.7191,,14,672198221_8350066961001,Fri 15 February 2008 08:05 AM,illegal_immigrants_and_immigration,Lucky_Lieutenant
+90477722,FALSE,3,7/27/2011 7:39,Against,1,,15,672198221_8350066961001,Fri 15 February 2008 08:08 AM,illegal_immigrants_and_immigration,Lucky_Lieutenant
+90477723,FALSE,3,7/27/2011 8:01,Against,0.6364,,16,672198221_8350066961001,Fri 15 February 2008 08:10 AM,illegal_immigrants_and_immigration,bill_kananen
+90477724,FALSE,4,7/27/2011 7:10,Against,0.5271,,17,672198221_8350066961001,Fri 15 February 2008 08:33 AM,illegal_immigrants_and_immigration,foxred03
+90477725,FALSE,3,7/27/2011 7:41,Against,1,,18,672198221_8350066961001,Fri 15 February 2008 08:47 AM,illegal_immigrants_and_immigration,SgtSchaeffersMom
+90477726,FALSE,3,7/27/2011 8:39,Against,0.6753,,19,672198221_8350066961001,Fri 15 February 2008 08:52 AM,illegal_immigrants_and_immigration,SgtSchaeffersMom
+90477727,FALSE,3,7/27/2011 7:19,Against,1,,20,672198221_8350066961001,Fri 15 February 2008 08:54 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477728,FALSE,3,7/27/2011 4:15,Against,1,,21,672198221_8350066961001,Fri 15 February 2008 08:55 AM,illegal_immigrants_and_immigration,SgtSchaeffersMom
+90477729,FALSE,3,7/27/2011 4:14,Against,0.6627,,22,672198221_8350066961001,Fri 15 February 2008 09:32 AM,illegal_immigrants_and_immigration,Elesso
+90477730,FALSE,4,7/27/2011 2:46,For,0.7586,,23,672198221_8350066961001,Fri 15 February 2008 09:34 AM,illegal_immigrants_and_immigration,Elesso
+90477731,FALSE,3,7/27/2011 7:04,Against,1,,24,672198221_8350066961001,Fri 15 February 2008 09:38 AM,illegal_immigrants_and_immigration,GunnyRet03
+90477732,FALSE,3,7/27/2011 6:35,Against,1,,25,672198221_8350066961001,Fri 15 February 2008 09:39 AM,illegal_immigrants_and_immigration,Elesso
+90477733,FALSE,4,7/27/2011 4:41,Against,1,,26,672198221_8350066961001,Fri 15 February 2008 09:44 AM,illegal_immigrants_and_immigration,GunnyRet03
+90477734,FALSE,3,7/27/2011 7:23,Against,1,,27,672198221_8350066961001,Fri 15 February 2008 09:51 AM,illegal_immigrants_and_immigration,Elesso
+90477735,FALSE,3,7/27/2011 8:39,For,0.3559,,28,672198221_8350066961001,Fri 15 February 2008 09:51 AM,illegal_immigrants_and_immigration,Big_Spiffy
+90477736,FALSE,5,7/27/2011 9:09,For,0.6268,,29,672198221_8350066961001,Fri 15 February 2008 09:56 AM,illegal_immigrants_and_immigration,Elesso
+90477737,FALSE,3,7/27/2011 7:36,Against,0.6394,,30,672198221_8350066961001,Fri 15 February 2008 09:59 AM,illegal_immigrants_and_immigration,GunnyRet03
+90477738,FALSE,3,7/27/2011 4:38,Against,0.6512,,31,672198221_8350066961001,Fri 15 February 2008 10:01 AM,illegal_immigrants_and_immigration,GunnyRet03
+90477739,FALSE,3,7/27/2011 5:06,Against,1,,32,672198221_8350066961001,Fri 15 February 2008 10:12 AM,illegal_immigrants_and_immigration,Elesso
+90477740,FALSE,4,7/27/2011 5:42,Against,1,,33,672198221_8350066961001,Fri 15 February 2008 10:19 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477741,FALSE,3,7/27/2011 8:57,Against,0.3539,,34,672198221_8350066961001,Fri 15 February 2008 10:23 AM,illegal_immigrants_and_immigration,Elesso
+90477742,FALSE,3,7/27/2011 6:29,Not Sure,1,,35,672198221_8350066961001,Fri 15 February 2008 10:26 AM,illegal_immigrants_and_immigration,Elesso
+90477743,FALSE,3,7/27/2011 7:28,Not Sure,0.3535,,36,672198221_8350066961001,Fri 15 February 2008 10:27 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477744,FALSE,3,7/27/2011 6:51,Against,0.668,,37,672198221_8350066961001,Fri 15 February 2008 10:29 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477745,FALSE,4,7/27/2011 6:58,For,0.5508,,38,672198221_8350066961001,Fri 15 February 2008 10:34 AM,illegal_immigrants_and_immigration,Elesso
+90477746,FALSE,3,7/27/2011 8:40,Not Sure,0.6804,,39,672198221_8350066961001,Fri 15 February 2008 10:36 AM,illegal_immigrants_and_immigration,Elesso
+90477747,FALSE,3,7/27/2011 8:05,Against,0.6866,,40,672198221_8350066961001,Fri 15 February 2008 10:39 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477748,FALSE,3,7/27/2011 8:17,Against,1,,41,672198221_8350066961001,Fri 15 February 2008 10:42 AM,illegal_immigrants_and_immigration,tomh59
+90477749,FALSE,3,7/27/2011 5:30,Against,1,,42,672198221_8350066961001,Fri 15 February 2008 10:46 AM,illegal_immigrants_and_immigration,Jade_Gate
+90477750,FALSE,4,7/27/2011 6:24,Against,0.7848,,43,672198221_8350066961001,Fri 15 February 2008 10:59 AM,illegal_immigrants_and_immigration,21yrsUSCGUSCS
+90477751,FALSE,4,7/27/2011 6:55,Not Sure,0.4707,,44,672198221_8350066961001,Fri 15 February 2008 11:27 AM,illegal_immigrants_and_immigration,Elesso
+90477752,FALSE,3,7/27/2011 7:38,Not Sure,1,,45,672198221_8350066961001,Fri 15 February 2008 11:48 AM,illegal_immigrants_and_immigration,GunnyRet03
+90477753,FALSE,3,7/27/2011 5:53,For,0.6948,,46,672198221_8350066961001,Fri 15 February 2008 11:57 AM,illegal_immigrants_and_immigration,Elesso
+90477754,FALSE,3,7/27/2011 6:37,Against,1,,47,672198221_8350066961001,Fri 15 February 2008 12:02 PM,illegal_immigrants_and_immigration,Jade_Gate
+90477755,FALSE,3,7/27/2011 6:06,Not Sure,0.6311,,48,672198221_8350066961001,Fri 15 February 2008 12:23 PM,illegal_immigrants_and_immigration,Elesso
+90477756,FALSE,3,7/27/2011 7:50,Against,1,,49,672198221_8350066961001,Fri 15 February 2008 12:25 PM,illegal_immigrants_and_immigration,Sawyer124
+90477757,FALSE,3,7/27/2011 6:48,Against,1,,50,672198221_8350066961001,Fri 15 February 2008 12:31 PM,illegal_immigrants_and_immigration,Jade_Gate
+90477758,FALSE,3,7/27/2011 5:41,Against,1,,51,672198221_8350066961001,Fri 15 February 2008 01:00 PM,illegal_immigrants_and_immigration,21yrsUSCGUSCS
+90477759,FALSE,3,7/27/2011 7:40,Against,1,,52,672198221_8350066961001,Sat 16 February 2008 08:29 AM,illegal_immigrants_and_immigration,Elesso
+90477760,FALSE,3,7/27/2011 7:04,Against,0.6593,,53,672198221_8350066961001,Thu 21 February 2008 06:10 AM,illegal_immigrants_and_immigration,rayevinsonsr
+90477761,FALSE,3,7/27/2011 6:02,For,0.6368,,Post ID,Thread ID,Time,Topic,User ID
+90477762,FALSE,3,7/27/2011 7:28,Not Sure,0.7063,,1,672198221_2300002351001,Mon 29 October 2007 04:03 PM,illegal_immigrants_and_immigration,USAF_76_2_80
+90477763,FALSE,3,7/27/2011 7:13,Against,1,,2,672198221_2300002351001,Mon 29 October 2007 04:29 PM,illegal_immigrants_and_immigration,DD449
+90477764,FALSE,3,7/27/2011 6:58,Against,0.6064,,3,672198221_2300002351001,Mon 29 October 2007 04:35 PM,illegal_immigrants_and_immigration,DIRTYLODOWN
+90477765,FALSE,3,7/27/2011 7:48,Against,0.7031,,4,672198221_2300002351001,Mon 29 October 2007 04:51 PM,illegal_immigrants_and_immigration,Digital_Warfare
+90477766,FALSE,3,7/27/2011 8:45,Against,0.6693,,5,672198221_2300002351001,Mon 29 October 2007 05:00 PM,illegal_immigrants_and_immigration,outlaws93
+90477767,FALSE,4,7/27/2011 5:55,Not Sure,1,,6,672198221_2300002351001,Mon 29 October 2007 05:11 PM,illegal_immigrants_and_immigration,USAF_76_2_80
+90477768,FALSE,3,7/27/2011 4:57,Not Sure,0.6541,,7,672198221_2300002351001,Mon 29 October 2007 05:20 PM,illegal_immigrants_and_immigration,DD449
+90477769,FALSE,3,7/27/2011 8:03,Against,1,,8,672198221_2300002351001,Mon 29 October 2007 05:22 PM,illegal_immigrants_and_immigration,outlaws93
+90477770,FALSE,3,7/27/2011 7:02,Not Sure,0.6714,,9,672198221_2300002351001,Mon 29 October 2007 05:22 PM,illegal_immigrants_and_immigration,sldo
+90477771,FALSE,3,7/27/2011 7:05,Against,0.7043,,10,672198221_2300002351001,Mon 29 October 2007 05:30 PM,illegal_immigrants_and_immigration,outlaws93
+90477772,FALSE,3,7/27/2011 7:02,Against,0.7087,,11,672198221_2300002351001,Mon 29 October 2007 05:36 PM,illegal_immigrants_and_immigration,FlankerFlyer
+90477773,FALSE,3,7/27/2011 8:41,Not Sure,0.6666,,12,672198221_2300002351001,Mon 29 October 2007 05:41 PM,illegal_immigrants_and_immigration,sldo
+90477774,FALSE,3,7/27/2011 5:40,Not Sure,1,,13,672198221_2300002351001,Mon 29 October 2007 05:43 PM,illegal_immigrants_and_immigration,outlaws93
+90477775,FALSE,3,7/27/2011 6:43,Not Sure,1,,14,672198221_2300002351001,Mon 29 October 2007 05:45 PM,illegal_immigrants_and_immigration,outlaws93
+90477776,FALSE,3,7/27/2011 8:43,Not Sure,0.6581,,15,672198221_2300002351001,Mon 29 October 2007 05:48 PM,illegal_immigrants_and_immigration,sldo
+90477777,FALSE,3,7/27/2011 6:14,Not Sure,1,,16,672198221_2300002351001,Mon 29 October 2007 05:51 PM,illegal_immigrants_and_immigration,outlaws93
+90477778,FALSE,3,7/27/2011 8:41,Against,0.6319,,17,672198221_2300002351001,Mon 29 October 2007 06:38 PM,illegal_immigrants_and_immigration,SgtSchaeffersMom
+90477779,FALSE,3,7/27/2011 4:19,Against,0.6371,,18,672198221_2300002351001,Mon 29 October 2007 06:51 PM,illegal_immigrants_and_immigration,FBoehm
+90477780,FALSE,3,7/27/2011 8:50,Against,0.6767,,19,672198221_2300002351001,Mon 29 October 2007 07:06 PM,illegal_immigrants_and_immigration,GRAYMAN
+90477781,FALSE,3,7/27/2011 6:19,Not Sure,0.7094,,20,672198221_2300002351001,Mon 29 October 2007 07:52 PM,illegal_immigrants_and_immigration,USAF_76_2_80
+90477782,FALSE,3,7/27/2011 4:15,Against,1,,21,672198221_2300002351001,Mon 29 October 2007 07:55 PM,illegal_immigrants_and_immigration,ReaperDoc
+90477783,FALSE,3,7/27/2011 7:57,Against,0.6842,,22,672198221_2300002351001,Mon 29 October 2007 08:09 PM,illegal_immigrants_and_immigration,USAF_76_2_80
+90477784,FALSE,3,7/27/2011 8:13,Against,0.6739,,23,672198221_2300002351001,Mon 29 October 2007 08:13 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477785,FALSE,4,7/27/2011 6:20,For,0.5216,,24,672198221_2300002351001,Mon 29 October 2007 09:14 PM,illegal_immigrants_and_immigration,rd350
+90477786,FALSE,3,7/27/2011 4:11,Against,0.66,,25,672198221_2300002351001,Mon 29 October 2007 09:32 PM,illegal_immigrants_and_immigration,FBoehm
+90477787,FALSE,3,7/27/2011 7:02,Against,0.6947,,26,672198221_2300002351001,Mon 29 October 2007 09:35 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477788,FALSE,3,7/27/2011 4:23,For,0.679,,27,672198221_2300002351001,Mon 29 October 2007 09:44 PM,illegal_immigrants_and_immigration,rd350
+90477789,FALSE,3,7/27/2011 6:39,For,0.7009,,28,672198221_2300002351001,Mon 29 October 2007 09:52 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477790,FALSE,3,7/27/2011 6:44,Not Sure,0.3745,,29,672198221_2300002351001,Mon 29 October 2007 09:53 PM,illegal_immigrants_and_immigration,
+90477791,FALSE,3,7/27/2011 7:45,Against,1,,30,672198221_2300002351001,Mon 29 October 2007 09:57 PM,illegal_immigrants_and_immigration,ReaperDoc
+90477792,FALSE,3,7/27/2011 7:19,Against,1,,31,672198221_2300002351001,Mon 29 October 2007 09:59 PM,illegal_immigrants_and_immigration,MilitaryFanSupporter
+90477793,FALSE,3,7/27/2011 8:05,Against,1,,32,672198221_2300002351001,Mon 29 October 2007 10:04 PM,illegal_immigrants_and_immigration,DIABLO_OPSGRP
+90477794,FALSE,3,7/27/2011 6:47,Against,1,,33,672198221_2300002351001,Tue 30 October 2007 01:10 PM,illegal_immigrants_and_immigration,popsiq
+90477795,FALSE,3,7/27/2011 6:58,Against,1,,34,672198221_2300002351001,Tue 30 October 2007 01:25 PM,illegal_immigrants_and_immigration,rd350
+90477796,FALSE,3,7/27/2011 7:19,Against,1,,35,672198221_2300002351001,Tue 30 October 2007 01:41 PM,illegal_immigrants_and_immigration,sldo
+90477797,FALSE,3,7/27/2011 4:51,Against,0.6539,,36,672198221_2300002351001,Tue 30 October 2007 01:55 PM,illegal_immigrants_and_immigration,Airborneinfantry
+90477798,FALSE,3,7/27/2011 7:34,For,1,,37,672198221_2300002351001,Tue 30 October 2007 03:55 PM,illegal_immigrants_and_immigration,jdksfcret
+90477799,FALSE,3,7/27/2011 6:43,Not Sure,0.6652,,38,672198221_2300002351001,Tue 30 October 2007 04:08 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477800,FALSE,3,7/27/2011 7:01,For,0.6986,,39,672198221_2300002351001,Tue 30 October 2007 04:22 PM,illegal_immigrants_and_immigration,jdksfcret
+90477801,FALSE,3,7/26/2011 23:27,Against,1,,40,672198221_2300002351001,Tue 30 October 2007 04:41 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477802,FALSE,3,7/27/2011 6:30,Against,0.6604,,41,672198221_2300002351001,Tue 30 October 2007 06:01 PM,illegal_immigrants_and_immigration,VCP63
+90477803,FALSE,4,7/27/2011 6:36,Not Sure,0.4694,,42,672198221_2300002351001,Tue 30 October 2007 06:51 PM,illegal_immigrants_and_immigration,jdksfcret
+90477804,FALSE,3,7/27/2011 5:49,Against,1,,43,672198221_2300002351001,Wed 31 October 2007 05:43 AM,illegal_immigrants_and_immigration,MarkAntney
+90477805,FALSE,3,7/27/2011 6:47,Against,0.6743,,44,672198221_2300002351001,Wed 31 October 2007 05:49 AM,illegal_immigrants_and_immigration,MarkAntney
+90477806,FALSE,3,7/27/2011 8:58,Against,0.6327,,45,672198221_2300002351001,Wed 31 October 2007 05:51 AM,illegal_immigrants_and_immigration,MarkAntney
+90477807,FALSE,3,7/27/2011 7:20,For,0.3781,,46,672198221_2300002351001,Wed 31 October 2007 05:54 AM,illegal_immigrants_and_immigration,anoldnotboldrecondo
+90477808,FALSE,3,7/27/2011 5:37,Against,1,,47,672198221_2300002351001,Wed 31 October 2007 05:59 AM,illegal_immigrants_and_immigration,0Crystal0
+90477809,FALSE,3,7/27/2011 7:19,Against,0.616,,48,672198221_2300002351001,Wed 31 October 2007 06:05 AM,illegal_immigrants_and_immigration,dhd123
+90477810,FALSE,3,7/27/2011 8:45,Against,0.6875,,49,672198221_2300002351001,Wed 31 October 2007 06:08 AM,illegal_immigrants_and_immigration,dhd123
+90477811,FALSE,3,7/27/2011 8:41,Against,0.6506,,50,672198221_2300002351001,Wed 31 October 2007 06:15 AM,illegal_immigrants_and_immigration,dhd123
+90477812,FALSE,3,7/27/2011 7:02,Against,1,,51,672198221_2300002351001,Wed 31 October 2007 06:19 AM,illegal_immigrants_and_immigration,dhd123
+90477813,FALSE,3,7/27/2011 6:55,Against,1,,52,672198221_2300002351001,Wed 31 October 2007 06:20 AM,illegal_immigrants_and_immigration,dhd123
+90477814,FALSE,3,7/27/2011 6:07,Against,1,,53,672198221_2300002351001,Wed 31 October 2007 07:04 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477815,FALSE,4,7/27/2011 7:10,Not Sure,1,,54,672198221_2300002351001,Wed 31 October 2007 07:11 AM,illegal_immigrants_and_immigration,dhd123
+90477816,FALSE,3,7/27/2011 8:24,Against,1,,55,672198221_2300002351001,Wed 31 October 2007 07:25 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477817,FALSE,3,7/27/2011 8:00,Against,1,,56,672198221_2300002351001,Wed 31 October 2007 07:30 AM,illegal_immigrants_and_immigration,stepnfetchet
+90477818,FALSE,3,7/27/2011 6:45,Against,1,,57,672198221_2300002351001,Wed 31 October 2007 07:43 AM,illegal_immigrants_and_immigration,MarkAntney
+90477819,FALSE,3,7/27/2011 7:29,Against,1,,58,672198221_2300002351001,Wed 31 October 2007 09:31 AM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477820,FALSE,3,7/27/2011 6:35,Against,1,,59,672198221_2300002351001,Wed 31 October 2007 09:48 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477821,FALSE,3,7/27/2011 4:28,Against,0.383,,60,672198221_2300002351001,Wed 31 October 2007 11:48 AM,illegal_immigrants_and_immigration,13779802
+90477822,FALSE,3,7/27/2011 6:19,Against,0.3531,,61,672198221_2300002351001,Wed 31 October 2007 12:06 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477823,FALSE,3,7/27/2011 4:11,Against,0.6846,,62,672198221_2300002351001,Wed 31 October 2007 12:17 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477824,FALSE,3,7/27/2011 7:27,For,0.6387,,63,672198221_2300002351001,Wed 31 October 2007 12:21 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477825,FALSE,3,7/27/2011 7:26,Against,1,,64,672198221_2300002351001,Wed 31 October 2007 12:25 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477826,FALSE,4,7/27/2011 3:15,Against,0.5156,,65,672198221_2300002351001,Wed 31 October 2007 12:35 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477827,FALSE,3,7/27/2011 7:47,Against,0.3545,,66,672198221_2300002351001,Wed 31 October 2007 12:45 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477828,FALSE,3,7/27/2011 6:58,Against,1,,67,672198221_2300002351001,Wed 31 October 2007 01:24 PM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477829,FALSE,3,7/27/2011 8:15,Against,1,,68,672198221_2300002351001,Wed 31 October 2007 01:58 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477830,FALSE,3,7/27/2011 6:53,Against,0.635,,69,672198221_2300002351001,Wed 31 October 2007 01:58 PM,illegal_immigrants_and_immigration,TaxmanJim
+90477831,FALSE,3,7/27/2011 8:06,Not Sure,0.7077,,70,672198221_2300002351001,Wed 31 October 2007 02:05 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477832,FALSE,3,7/27/2011 6:38,Against,0.6727,,71,672198221_2300002351001,Thu 01 November 2007 08:47 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477833,FALSE,3,7/27/2011 8:51,Against,0.3532,,72,672198221_2300002351001,Thu 01 November 2007 08:49 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477834,FALSE,3,7/27/2011 6:36,Against,0.6767,,73,672198221_2300002351001,Thu 01 November 2007 10:22 AM,illegal_immigrants_and_immigration,TaxmanJim
+90477835,FALSE,3,7/27/2011 7:10,Not Sure,1,,74,672198221_2300002351001,Thu 01 November 2007 10:33 AM,illegal_immigrants_and_immigration,TaxmanJim
+90477836,FALSE,4,7/27/2011 5:59,Against,0.5283,,75,672198221_2300002351001,Thu 01 November 2007 11:07 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477837,FALSE,3,7/27/2011 2:17,Against,0.6528,,76,672198221_2300002351001,Thu 01 November 2007 11:13 AM,illegal_immigrants_and_immigration,anoldnotboldrecondo
+90477838,FALSE,3,7/27/2011 2:11,Against,0.6989,,77,672198221_2300002351001,Thu 01 November 2007 11:19 AM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477839,FALSE,3,7/27/2011 5:05,Against,1,,78,672198221_2300002351001,Thu 01 November 2007 11:21 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477840,FALSE,3,7/27/2011 1:07,For,0.6486,,79,672198221_2300002351001,Thu 01 November 2007 11:27 AM,illegal_immigrants_and_immigration,rayld2
+90477841,FALSE,3,7/27/2011 7:25,Against,0.6894,,80,672198221_2300002351001,Thu 01 November 2007 11:35 AM,illegal_immigrants_and_immigration,TaxmanJim
+90477842,FALSE,3,7/27/2011 8:11,Not Sure,0.6842,,81,672198221_2300002351001,Thu 01 November 2007 12:11 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477843,FALSE,3,7/27/2011 8:15,Not Sure,0.3861,,82,672198221_2300002351001,Thu 01 November 2007 12:17 PM,illegal_immigrants_and_immigration,rayld2
+90477844,FALSE,3,7/27/2011 6:37,Not Sure,0.683,,83,672198221_2300002351001,Thu 01 November 2007 02:12 PM,illegal_immigrants_and_immigration,rayld2
+90477845,FALSE,3,7/27/2011 5:53,Against,0.7035,,84,672198221_2300002351001,Thu 01 November 2007 02:17 PM,illegal_immigrants_and_immigration,rayld2
+90477846,FALSE,3,7/27/2011 7:56,Against,1,,85,672198221_2300002351001,Thu 01 November 2007 06:35 PM,illegal_immigrants_and_immigration,SFC_SOF_Intel
+90477847,FALSE,3,7/27/2011 7:54,Against,1,,86,672198221_2300002351001,Tue 06 November 2007 05:17 AM,illegal_immigrants_and_immigration,ArmyBratGoesWild
+90477848,FALSE,3,7/27/2011 8:17,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477849,FALSE,3,7/27/2011 5:43,Against,0.684,,1,672198221_8650031532001,Thu 08 October 2009 05:40 PM,illegal_immigrants_and_immigration,14713742
+90477850,FALSE,3,7/27/2011 7:01,For,0.7004,,2,672198221_8650031532001,Fri 09 October 2009 04:38 AM,illegal_immigrants_and_immigration,sbird
+90477851,FALSE,3,7/27/2011 5:27,For,0.6641,,3,672198221_8650031532001,Fri 09 October 2009 08:12 AM,illegal_immigrants_and_immigration,ArtMarsh
+90477852,FALSE,3,7/27/2011 8:44,For,1,,4,672198221_8650031532001,Fri 09 October 2009 09:38 AM,illegal_immigrants_and_immigration,ETCPJ
+90477853,FALSE,3,7/27/2011 5:06,Not Sure,0.6473,,5,672198221_8650031532001,Fri 09 October 2009 09:42 AM,illegal_immigrants_and_immigration,ETCPJ
+90477855,FALSE,3,7/27/2011 6:57,Against,0.6216,,6,672198221_8650031532001,Fri 09 October 2009 09:55 AM,illegal_immigrants_and_immigration,Agent991
+90477856,FALSE,3,7/27/2011 6:47,Not Sure,0.6448,,7,672198221_8650031532001,Fri 09 October 2009 10:12 AM,illegal_immigrants_and_immigration,Agent991
+90477857,FALSE,3,7/27/2011 8:40,Against,0.6598,,8,672198221_8650031532001,Fri 09 October 2009 10:46 AM,illegal_immigrants_and_immigration,14713742
+90477858,FALSE,4,7/27/2011 5:20,For,0.544,,9,672198221_8650031532001,Fri 09 October 2009 10:49 AM,illegal_immigrants_and_immigration,14713742
+90477859,FALSE,3,7/27/2011 7:37,Against,0.3497,,10,672198221_8650031532001,Fri 09 October 2009 11:13 AM,illegal_immigrants_and_immigration,ETCPJ
+90477860,FALSE,3,7/27/2011 7:18,Against,0.6489,,11,672198221_8650031532001,Fri 09 October 2009 11:27 AM,illegal_immigrants_and_immigration,14713742
+90477861,FALSE,4,7/27/2011 5:48,Against,0.7716,,12,672198221_8650031532001,Fri 09 October 2009 01:54 PM,illegal_immigrants_and_immigration,67NOV
+90477862,FALSE,3,7/27/2011 8:42,Against,0.6635,,13,672198221_8650031532001,Fri 09 October 2009 03:36 PM,illegal_immigrants_and_immigration,14713742
+90477863,FALSE,3,7/27/2011 6:33,Not Sure,1,,14,672198221_8650031532001,Sun 11 October 2009 08:46 AM,illegal_immigrants_and_immigration,BAGodbehere
+90477864,FALSE,3,7/27/2011 8:10,Not Sure,0.7042,,15,672198221_8650031532001,Sun 11 October 2009 09:20 AM,illegal_immigrants_and_immigration,Agent991
+90477865,FALSE,4,7/27/2011 2:13,Not Sure,0.7361,,16,672198221_8650031532001,Sun 11 October 2009 09:31 AM,illegal_immigrants_and_immigration,Agent991
+90477866,FALSE,3,7/27/2011 8:05,Not Sure,1,,17,672198221_8650031532001,Sun 11 October 2009 03:43 PM,illegal_immigrants_and_immigration,14713742
+90477867,FALSE,5,7/27/2011 9:00,For,0.6355,,18,672198221_8650031532001,Sun 11 October 2009 03:44 PM,illegal_immigrants_and_immigration,14713742
+90477868,FALSE,3,7/27/2011 3:45,For,0.6574,,19,672198221_8650031532001,Sun 11 October 2009 05:21 PM,illegal_immigrants_and_immigration,ETCPJ
+90477869,FALSE,3,7/27/2011 6:32,Against,0.6745,,20,672198221_8650031532001,Sun 11 October 2009 05:51 PM,illegal_immigrants_and_immigration,14713742
+90477870,FALSE,3,7/27/2011 7:18,Against,0.6633,,21,672198221_8650031532001,Mon 12 October 2009 05:35 PM,illegal_immigrants_and_immigration,RRR52
+90477871,FALSE,4,7/27/2011 9:01,For,1,,22,672198221_8650031532001,Mon 12 October 2009 05:51 PM,illegal_immigrants_and_immigration,1WW
+90477872,FALSE,3,7/27/2011 7:04,For,0.6365,,23,672198221_8650031532001,Mon 12 October 2009 05:59 PM,illegal_immigrants_and_immigration,KoRnAdvocate
+90477873,FALSE,3,7/27/2011 8:08,Not Sure,0.6507,,24,672198221_8650031532001,Mon 12 October 2009 06:11 PM,illegal_immigrants_and_immigration,stec74
+90477874,FALSE,3,7/27/2011 8:04,Against,0.7059,,25,672198221_8650031532001,Mon 12 October 2009 06:13 PM,illegal_immigrants_and_immigration,RRR52
+90477875,FALSE,3,7/27/2011 7:11,Not Sure,0.7151,,26,672198221_8650031532001,Mon 12 October 2009 06:14 PM,illegal_immigrants_and_immigration,14713742
+90477876,FALSE,3,7/27/2011 4:51,Not Sure,1,,27,672198221_8650031532001,Mon 12 October 2009 06:17 PM,illegal_immigrants_and_immigration,KoRnAdvocate
+90477877,FALSE,3,7/27/2011 5:25,Against,1,,28,672198221_8650031532001,Mon 12 October 2009 06:19 PM,illegal_immigrants_and_immigration,KoRnAdvocate
+90477878,FALSE,3,7/27/2011 5:39,Against,0.6992,,29,672198221_8650031532001,Mon 12 October 2009 06:20 PM,illegal_immigrants_and_immigration,1WW
+90477879,FALSE,3,7/27/2011 4:37,Against,1,,30,672198221_8650031532001,Mon 12 October 2009 06:23 PM,illegal_immigrants_and_immigration,I_M_Qwerty
+90477880,FALSE,3,7/27/2011 6:41,Against,1,,31,672198221_8650031532001,Mon 12 October 2009 06:24 PM,illegal_immigrants_and_immigration,JimCrackCorn
+90477881,FALSE,3,7/27/2011 3:50,Against,0.6834,,32,672198221_8650031532001,Mon 12 October 2009 06:28 PM,illegal_immigrants_and_immigration,I_M_Qwerty
+90477882,FALSE,3,7/27/2011 4:02,Against,0.6486,,33,672198221_8650031532001,Mon 12 October 2009 06:32 PM,illegal_immigrants_and_immigration,1WW
+90477883,FALSE,3,7/27/2011 7:37,Against,1,,34,672198221_8650031532001,Mon 12 October 2009 06:41 PM,illegal_immigrants_and_immigration,I_M_Qwerty
+90477884,FALSE,3,7/27/2011 8:47,Against,0.6609,,35,672198221_8650031532001,Mon 12 October 2009 06:51 PM,illegal_immigrants_and_immigration,14713742
+90477885,FALSE,3,7/27/2011 7:40,Against,1,,36,672198221_8650031532001,Mon 12 October 2009 06:54 PM,illegal_immigrants_and_immigration,1WW
+90477886,FALSE,3,7/27/2011 2:41,Against,0.6711,,37,672198221_8650031532001,Mon 12 October 2009 07:05 PM,illegal_immigrants_and_immigration,I_M_Qwerty
+90477887,FALSE,3,7/27/2011 6:38,Against,0.723,,38,672198221_8650031532001,Mon 12 October 2009 07:14 PM,illegal_immigrants_and_immigration,patriot101
+90477888,FALSE,4,7/27/2011 7:49,Against,0.7562,,39,672198221_8650031532001,Mon 12 October 2009 07:15 PM,illegal_immigrants_and_immigration,1WW
+90477889,FALSE,3,7/27/2011 6:52,Against,0.6981,,40,672198221_8650031532001,Mon 12 October 2009 07:23 PM,illegal_immigrants_and_immigration,I_M_Qwerty
+90477890,FALSE,4,7/27/2011 9:00,Against,0.7196,,41,672198221_8650031532001,Mon 12 October 2009 07:50 PM,illegal_immigrants_and_immigration,1WW
+90477891,FALSE,3,7/27/2011 4:34,Against,0.3646,,42,672198221_8650031532001,Mon 12 October 2009 10:04 PM,illegal_immigrants_and_immigration,LineDoggie
+90477892,FALSE,3,7/27/2011 5:54,Not Sure,0.6202,,43,672198221_8650031532001,Tue 13 October 2009 01:38 AM,illegal_immigrants_and_immigration,Elesso
+90477893,FALSE,3,7/27/2011 6:44,For,0.6502,,44,672198221_8650031532001,Tue 13 October 2009 01:40 AM,illegal_immigrants_and_immigration,Elesso
+90477894,FALSE,3,7/27/2011 7:36,Not Sure,1,,45,672198221_8650031532001,Tue 13 October 2009 02:45 AM,illegal_immigrants_and_immigration,14713742
+90477895,FALSE,3,7/27/2011 1:50,Against,1,,46,672198221_8650031532001,Tue 13 October 2009 08:23 AM,illegal_immigrants_and_immigration,Anbar7
+90477896,FALSE,3,7/27/2011 2:07,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477897,FALSE,3,7/27/2011 6:49,Not Sure,1,,1,672198221_3670054132001,Wed 19 August 2009 10:46 AM,iraq_war,ss_287
+90477898,FALSE,3,7/27/2011 3:50,Against,0.6613,,2,672198221_3670054132001,Wed 19 August 2009 11:06 AM,iraq_war,xerello
+90477899,FALSE,3,7/27/2011 7:38,Not Sure,1,,3,672198221_3670054132001,Wed 19 August 2009 11:23 AM,iraq_war,ss_287
+90477900,FALSE,3,7/26/2011 23:24,Against,1,,4,672198221_3670054132001,Wed 19 August 2009 11:40 AM,iraq_war,Dublin1916
+90477901,FALSE,3,7/27/2011 5:57,Not Sure,0.6937,,5,672198221_3670054132001,Wed 19 August 2009 11:57 AM,iraq_war,usa_girl
+90477902,FALSE,3,7/27/2011 7:02,Against,1,,6,672198221_3670054132001,Wed 19 August 2009 11:58 AM,iraq_war,john2x
+90477903,FALSE,3,7/27/2011 6:25,For,0.3549,,7,672198221_3670054132001,Wed 19 August 2009 12:04 PM,iraq_war,Grachus
+90477904,FALSE,3,7/27/2011 7:13,Against,0.6924,,8,672198221_3670054132001,Wed 19 August 2009 12:15 PM,iraq_war,john2x
+90477905,FALSE,3,7/27/2011 6:36,Against,0.6682,,9,672198221_3670054132001,Wed 19 August 2009 12:17 PM,iraq_war,Thud357L
+90477906,FALSE,3,7/27/2011 5:41,Against,1,,10,672198221_3670054132001,Wed 19 August 2009 12:18 PM,iraq_war,Dublin1916
+90477907,FALSE,3,7/27/2011 7:20,For,1,,11,672198221_3670054132001,Wed 19 August 2009 12:27 PM,iraq_war,usa_girl
+90477908,FALSE,3,7/27/2011 4:23,For,1,,12,672198221_3670054132001,Wed 19 August 2009 12:36 PM,iraq_war,Agent991
+90477909,FALSE,3,7/27/2011 8:50,Against,0.6768,,13,672198221_3670054132001,Wed 19 August 2009 12:46 PM,iraq_war,Grachus
+90477910,FALSE,3,7/27/2011 5:59,Not Sure,0.665,,14,672198221_3670054132001,Wed 19 August 2009 12:53 PM,iraq_war,usa_girl
+90477911,FALSE,4,7/27/2011 4:37,For,0.7355,,15,672198221_3670054132001,Wed 19 August 2009 12:59 PM,iraq_war,Anbar7
+90477912,FALSE,3,7/27/2011 6:30,For,1,,16,672198221_3670054132001,Wed 19 August 2009 01:11 PM,iraq_war,peter3_1
+90477913,FALSE,3,7/27/2011 8:49,For,0.6796,,17,672198221_3670054132001,Wed 19 August 2009 01:16 PM,iraq_war,Grachus
+90477914,FALSE,3,7/27/2011 8:47,Against,0.6265,,18,672198221_3670054132001,Wed 19 August 2009 01:18 PM,iraq_war,Grachus
+90477915,FALSE,3,7/27/2011 8:49,Not Sure,0.6193,,19,672198221_3670054132001,Wed 19 August 2009 01:45 PM,iraq_war,6486143
+90477916,FALSE,3,7/27/2011 8:58,For,1,,20,672198221_3670054132001,Wed 19 August 2009 01:46 PM,iraq_war,6486143
+90477917,FALSE,3,7/27/2011 6:47,For,0.7026,,21,672198221_3670054132001,Wed 19 August 2009 01:52 PM,iraq_war,usa_girl
+90477918,FALSE,3,7/27/2011 6:05,Against,1,,22,672198221_3670054132001,Wed 19 August 2009 02:06 PM,iraq_war,Duster6
+90477919,FALSE,3,7/27/2011 7:25,Against,0.6406,,23,672198221_3670054132001,Wed 19 August 2009 02:15 PM,iraq_war,6486143
+90477920,FALSE,4,7/27/2011 5:58,For,0.4965,,24,672198221_3670054132001,Wed 19 August 2009 02:56 PM,iraq_war,RakkGrunt187
+90477921,FALSE,4,7/27/2011 5:49,Against,1,,25,672198221_3670054132001,Wed 19 August 2009 03:36 PM,iraq_war,john2x
+90477922,FALSE,3,7/27/2011 8:05,For,0.3646,,26,672198221_3670054132001,Wed 19 August 2009 03:50 PM,iraq_war,john2x
+90477923,FALSE,3,7/27/2011 7:36,Against,0.3698,,27,672198221_3670054132001,Wed 19 August 2009 06:55 PM,iraq_war,6486143
+90477924,FALSE,3,7/27/2011 8:53,For,1,,28,672198221_3670054132001,Wed 19 August 2009 07:20 PM,iraq_war,usa_girl
+90477925,FALSE,3,7/27/2011 8:50,Against,0.6719,,29,672198221_3670054132001,Wed 19 August 2009 10:29 PM,iraq_war,Thud357L
+90477926,FALSE,3,7/27/2011 8:02,For,0.3643,,30,672198221_3670054132001,Wed 19 August 2009 10:34 PM,iraq_war,m551sheridan
+90477927,FALSE,3,7/27/2011 7:25,Against,0.6521,,31,672198221_3670054132001,Wed 19 August 2009 10:44 PM,iraq_war,Thud357L
+90477928,FALSE,3,7/27/2011 7:41,For,0.6741,,32,672198221_3670054132001,Thu 20 August 2009 07:38 AM,iraq_war,Anbar7
+90477929,FALSE,3,7/27/2011 8:06,Against,1,,33,672198221_3670054132001,Thu 20 August 2009 08:09 AM,iraq_war,xerello
+90477930,FALSE,3,7/27/2011 4:29,For,1,,34,672198221_3670054132001,Thu 20 August 2009 09:22 AM,iraq_war,Anbar7
+90477931,FALSE,4,7/27/2011 7:41,Against,1,,35,672198221_3670054132001,Thu 20 August 2009 09:39 AM,iraq_war,john2x
+90477932,FALSE,3,7/27/2011 8:57,Not Sure,0.6644,,36,672198221_3670054132001,Thu 20 August 2009 12:44 PM,iraq_war,Anbar7
+90477933,FALSE,3,7/27/2011 7:55,Against,0.641,,37,672198221_3670054132001,Thu 20 August 2009 01:02 PM,iraq_war,6486143
+90477934,FALSE,3,7/27/2011 7:26,Against,0.7321,,38,672198221_3670054132001,Thu 20 August 2009 02:04 PM,iraq_war,xerello
+90477935,FALSE,3,7/27/2011 7:23,For,1,,39,672198221_3670054132001,Fri 21 August 2009 09:30 AM,iraq_war,Anbar7
+90477936,FALSE,3,7/27/2011 5:05,Against,0.6765,,40,672198221_3670054132001,Sat 22 August 2009 11:14 AM,iraq_war,xerello
+90477937,FALSE,3,7/27/2011 7:47,Not Sure,0.3844,,41,672198221_3670054132001,Sat 22 August 2009 11:20 AM,iraq_war,6486143
+90477938,FALSE,3,7/27/2011 2:41,For,0.3489,,42,672198221_3670054132001,Sat 22 August 2009 11:32 AM,iraq_war,IHAWKER
+90477939,FALSE,3,7/27/2011 7:56,Against,1,,43,672198221_3670054132001,Sun 23 August 2009 07:57 AM,iraq_war,xerello
+90477940,FALSE,3,7/27/2011 5:46,Against,0.6836,,44,672198221_3670054132001,Sun 23 August 2009 08:06 PM,iraq_war,john2x
+90477941,FALSE,3,7/27/2011 7:22,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477942,FALSE,3,7/27/2011 8:07,For,1,,1,409192893_3480004751001,Mon 26 November 2007 08:09 AM,iraq_war,4403771
+90477943,FALSE,3,7/27/2011 8:45,For,0.6188,,2,409192893_3480004751001,Mon 26 November 2007 08:39 AM,iraq_war,Lynb30
+90477944,FALSE,3,7/27/2011 6:05,Against,0.6989,,3,409192893_3480004751001,Mon 26 November 2007 09:17 AM,iraq_war,4403771
+90477945,FALSE,3,7/27/2011 7:46,For,1,,4,409192893_3480004751001,Mon 26 November 2007 10:12 AM,iraq_war,THANKUVETS
+90477946,FALSE,3,7/27/2011 6:41,For,0.646,,5,409192893_3480004751001,Mon 26 November 2007 12:45 PM,iraq_war,Lynb30
+90477947,FALSE,3,7/27/2011 8:45,For,0.6537,,6,409192893_3480004751001,Mon 26 November 2007 05:31 PM,iraq_war,JBL266
+90477948,FALSE,4,7/27/2011 9:01,Against,0.5156,,7,409192893_3480004751001,Mon 26 November 2007 05:39 PM,iraq_war,foxred03
+90477949,FALSE,4,7/27/2011 6:57,Not Sure,0.4481,,8,409192893_3480004751001,Mon 26 November 2007 05:53 PM,iraq_war,joshuacarnes
+90477950,FALSE,3,7/27/2011 6:52,Against,1,,9,409192893_3480004751001,Mon 26 November 2007 06:00 PM,iraq_war,scottrj50
+90477951,FALSE,3,7/27/2011 7:13,Not Sure,0.635,,10,409192893_3480004751001,Mon 26 November 2007 06:10 PM,iraq_war,alcyone
+90477952,FALSE,3,7/27/2011 7:04,Not Sure,0.6312,,11,409192893_3480004751001,Tue 27 November 2007 01:22 AM,iraq_war,swremwin
+90477953,FALSE,3,7/27/2011 6:24,Not Sure,0.6473,,12,409192893_3480004751001,Tue 27 November 2007 01:38 AM,iraq_war,Absolut_Nick_USN76
+90477954,FALSE,3,7/27/2011 8:01,For,1,,13,409192893_3480004751001,Tue 27 November 2007 04:24 AM,iraq_war,THANKUVETS
+90477956,FALSE,3,7/27/2011 8:06,Against,0.6328,,14,409192893_3480004751001,Tue 27 November 2007 04:36 AM,iraq_war,PinkBlossoms
+90477957,FALSE,3,7/27/2011 6:50,Against,1,,15,409192893_3480004751001,Tue 27 November 2007 04:50 AM,iraq_war,skinman13
+90477958,FALSE,3,7/27/2011 7:30,For,0.6276,,16,409192893_3480004751001,Tue 27 November 2007 05:01 AM,iraq_war,PinkBlossoms
+90477959,FALSE,3,7/27/2011 4:34,For,0.6771,,17,409192893_3480004751001,Tue 27 November 2007 05:08 AM,iraq_war,Absolut_Nick_USN76
+90477960,FALSE,3,7/27/2011 6:40,For,1,,18,409192893_3480004751001,Tue 27 November 2007 05:15 AM,iraq_war,skinman13
+90477961,FALSE,3,7/27/2011 2:54,Against,0.6691,,19,409192893_3480004751001,Tue 27 November 2007 05:16 AM,iraq_war,SeaWitch1220
+90477962,FALSE,4,7/27/2011 0:15,Not Sure,0.7615,,20,409192893_3480004751001,Tue 27 November 2007 05:18 AM,iraq_war,PinkBlossoms
+90477963,FALSE,3,7/27/2011 6:31,For,1,,21,409192893_3480004751001,Tue 27 November 2007 05:49 AM,iraq_war,Absolut_Nick_USN76
+90477964,FALSE,3,7/27/2011 3:59,For,0.3667,,22,409192893_3480004751001,Tue 27 November 2007 06:11 AM,iraq_war,4403771
+90477965,FALSE,3,7/27/2011 7:17,Against,0.698,,23,409192893_3480004751001,Tue 27 November 2007 06:21 AM,iraq_war,SeaWitch1220
+90477966,FALSE,3,7/27/2011 7:29,For,0.3659,,24,409192893_3480004751001,Tue 27 November 2007 06:29 AM,iraq_war,4403771
+90477967,FALSE,3,7/27/2011 1:55,Against,1,,25,409192893_3480004751001,Tue 27 November 2007 06:45 AM,iraq_war,foxred03
+90477968,FALSE,3,7/27/2011 5:42,Against,0.6926,,26,409192893_3480004751001,Tue 27 November 2007 06:50 AM,iraq_war,THANKUVETS
+90477969,FALSE,3,7/27/2011 8:51,For,0.6624,,27,409192893_3480004751001,Tue 27 November 2007 07:06 AM,iraq_war,Absolut_Nick_USN76
+90477970,FALSE,3,7/27/2011 6:40,For,1,,28,409192893_3480004751001,Tue 27 November 2007 07:10 AM,iraq_war,4403771
+90477971,FALSE,4,7/27/2011 7:17,Against,0.7381,,29,409192893_3480004751001,Tue 27 November 2007 08:46 AM,iraq_war,PinkBlossoms
+90477972,FALSE,4,7/27/2011 9:01,For,0.5083,,30,409192893_3480004751001,Tue 27 November 2007 09:52 AM,iraq_war,JBL266
+90477973,FALSE,3,7/27/2011 4:37,For,1,,31,409192893_3480004751001,Tue 27 November 2007 10:04 AM,iraq_war,MilitaryFanSupporter
+90477974,FALSE,3,7/27/2011 2:21,Not Sure,1,,32,409192893_3480004751001,Tue 27 November 2007 10:36 AM,iraq_war,joshuacarnes
+90477975,FALSE,3,7/27/2011 5:50,For,0.7174,,33,409192893_3480004751001,Tue 27 November 2007 11:02 AM,iraq_war,THANKUVETS
+90477976,FALSE,3,7/27/2011 5:39,Not Sure,0.6738,,34,409192893_3480004751001,Tue 27 November 2007 11:12 AM,iraq_war,PinkBlossoms
+90477977,FALSE,4,7/27/2011 7:07,For,0.764,,35,409192893_3480004751001,Tue 27 November 2007 01:11 PM,iraq_war,GlassOnion
+90477978,FALSE,4,7/27/2011 5:40,Not Sure,0.5408,,36,409192893_3480004751001,Tue 27 November 2007 01:22 PM,iraq_war,foxred03
+90477979,FALSE,4,7/27/2011 4:26,For,0.7559,,37,409192893_3480004751001,Tue 27 November 2007 02:02 PM,iraq_war,4403771
+90477980,FALSE,3,7/27/2011 3:52,Not Sure,0.65,,38,409192893_3480004751001,Tue 27 November 2007 06:25 PM,iraq_war,JBL266
+90477981,FALSE,3,7/27/2011 0:20,Not Sure,0.3646,,39,409192893_3480004751001,Tue 27 November 2007 06:59 PM,iraq_war,scottrj50
+90477982,FALSE,3,7/27/2011 5:53,For,1,,40,409192893_3480004751001,Tue 27 November 2007 08:41 PM,iraq_war,skinman13
+90477983,FALSE,3,7/27/2011 6:24,For,0.6417,,41,409192893_3480004751001,Wed 28 November 2007 03:57 AM,iraq_war,Hawk166
+90477984,FALSE,3,7/27/2011 7:14,For,0.6727,,42,409192893_3480004751001,Wed 28 November 2007 05:33 AM,iraq_war,THANKUVETS
+90477985,FALSE,3,7/27/2011 6:50,For,1,,43,409192893_3480004751001,Wed 28 November 2007 06:14 AM,iraq_war,PinkBlossoms
+90477986,FALSE,3,7/27/2011 6:33,Against,0.6943,,44,409192893_3480004751001,Wed 28 November 2007 06:19 AM,iraq_war,SeaWitch1220
+90477987,FALSE,3,7/27/2011 8:39,Not Sure,1,,45,409192893_3480004751001,Wed 28 November 2007 06:24 AM,iraq_war,Absolut_Nick_USN76
+90477988,FALSE,3,7/27/2011 5:37,For,1,,46,409192893_3480004751001,Wed 28 November 2007 06:30 AM,iraq_war,THANKUVETS
+90477989,FALSE,3,7/27/2011 5:39,For,0.6706,,47,409192893_3480004751001,Wed 28 November 2007 06:31 AM,iraq_war,4403771
+90477990,FALSE,3,7/27/2011 5:39,Against,1,,48,409192893_3480004751001,Wed 28 November 2007 06:40 AM,iraq_war,foxred03
+90477991,FALSE,3,7/27/2011 7:03,For,1,,49,409192893_3480004751001,Wed 28 November 2007 06:58 AM,iraq_war,THANKUVETS
+90477992,FALSE,3,7/27/2011 7:26,For,0.6078,,50,409192893_3480004751001,Wed 28 November 2007 07:12 AM,iraq_war,foxred03
+90477993,FALSE,3,7/27/2011 7:54,For,1,,51,409192893_3480004751001,Wed 28 November 2007 07:12 AM,iraq_war,carbs11
+90477994,FALSE,3,7/27/2011 2:52,Against,1,,52,409192893_3480004751001,Wed 28 November 2007 07:18 AM,iraq_war,foxred03
+90477995,FALSE,3,7/27/2011 8:10,For,1,,53,409192893_3480004751001,Wed 28 November 2007 07:37 AM,iraq_war,carbs11
+90477996,FALSE,4,7/27/2011 6:49,Not Sure,0.7725,,54,409192893_3480004751001,Wed 28 November 2007 07:56 AM,iraq_war,THANKUVETS
+90477997,FALSE,3,7/27/2011 1:29,Not Sure,1,,55,409192893_3480004751001,Wed 28 November 2007 08:20 AM,iraq_war,foxred03
+90477998,FALSE,3,7/27/2011 5:37,Not Sure,0.6157,,56,409192893_3480004751001,Wed 28 November 2007 08:31 AM,iraq_war,THANKUVETS
+90477999,FALSE,4,7/27/2011 7:05,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478000,FALSE,3,7/27/2011 8:09,Not Sure,0.6579,,1,409192893_4330020922001,Tue 21 July 2009 10:18 AM,iraq_war,xerello
+90478001,FALSE,3,7/27/2011 1:48,Not Sure,0.7188,,2,409192893_4330020922001,Tue 21 July 2009 10:45 AM,iraq_war,dragonflyer04
+90478002,FALSE,3,7/27/2011 5:27,Against,1,,3,409192893_4330020922001,Tue 21 July 2009 11:14 AM,iraq_war,john2x
+90478003,FALSE,3,7/27/2011 6:55,Against,1,,4,409192893_4330020922001,Tue 21 July 2009 11:15 AM,iraq_war,L0A1
+90478004,FALSE,3,7/27/2011 7:41,Against,0.6481,,5,409192893_4330020922001,Tue 21 July 2009 11:30 AM,iraq_war,xerello
+90478005,FALSE,3,7/27/2011 7:46,Against,0.6547,,6,409192893_4330020922001,Tue 21 July 2009 12:00 PM,iraq_war,21194237
+90478006,FALSE,3,7/27/2011 4:37,For,0.6319,,7,409192893_4330020922001,Tue 21 July 2009 02:53 PM,iraq_war,sgtjrwhite
+90478007,FALSE,3,7/27/2011 5:38,Against,0.6215,,8,409192893_4330020922001,Tue 21 July 2009 03:38 PM,iraq_war,xerello
+90478008,FALSE,3,7/27/2011 8:11,Not Sure,0.6909,,9,409192893_4330020922001,Wed 22 July 2009 01:50 PM,iraq_war,sgtjrwhite
+90478009,FALSE,3,7/27/2011 8:44,Not Sure,0.6411,,10,409192893_4330020922001,Wed 22 July 2009 02:04 PM,iraq_war,Yooper_tj
+90478010,FALSE,3,7/27/2011 7:51,Against,1,,11,409192893_4330020922001,Wed 22 July 2009 02:06 PM,iraq_war,Yooper_tj
+90478011,FALSE,3,7/27/2011 3:52,For,0.6566,,12,409192893_4330020922001,Wed 22 July 2009 04:44 PM,iraq_war,xerello
+90478012,FALSE,3,7/27/2011 8:44,For,0.6855,,13,409192893_4330020922001,Wed 22 July 2009 05:17 PM,iraq_war,RRR52
+90478013,FALSE,3,7/27/2011 8:52,Against,0.6377,,14,409192893_4330020922001,Wed 22 July 2009 07:28 PM,iraq_war,billbright
+90478014,FALSE,3,7/27/2011 8:48,Not Sure,0.6571,,15,409192893_4330020922001,Wed 22 July 2009 07:43 PM,iraq_war,Yooper_tj
+90478015,FALSE,3,7/27/2011 5:50,For,0.7191,,16,409192893_4330020922001,Wed 22 July 2009 07:59 PM,iraq_war,LineDoggie
+90478016,FALSE,3,7/27/2011 4:25,Against,0.6865,,17,409192893_4330020922001,Thu 23 July 2009 08:20 AM,iraq_war,xerello
+90478017,FALSE,3,7/27/2011 6:27,Against,0.6702,,18,409192893_4330020922001,Thu 23 July 2009 08:28 AM,iraq_war,dragonflyer04
+90478018,FALSE,3,7/27/2011 7:54,Against,1,,19,409192893_4330020922001,Thu 23 July 2009 10:26 AM,iraq_war,john2x
+90478019,FALSE,3,7/27/2011 8:04,Against,1,,20,409192893_4330020922001,Thu 23 July 2009 10:29 AM,iraq_war,Persy
+90478020,FALSE,3,7/27/2011 6:39,Not Sure,1,,21,409192893_4330020922001,Thu 23 July 2009 10:38 AM,iraq_war,Persy
+90478021,FALSE,3,7/27/2011 2:21,For,0.3424,,22,409192893_4330020922001,Sat 25 July 2009 01:00 PM,iraq_war,goarmy06
+90478022,FALSE,3,7/27/2011 6:33,Against,1,,23,409192893_4330020922001,Sun 26 July 2009 12:46 PM,iraq_war,xerello
+90478023,FALSE,4,7/27/2011 6:17,Against,0.7155,,24,409192893_4330020922001,Wed 18 November 2009 09:23 AM,iraq_war,xerello
+90478024,FALSE,3,7/27/2011 8:11,Against,1,,25,409192893_4330020922001,Wed 18 November 2009 10:52 AM,iraq_war,IHAWKER
+90478025,FALSE,3,7/27/2011 7:05,Against,0.6736,,26,409192893_4330020922001,Wed 18 November 2009 04:31 PM,iraq_war,ProgMod
+90478026,FALSE,3,7/27/2011 8:52,Against,0.6793,,27,409192893_4330020922001,Wed 18 November 2009 07:38 PM,iraq_war,MilitaryFanSupporter
+90478027,FALSE,3,7/27/2011 8:46,Against,0.6643,,28,409192893_4330020922001,Wed 18 November 2009 07:51 PM,iraq_war,Vicdude
+90478028,FALSE,3,7/27/2011 7:53,Against,1,,29,409192893_4330020922001,Wed 18 November 2009 09:53 PM,iraq_war,IHAWKER
+90478029,FALSE,3,7/27/2011 7:34,Against,1,,30,409192893_4330020922001,Wed 18 November 2009 11:56 PM,iraq_war,ProgMod
+90478030,FALSE,3,7/27/2011 6:39,Against,1,,31,409192893_4330020922001,Thu 19 November 2009 12:25 PM,iraq_war,xerello
+90478031,FALSE,3,7/27/2011 7:51,Against,0.713,,32,409192893_4330020922001,Thu 19 November 2009 01:01 PM,iraq_war,john2x
+90478032,FALSE,3,7/27/2011 7:27,Against,0.6981,,33,409192893_4330020922001,Thu 19 November 2009 01:08 PM,iraq_war,john2x
+90478033,FALSE,3,7/27/2011 8:51,For,1,,34,409192893_4330020922001,Sat 21 November 2009 06:39 AM,iraq_war,billford1
+90478034,FALSE,3,7/27/2011 7:00,Not Sure,0.6306,,35,409192893_4330020922001,Sat 21 November 2009 06:53 AM,iraq_war,Duster6
+90478035,FALSE,3,7/27/2011 8:49,Against,0.6626,,36,409192893_4330020922001,Sat 21 November 2009 09:12 AM,iraq_war,john2x
+90478036,FALSE,3,7/27/2011 6:03,Against,1,,37,409192893_4330020922001,Sat 21 November 2009 12:33 PM,iraq_war,goarmy06
+90478037,FALSE,3,7/27/2011 7:29,Against,0.7243,,38,409192893_4330020922001,Sat 21 November 2009 01:39 PM,iraq_war,Duster6
+90478038,FALSE,3,7/27/2011 2:14,Against,1,,39,409192893_4330020922001,Sat 21 November 2009 01:54 PM,iraq_war,ProgMod
+90478039,FALSE,3,7/27/2011 6:21,For,0.394,,40,409192893_4330020922001,Sat 21 November 2009 02:04 PM,iraq_war,MilitaryFanSupporter
+90478040,FALSE,3,7/27/2011 6:08,Against,0.6607,,41,409192893_4330020922001,Sat 21 November 2009 02:09 PM,iraq_war,goarmy06
+90478041,FALSE,3,7/27/2011 7:27,Against,0.6913,,42,409192893_4330020922001,Sat 21 November 2009 02:37 PM,iraq_war,MilitaryFanSupporter
+90478042,FALSE,3,7/27/2011 5:50,For,0.7269,,43,409192893_4330020922001,Sat 21 November 2009 03:13 PM,iraq_war,dragonflyer04
+90478043,FALSE,3,7/27/2011 7:46,Against,0.6869,,44,409192893_4330020922001,Sat 21 November 2009 03:15 PM,iraq_war,ProgMod
+90478044,FALSE,3,7/27/2011 8:20,Not Sure,1,,45,409192893_4330020922001,Sat 21 November 2009 03:19 PM,iraq_war,goarmy06
+90478045,FALSE,3,7/27/2011 8:11,Against,1,,46,409192893_4330020922001,Sat 21 November 2009 06:33 PM,iraq_war,john2x
+90478046,FALSE,3,7/27/2011 6:11,Against,0.6745,,47,409192893_4330020922001,Sat 21 November 2009 06:35 PM,iraq_war,xerello
+90478047,FALSE,3,7/27/2011 6:52,Against,1,,48,409192893_4330020922001,Sat 21 November 2009 06:39 PM,iraq_war,goarmy06
+90478048,FALSE,3,7/27/2011 8:58,Against,0.6319,,49,409192893_4330020922001,Sun 22 November 2009 12:13 AM,iraq_war,xerello
+90478049,FALSE,3,7/27/2011 1:03,For,0.6929,,50,409192893_4330020922001,Sun 22 November 2009 07:02 AM,iraq_war,Boilerman_01
+90478050,FALSE,3,7/27/2011 7:30,Against,0.3526,,51,409192893_4330020922001,Sun 22 November 2009 05:59 PM,iraq_war,MilitaryFanSupporter
+90478051,FALSE,3,7/27/2011 7:02,Against,0.7073,,52,409192893_4330020922001,Sun 22 November 2009 09:06 PM,iraq_war,goarmy06
+90478052,FALSE,3,7/27/2011 8:06,Against,0.6919,,53,409192893_4330020922001,Mon 23 November 2009 08:29 AM,iraq_war,xerello
+90478053,FALSE,3,7/27/2011 4:38,Against,1,,54,409192893_4330020922001,Mon 23 November 2009 10:01 AM,iraq_war,dragonflyer04
+90478054,FALSE,3,7/27/2011 7:46,Against,1,,55,409192893_4330020922001,Mon 23 November 2009 01:07 PM,iraq_war,ProgMod
+90478055,FALSE,3,7/27/2011 7:10,Against,0.7206,,56,409192893_4330020922001,Mon 23 November 2009 01:32 PM,iraq_war,Boilerman_01
+90478061,FALSE,4,7/27/2011 9:00,Not Sure,0.7815,,57,409192893_4330020922001,Mon 23 November 2009 02:39 PM,iraq_war,john2x
+90478062,FALSE,3,7/27/2011 7:28,Against,1,,58,409192893_4330020922001,Mon 23 November 2009 04:39 PM,iraq_war,ProgMod
+90478063,FALSE,3,7/27/2011 7:45,Against,1,,59,409192893_4330020922001,Mon 23 November 2009 05:13 PM,iraq_war,john2x
+90478064,FALSE,3,7/27/2011 8:45,Against,0.662,,60,409192893_4330020922001,Tue 24 November 2009 10:23 PM,iraq_war,xerello
+90478065,FALSE,3,7/27/2011 8:58,For,1,,61,409192893_4330020922001,Wed 25 November 2009 06:13 AM,iraq_war,Fin_atic
+90478066,FALSE,3,7/27/2011 8:45,Against,0.6704,,62,409192893_4330020922001,Wed 25 November 2009 10:58 AM,iraq_war,xerello
+90478067,FALSE,3,7/27/2011 8:20,Against,1,,63,409192893_4330020922001,Wed 25 November 2009 10:58 AM,iraq_war,xerello
+90478068,FALSE,3,7/27/2011 4:14,For,0.7132,,64,409192893_4330020922001,Wed 25 November 2009 01:37 PM,iraq_war,Fin_atic
+90478069,FALSE,4,7/27/2011 6:03,Against,1,,65,409192893_4330020922001,Wed 25 November 2009 10:15 PM,iraq_war,goarmy06
+90478070,FALSE,3,7/27/2011 7:27,Against,1,,66,409192893_4330020922001,Sat 28 November 2009 07:41 AM,iraq_war,crackerjacks61
+90478071,FALSE,3,7/27/2011 8:01,Against,1,,67,409192893_4330020922001,Sat 12 December 2009 02:14 PM,iraq_war,xerello
+90478072,FALSE,3,7/27/2011 7:39,Not Sure,0.6731,,68,409192893_4330020922001,Sat 12 December 2009 09:30 PM,iraq_war,goarmy06
+90478073,FALSE,3,7/27/2011 5:09,Not Sure,0.6957,,69,409192893_4330020922001,Sat 12 December 2009 10:08 PM,iraq_war,dragonflyer04
+90478074,FALSE,3,7/27/2011 7:21,Against,1,,70,409192893_4330020922001,Sun 13 December 2009 11:15 AM,iraq_war,john2x
+90478075,FALSE,3,7/27/2011 7:44,Against,0.3681,,71,409192893_4330020922001,Wed 16 December 2009 01:52 AM,iraq_war,DeadAsADodo
+90478076,FALSE,3,7/27/2011 8:59,Against,0.6714,,72,409192893_4330020922001,Tue 22 December 2009 11:11 PM,iraq_war,xerello
+90478077,FALSE,3,7/27/2011 8:40,Against,0.6644,,73,409192893_4330020922001,Wed 23 December 2009 09:48 PM,iraq_war,john2x
+90478078,FALSE,3,7/27/2011 4:41,For,0.3483,,74,409192893_4330020922001,Thu 24 December 2009 02:41 PM,iraq_war,Logicbomb
+90478079,FALSE,4,7/27/2011 7:31,For,0.4735,,75,409192893_4330020922001,Thu 24 December 2009 04:07 PM,iraq_war,RetiredSailor1
+90478080,FALSE,3,7/27/2011 8:44,For,0.6309,,76,409192893_4330020922001,Sat 02 January 2010 11:01 PM,iraq_war,xerello
+90478081,FALSE,3,7/27/2011 7:08,Against,1,,77,409192893_4330020922001,Sun 03 January 2010 08:53 AM,iraq_war,john2x
+90478082,FALSE,4,7/27/2011 9:09,For,0.5223,,Post ID,Thread ID,Time,Topic,User ID
+90478083,FALSE,3,7/27/2011 8:42,Not Sure,0.6691,,1,672198221_5850060651001,Fri 16 November 2007 11:56 AM,iraq_war,Grandjester
+90478084,FALSE,4,7/27/2011 8:59,Against,0.7406,,2,672198221_5850060651001,Fri 16 November 2007 12:24 PM,iraq_war,jack_flats
+90478085,FALSE,3,7/27/2011 6:03,For,1,,3,672198221_5850060651001,Fri 16 November 2007 12:32 PM,iraq_war,CorporalJohnny
+90478086,FALSE,3,7/27/2011 7:11,Against,0.658,,4,672198221_5850060651001,Fri 16 November 2007 12:35 PM,iraq_war,jack_flats
+90478087,FALSE,3,7/27/2011 7:17,Against,1,,5,672198221_5850060651001,Fri 16 November 2007 12:38 PM,iraq_war,fishnfanatic
+90478088,FALSE,3,7/27/2011 6:10,For,1,,6,672198221_5850060651001,Fri 16 November 2007 12:42 PM,iraq_war,ELLIOTT1980
+90478089,FALSE,3,7/27/2011 7:47,Not Sure,1,,7,672198221_5850060651001,Fri 16 November 2007 12:54 PM,iraq_war,67NOV
+90478090,FALSE,3,7/27/2011 7:36,For,0.6727,,8,672198221_5850060651001,Fri 16 November 2007 12:55 PM,iraq_war,10994035
+90478091,FALSE,3,7/27/2011 6:44,For,1,,9,672198221_5850060651001,Fri 16 November 2007 01:02 PM,iraq_war,NickBrand
+90478092,FALSE,3,7/27/2011 6:24,Against,0.3473,,10,672198221_5850060651001,Fri 16 November 2007 01:10 PM,iraq_war,Grandjester
+90478093,FALSE,3,7/27/2011 7:10,For,0.6944,,11,672198221_5850060651001,Fri 16 November 2007 01:15 PM,iraq_war,ss_287
+90478094,FALSE,3,7/27/2011 4:05,Against,0.3659,,12,672198221_5850060651001,Fri 16 November 2007 01:17 PM,iraq_war,helez
+90478095,FALSE,3,7/27/2011 6:52,For,0.6572,,13,672198221_5850060651001,Fri 16 November 2007 01:32 PM,iraq_war,oldmustang
+90478096,FALSE,3,7/27/2011 8:06,Against,0.6955,,14,672198221_5850060651001,Fri 16 November 2007 01:35 PM,iraq_war,oldmustang
+90478097,FALSE,3,7/27/2011 8:47,For,1,,15,672198221_5850060651001,Fri 16 November 2007 01:49 PM,iraq_war,SFC_SOF_Intel
+90478098,FALSE,3,7/27/2011 7:05,For,0.6958,,16,672198221_5850060651001,Fri 16 November 2007 01:53 PM,iraq_war,Kegler300
+90478099,FALSE,3,7/27/2011 7:42,Against,0.35,,17,672198221_5850060651001,Fri 16 November 2007 02:05 PM,iraq_war,al_Mulazem
+90478100,FALSE,3,7/27/2011 4:18,For,1,,18,672198221_5850060651001,Fri 16 November 2007 02:58 PM,iraq_war,ELLIOTT1980
+90478101,FALSE,3,7/27/2011 7:19,For,1,,19,672198221_5850060651001,Fri 16 November 2007 03:56 PM,iraq_war,maluka
+90478102,FALSE,3,7/27/2011 6:36,Against,0.3393,,20,672198221_5850060651001,Fri 16 November 2007 04:00 PM,iraq_war,SATCOM_VET
+90478103,FALSE,3,7/27/2011 7:25,Not Sure,1,,21,672198221_5850060651001,Fri 16 November 2007 04:04 PM,iraq_war,execchefmurph
+90478104,FALSE,3,7/27/2011 6:39,For,1,,22,672198221_5850060651001,Fri 16 November 2007 04:08 PM,iraq_war,execchefmurph
+90478105,FALSE,3,7/27/2011 7:02,Against,1,,23,672198221_5850060651001,Fri 16 November 2007 04:15 PM,iraq_war,7101814
+90478106,FALSE,3,7/27/2011 7:23,For,0.6852,,24,672198221_5850060651001,Fri 16 November 2007 04:35 PM,iraq_war,ELLIOTT1980
+90478107,FALSE,4,7/27/2011 9:00,For,0.4884,,25,672198221_5850060651001,Fri 16 November 2007 06:33 PM,iraq_war,T_TGrowler
+90478108,FALSE,3,7/27/2011 7:10,For,1,,26,672198221_5850060651001,Fri 16 November 2007 06:48 PM,iraq_war,maluka
+90478109,FALSE,3,7/27/2011 8:50,Not Sure,0.644,,27,672198221_5850060651001,Fri 16 November 2007 07:10 PM,iraq_war,T_TGrowler
+90478110,FALSE,3,7/27/2011 5:42,Against,0.6227,,28,672198221_5850060651001,Fri 16 November 2007 07:32 PM,iraq_war,iwas1ncthr
+90478111,FALSE,3,7/27/2011 7:10,Against,1,,29,672198221_5850060651001,Fri 16 November 2007 07:39 PM,iraq_war,Tom4869
+90478112,FALSE,3,7/27/2011 7:10,For,0.7079,,30,672198221_5850060651001,Fri 16 November 2007 07:40 PM,iraq_war,S3mperFi1981
+90478113,FALSE,3,7/27/2011 6:28,For,0.7043,,31,672198221_5850060651001,Fri 16 November 2007 07:48 PM,iraq_war,fauxfire
+90478114,FALSE,3,7/27/2011 7:19,For,1,,32,672198221_5850060651001,Fri 16 November 2007 08:33 PM,iraq_war,maluka
+90478115,FALSE,3,7/27/2011 3:52,For,0.6852,,33,672198221_5850060651001,Fri 16 November 2007 08:42 PM,iraq_war,maluka
+90478116,FALSE,4,7/27/2011 6:57,For,0.4836,,34,672198221_5850060651001,Fri 16 November 2007 09:35 PM,iraq_war,SignalSgtWilliams
+90478117,FALSE,3,7/27/2011 2:27,For,0.6969,,35,672198221_5850060651001,Fri 16 November 2007 10:00 PM,iraq_war,SFC_SOF_Intel
+90478118,FALSE,3,7/27/2011 7:27,For,1,,36,672198221_5850060651001,Fri 16 November 2007 10:59 PM,iraq_war,devfsadm
+90478119,FALSE,3,7/27/2011 5:37,For,0.644,,37,672198221_5850060651001,Fri 16 November 2007 11:19 PM,iraq_war,Mehrdad_Tehran
+90478120,FALSE,3,7/27/2011 7:46,Not Sure,0.42,,38,672198221_5850060651001,Sat 17 November 2007 04:40 AM,iraq_war,jack_flats
+90478121,FALSE,3,7/27/2011 7:37,Against,1,,39,672198221_5850060651001,Sat 17 November 2007 04:49 AM,iraq_war,jack_flats
+90478122,FALSE,3,7/27/2011 8:57,Against,0.3691,,40,672198221_5850060651001,Sat 17 November 2007 10:17 AM,iraq_war,16061872
+90478123,FALSE,3,7/27/2011 7:26,For,0.6751,,41,672198221_5850060651001,Sat 17 November 2007 10:28 AM,iraq_war,LineDoggie
+90478124,FALSE,3,7/27/2011 6:29,Against,1,,42,672198221_5850060651001,Sat 17 November 2007 11:22 AM,iraq_war,FlankerFlyer
+90478125,FALSE,3,7/27/2011 7:31,Against,1,,43,672198221_5850060651001,Sat 17 November 2007 01:08 PM,iraq_war,helez
+90478126,FALSE,3,7/27/2011 8:52,Not Sure,0.6704,,44,672198221_5850060651001,Sat 17 November 2007 01:19 PM,iraq_war,Jade_Gate
+90478127,FALSE,4,7/27/2011 6:11,Against,0.756,,45,672198221_5850060651001,Sat 17 November 2007 01:28 PM,iraq_war,LineDoggie
+90478128,FALSE,3,7/27/2011 7:19,For,0.6407,,46,672198221_5850060651001,Sat 17 November 2007 01:30 PM,iraq_war,SFC_SOF_Intel
+90478129,FALSE,3,7/27/2011 6:37,For,0.6972,,47,672198221_5850060651001,Sat 17 November 2007 01:31 PM,iraq_war,ELLIOTT1980
+90478130,FALSE,3,7/27/2011 8:40,Against,0.6804,,48,672198221_5850060651001,Sat 17 November 2007 01:49 PM,iraq_war,helez
+90478131,FALSE,3,7/27/2011 7:03,For,0.6189,,49,672198221_5850060651001,Sat 17 November 2007 02:00 PM,iraq_war,SFC_SOF_Intel
+90478132,FALSE,4,7/27/2011 8:56,Not Sure,0.7296,,50,672198221_5850060651001,Sat 17 November 2007 02:05 PM,iraq_war,helez
+90478133,FALSE,3,7/27/2011 7:11,For,0.6746,,51,672198221_5850060651001,Sat 17 November 2007 02:24 PM,iraq_war,ELLIOTT1980
+90478134,FALSE,3,7/27/2011 8:56,Against,0.6546,,52,672198221_5850060651001,Sat 17 November 2007 02:44 PM,iraq_war,16061872
+90478135,FALSE,3,7/27/2011 7:27,Not Sure,1,,53,672198221_5850060651001,Sat 17 November 2007 02:58 PM,iraq_war,LineDoggie
+90478136,FALSE,3,7/27/2011 7:00,Against,0.7287,,54,672198221_5850060651001,Sat 17 November 2007 03:21 PM,iraq_war,rayevinsonsr
+90478137,FALSE,6,7/27/2011 9:00,For,0.6399,,55,672198221_5850060651001,Sat 17 November 2007 03:22 PM,iraq_war,T_TGrowler
+90478138,FALSE,3,7/27/2011 7:02,Not Sure,1,,56,672198221_5850060651001,Sat 17 November 2007 03:43 PM,iraq_war,16061872
+90478139,FALSE,3,7/27/2011 6:21,For,0.6986,,57,672198221_5850060651001,Sat 17 November 2007 05:21 PM,iraq_war,ELLIOTT1980
+90478140,FALSE,3,7/27/2011 6:43,Not Sure,1,,58,672198221_5850060651001,Sat 17 November 2007 05:40 PM,iraq_war,LineDoggie
+90478141,FALSE,3,7/27/2011 8:11,Not Sure,1,,59,672198221_5850060651001,Sat 17 November 2007 05:50 PM,iraq_war,EAG154
+90478142,FALSE,3,7/27/2011 8:01,For,1,,60,672198221_5850060651001,Sat 17 November 2007 06:05 PM,iraq_war,T_TGrowler
+90478143,FALSE,3,7/27/2011 7:44,For,0.712,,61,672198221_5850060651001,Sat 17 November 2007 09:56 PM,iraq_war,SFC_SOF_Intel
+90478144,FALSE,3,7/27/2011 8:59,Not Sure,0.6714,,62,672198221_5850060651001,Sun 18 November 2007 04:34 AM,iraq_war,leadtoe
+90478145,FALSE,3,7/27/2011 7:44,Against,0.661,,63,672198221_5850060651001,Sun 18 November 2007 06:12 AM,iraq_war,leadtoe
+90478146,FALSE,4,7/27/2011 9:09,For,1,,64,672198221_5850060651001,Sun 18 November 2007 10:34 AM,iraq_war,SFC_SOF_Intel
+90478147,FALSE,3,7/27/2011 7:12,Not Sure,1,,65,672198221_5850060651001,Sun 18 November 2007 10:52 AM,iraq_war,T_TGrowler
+90478148,FALSE,3,7/27/2011 8:45,Not Sure,1,,66,672198221_5850060651001,Sun 18 November 2007 12:30 PM,iraq_war,helez
+90478149,FALSE,3,7/27/2011 7:05,Not Sure,0.3651,,67,672198221_5850060651001,Sun 18 November 2007 01:55 PM,iraq_war,LineDoggie
+90478150,FALSE,3,7/27/2011 3:30,Against,1,,68,672198221_5850060651001,Sun 18 November 2007 02:04 PM,iraq_war,leadtoe
+90478151,FALSE,3,7/27/2011 8:59,Against,0.6693,,69,672198221_5850060651001,Sun 18 November 2007 02:53 PM,iraq_war,13498584
+90478152,FALSE,3,7/27/2011 8:11,For,0.6603,,70,672198221_5850060651001,Sun 18 November 2007 03:07 PM,iraq_war,outlaws93
+90478153,FALSE,3,7/27/2011 5:38,Against,0.6944,,71,672198221_5850060651001,Sun 18 November 2007 05:07 PM,iraq_war,SFC_SOF_Intel
+90478154,FALSE,3,7/27/2011 7:33,Against,0.3648,,72,672198221_5850060651001,Sun 18 November 2007 05:11 PM,iraq_war,LineDoggie
+90478155,FALSE,3,7/27/2011 7:25,For,1,,73,672198221_5850060651001,Thu 28 February 2008 03:43 PM,iraq_war,1866904
+90478156,FALSE,3,7/27/2011 8:09,Against,0.3435,,74,672198221_5850060651001,Thu 28 February 2008 04:41 PM,iraq_war,DIRTYLODOWN
+90478157,FALSE,4,7/27/2011 5:51,Against,1,,75,672198221_5850060651001,Thu 28 February 2008 04:58 PM,iraq_war,oldmole
+90478158,FALSE,3,7/27/2011 4:38,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478159,FALSE,3,7/26/2011 22:53,Against,1,,1,672198221_5100020681001,Wed 04 June 2008 10:57 AM,iraq_war,xerello
+90478160,FALSE,3,7/27/2011 7:54,Against,0.6852,,2,672198221_5100020681001,Wed 04 June 2008 11:08 AM,iraq_war,Lucky_Lieutenant
+90478162,FALSE,3,7/27/2011 8:50,Against,0.3577,,3,672198221_5100020681001,Wed 04 June 2008 11:23 AM,iraq_war,sldo
+90478163,FALSE,3,7/27/2011 7:19,Against,1,,4,672198221_5100020681001,Wed 04 June 2008 11:24 AM,iraq_war,xerello
+90478164,FALSE,3,7/27/2011 5:48,For,1,,5,672198221_5100020681001,Wed 04 June 2008 12:01 PM,iraq_war,Lucky_Lieutenant
+90478166,FALSE,4,7/27/2011 6:30,Against,0.54,,6,672198221_5100020681001,Wed 04 June 2008 12:30 PM,iraq_war,xerello
+90478167,FALSE,3,7/27/2011 5:36,For,1,,7,672198221_5100020681001,Wed 04 June 2008 02:06 PM,iraq_war,popsiq
+90478168,FALSE,3,7/27/2011 8:39,Against,0.6705,,8,672198221_5100020681001,Wed 04 June 2008 02:39 PM,iraq_war,Grachus
+90478169,FALSE,3,7/27/2011 8:08,For,0.7075,,9,672198221_5100020681001,Wed 04 June 2008 02:51 PM,iraq_war,Lucky_Lieutenant
+90478170,FALSE,3,7/27/2011 8:01,For,0.3429,,10,672198221_5100020681001,Wed 04 June 2008 02:59 PM,iraq_war,Grachus
+90478171,FALSE,3,7/27/2011 7:36,For,0.6769,,11,672198221_5100020681001,Wed 04 June 2008 03:03 PM,iraq_war,SUNLINER81
+90478172,FALSE,3,7/27/2011 4:29,Against,1,,12,672198221_5100020681001,Wed 04 June 2008 03:04 PM,iraq_war,Lucky_Lieutenant
+90478173,FALSE,3,7/27/2011 3:45,Against,0.6731,,13,672198221_5100020681001,Wed 04 June 2008 03:16 PM,iraq_war,Grachus
+90478174,FALSE,3,7/27/2011 7:41,Against,0.687,,14,672198221_5100020681001,Wed 04 June 2008 04:19 PM,iraq_war,Lucky_Lieutenant
+90478175,FALSE,3,7/27/2011 8:05,For,1,,15,672198221_5100020681001,Wed 04 June 2008 04:54 PM,iraq_war,Grachus
+90478176,FALSE,3,7/27/2011 7:39,For,0.6672,,16,672198221_5100020681001,Wed 04 June 2008 05:01 PM,iraq_war,Lucky_Lieutenant
+90478177,FALSE,3,7/27/2011 8:42,For,0.6621,,17,672198221_5100020681001,Wed 04 June 2008 05:11 PM,iraq_war,Grachus
+90478178,FALSE,3,7/27/2011 4:18,For,0.6277,,18,672198221_5100020681001,Wed 04 June 2008 05:19 PM,iraq_war,Lucky_Lieutenant
+90478179,FALSE,3,7/27/2011 3:42,Against,1,,19,672198221_5100020681001,Wed 04 June 2008 05:23 PM,iraq_war,Grachus
+90478180,FALSE,3,7/27/2011 8:50,For,0.6929,,20,672198221_5100020681001,Wed 04 June 2008 05:30 PM,iraq_war,Grachus
+90478181,FALSE,3,7/27/2011 8:20,For,1,,21,672198221_5100020681001,Wed 04 June 2008 07:10 PM,iraq_war,Lucky_Lieutenant
+90478182,FALSE,4,7/27/2011 6:27,Not Sure,0.5191,,22,672198221_5100020681001,Wed 04 June 2008 07:13 PM,iraq_war,Grachus
+90478183,FALSE,3,7/27/2011 7:15,For,0.6582,,23,672198221_5100020681001,Wed 04 June 2008 07:28 PM,iraq_war,SgtSchaeffersMom
+90478184,FALSE,3,7/27/2011 6:17,For,0.3683,,24,672198221_5100020681001,Wed 04 June 2008 07:30 PM,iraq_war,Lucky_Lieutenant
+90478185,FALSE,3,7/27/2011 6:58,Not Sure,1,,25,672198221_5100020681001,Wed 04 June 2008 08:27 PM,iraq_war,jdksfcret
+90478186,FALSE,3,7/27/2011 8:42,Against,0.3539,,26,672198221_5100020681001,Wed 04 June 2008 08:47 PM,iraq_war,gzo2
+90478187,FALSE,3,7/27/2011 8:02,Against,0.6814,,27,672198221_5100020681001,Thu 05 June 2008 05:21 AM,iraq_war,xerello
+90478188,FALSE,3,7/27/2011 7:20,Not Sure,0.6897,,28,672198221_5100020681001,Thu 05 June 2008 07:32 AM,iraq_war,rayevinsonsr
+90478189,FALSE,3,7/27/2011 5:53,For,0.7097,,29,672198221_5100020681001,Thu 05 June 2008 07:56 AM,iraq_war,Osedax
+90478190,FALSE,3,7/27/2011 8:45,For,0.3635,,30,672198221_5100020681001,Thu 05 June 2008 08:12 AM,iraq_war,godawgz
+90478191,FALSE,3,7/27/2011 7:22,Against,0.6638,,31,672198221_5100020681001,Thu 05 June 2008 08:15 AM,iraq_war,xerello
+90478192,FALSE,3,7/27/2011 6:08,For,0.6579,,32,672198221_5100020681001,Thu 05 June 2008 08:33 AM,iraq_war,Lucky_Lieutenant
+90478193,FALSE,3,7/27/2011 7:41,For,0.351,,33,672198221_5100020681001,Thu 05 June 2008 09:13 AM,iraq_war,xerello
+90478194,FALSE,3,7/27/2011 8:46,For,0.6734,,34,672198221_5100020681001,Thu 05 June 2008 09:46 AM,iraq_war,Osedax
+90478195,FALSE,3,7/27/2011 3:40,Against,1,,35,672198221_5100020681001,Thu 05 June 2008 11:10 AM,iraq_war,Grachus
+90478196,FALSE,4,7/27/2011 7:19,Not Sure,0.4733,,36,672198221_5100020681001,Thu 05 June 2008 11:16 AM,iraq_war,Grachus
+90478197,FALSE,3,7/27/2011 8:51,For,0.6485,,37,672198221_5100020681001,Thu 05 June 2008 12:00 PM,iraq_war,Hercules1944
+90478198,FALSE,3,7/27/2011 7:22,For,0.7175,,38,672198221_5100020681001,Thu 05 June 2008 12:27 PM,iraq_war,Lucky_Lieutenant
+90478199,FALSE,3,7/27/2011 8:01,Against,0.6922,,39,672198221_5100020681001,Thu 05 June 2008 12:40 PM,iraq_war,Grachus
+90478200,FALSE,3,7/27/2011 8:10,For,1,,40,672198221_5100020681001,Thu 05 June 2008 12:49 PM,iraq_war,rayevinsonsr
+90478201,FALSE,3,7/27/2011 6:19,Not Sure,1,,41,672198221_5100020681001,Thu 05 June 2008 12:50 PM,iraq_war,sldo
+90478202,FALSE,3,7/27/2011 8:15,For,0.6669,,42,672198221_5100020681001,Thu 05 June 2008 01:04 PM,iraq_war,Grachus
+90478203,FALSE,3,7/27/2011 7:31,For,0.6934,,43,672198221_5100020681001,Thu 05 June 2008 05:17 PM,iraq_war,Lucky_Lieutenant
+90478204,FALSE,3,7/27/2011 7:08,Against,0.6557,,44,672198221_5100020681001,Thu 05 June 2008 05:26 PM,iraq_war,Grachus
+90478205,FALSE,3,7/27/2011 6:09,Not Sure,0.648,,45,672198221_5100020681001,Thu 05 June 2008 08:13 PM,iraq_war,Lucky_Lieutenant
+90478206,FALSE,3,7/27/2011 8:24,Against,1,,46,672198221_5100020681001,Fri 06 June 2008 05:16 AM,iraq_war,Squizzer
+90478207,FALSE,3,7/27/2011 8:10,For,0.6564,,47,672198221_5100020681001,Fri 06 June 2008 06:10 AM,iraq_war,rayevinsonsr
+90478208,FALSE,3,7/27/2011 6:29,Not Sure,1,,48,672198221_5100020681001,Fri 06 June 2008 07:01 AM,iraq_war,Osedax
+90478209,FALSE,3,7/27/2011 4:25,Not Sure,0.656,,49,672198221_5100020681001,Fri 06 June 2008 07:04 AM,iraq_war,Osedax
+90478210,FALSE,3,7/27/2011 5:21,For,1,,50,672198221_5100020681001,Fri 06 June 2008 08:21 AM,iraq_war,Osedax
+90478211,FALSE,3,7/27/2011 8:51,For,1,,51,672198221_5100020681001,Fri 06 June 2008 09:02 AM,iraq_war,Lucky_Lieutenant
+90478212,FALSE,3,7/27/2011 7:05,Against,0.6968,,52,672198221_5100020681001,Fri 06 June 2008 09:33 AM,iraq_war,sldo
+90478213,FALSE,3,7/27/2011 8:45,For,1,,53,672198221_5100020681001,Fri 06 June 2008 09:46 AM,iraq_war,Lucky_Lieutenant
+90478214,FALSE,3,7/27/2011 8:42,For,0.6729,,54,672198221_5100020681001,Fri 06 June 2008 10:45 AM,iraq_war,Grachus
+90478215,FALSE,3,7/27/2011 4:38,Not Sure,0.6528,,55,672198221_5100020681001,Fri 06 June 2008 11:20 AM,iraq_war,Grachus
+90478216,FALSE,3,7/27/2011 7:32,Not Sure,0.6371,,56,672198221_5100020681001,Fri 06 June 2008 11:25 AM,iraq_war,Grachus
+90478217,FALSE,3,7/27/2011 8:17,For,0.6399,,57,672198221_5100020681001,Fri 06 June 2008 11:43 AM,iraq_war,sldo
+90478218,FALSE,3,7/27/2011 3:48,For,1,,58,672198221_5100020681001,Fri 06 June 2008 11:52 AM,iraq_war,Lucky_Lieutenant
+90478219,FALSE,3,7/27/2011 8:21,Against,0.6317,,59,672198221_5100020681001,Fri 06 June 2008 12:03 PM,iraq_war,godawgz
+90478220,FALSE,3,7/27/2011 7:39,Against,0.661,,60,672198221_5100020681001,Fri 06 June 2008 12:13 PM,iraq_war,Lucky_Lieutenant
+90478221,FALSE,3,7/27/2011 6:51,Not Sure,0.6402,,61,672198221_5100020681001,Fri 06 June 2008 12:18 PM,iraq_war,Osedax
+90478222,FALSE,3,7/27/2011 4:21,Against,0.6662,,62,672198221_5100020681001,Fri 06 June 2008 12:23 PM,iraq_war,Grachus
+90478223,FALSE,3,7/27/2011 6:47,Against,0.6185,,63,672198221_5100020681001,Fri 06 June 2008 12:30 PM,iraq_war,Lucky_Lieutenant
+90478224,FALSE,3,7/27/2011 7:41,Against,0.6653,,64,672198221_5100020681001,Fri 06 June 2008 12:33 PM,iraq_war,Grachus
+90478226,FALSE,3,7/27/2011 7:55,Not Sure,0.7047,,65,672198221_5100020681001,Fri 06 June 2008 12:37 PM,iraq_war,Lucky_Lieutenant
+90478227,FALSE,3,7/27/2011 6:27,Against,0.3587,,66,672198221_5100020681001,Fri 06 June 2008 12:40 PM,iraq_war,godawgz
+90478228,FALSE,3,7/27/2011 8:59,For,0.3762,,67,672198221_5100020681001,Fri 06 June 2008 01:00 PM,iraq_war,Grachus
+90478229,FALSE,3,7/27/2011 8:17,Not Sure,0.353,,68,672198221_5100020681001,Fri 06 June 2008 01:10 PM,iraq_war,Osedax
+90478230,FALSE,3,7/27/2011 5:57,Not Sure,1,,69,672198221_5100020681001,Fri 06 June 2008 01:29 PM,iraq_war,Grachus
+90478231,FALSE,3,7/27/2011 8:42,Not Sure,0.3477,,70,672198221_5100020681001,Fri 06 June 2008 06:08 PM,iraq_war,Hercules1944
+90478232,FALSE,3,7/27/2011 7:22,Not Sure,1,,71,672198221_5100020681001,Sat 07 June 2008 05:10 PM,iraq_war,sldo
+90478233,FALSE,3,7/27/2011 8:03,Not Sure,1,,72,672198221_5100020681001,Sat 07 June 2008 05:27 PM,iraq_war,Hercules1944
+90478234,FALSE,4,7/27/2011 4:31,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478235,FALSE,3,7/27/2011 8:53,For,0.668,,1,409192893_5910090302001,Thu 16 October 2008 03:10 AM,barack_obamba_and_his_presidency,Nucpolitician
+90478238,TRUE,25,7/27/2011 8:45,Against,0.9211,Against,4,409192893_5910090302001,Thu 16 October 2008 05:50 AM,barack_obamba_and_his_presidency,bill_kananen
+90478239,TRUE,1,7/26/2011 19:00,Against,1,Against,5,409192893_5910090302001,Thu 16 October 2008 05:59 AM,barack_obamba_and_his_presidency,The_Bonesaw
+90478240,TRUE,1,7/26/2011 18:59,Against,1,Against,6,409192893_5910090302001,Thu 16 October 2008 06:35 AM,barack_obamba_and_his_presidency,bill_kananen
+90478244,TRUE,22,7/27/2011 8:51,Against,0.6465,Against,10,409192893_5910090302001,Thu 16 October 2008 10:51 AM,barack_obamba_and_his_presidency,greywolfghost
+90478245,TRUE,2,7/27/2011 8:21,For,1,Not Sure,11,409192893_5910090302001,Thu 16 October 2008 10:55 AM,barack_obamba_and_his_presidency,rayld2
+90478246,TRUE,28,7/27/2011 8:54,Against,0.8488,"Against
+Not Sure",12,409192893_5910090302001,Thu 16 October 2008 11:01 AM,barack_obamba_and_his_presidency,67NOV
+90478249,TRUE,32,7/27/2011 8:47,Against,0.8833,Against,15,409192893_5910090302001,Thu 16 October 2008 11:30 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478250,FALSE,3,7/27/2011 7:03,Against,0.701,,16,409192893_5910090302001,Thu 16 October 2008 11:32 AM,barack_obamba_and_his_presidency,john2x
+90478251,TRUE,1,7/27/2011 8:03,Not Sure,1,For,17,409192893_5910090302001,Thu 16 October 2008 11:35 AM,barack_obamba_and_his_presidency,rayld2
+90478257,TRUE,14,7/27/2011 4:20,Against,0.7252,Against,23,409192893_5910090302001,Fri 17 October 2008 06:28 AM,barack_obamba_and_his_presidency,rayld2
+90478261,TRUE,1,7/27/2011 4:19,Against,1,For,27,409192893_5910090302001,Sun 19 October 2008 03:50 PM,barack_obamba_and_his_presidency,JustanotherGI
+90478262,TRUE,1,7/27/2011 8:07,Not Sure,1,Against,28,409192893_5910090302001,Sun 19 October 2008 05:42 PM,barack_obamba_and_his_presidency,alcyone
+90478267,TRUE,26,7/27/2011 8:42,Against,0.9672,Against,30,409192893_5910090302001,Sun 19 October 2008 06:57 PM,barack_obamba_and_his_presidency,backtoiraq
+90478268,FALSE,3,7/27/2011 8:48,For,1,,31,409192893_5910090302001,Sun 19 October 2008 06:58 PM,barack_obamba_and_his_presidency,alcyone
+90478270,TRUE,1,7/26/2011 18:55,Against,1,For,33,409192893_5910090302001,Sun 19 October 2008 07:00 PM,barack_obamba_and_his_presidency,backtoiraq
+90478272,TRUE,27,7/27/2011 9:01,Against,0.4794,"Against
+Not Sure",35,409192893_5910090302001,Sun 19 October 2008 08:19 PM,barack_obamba_and_his_presidency,john2x
+90478277,TRUE,2,7/27/2011 8:59,For,0.56,Against,40,409192893_5910090302001,Mon 20 October 2008 11:56 AM,barack_obamba_and_his_presidency,Golgoth
+90478279,TRUE,26,7/27/2011 8:41,Against,1,"Against
+Not Sure",42,409192893_5910090302001,Mon 20 October 2008 12:40 PM,barack_obamba_and_his_presidency,Woody_in_La
+90478283,TRUE,27,7/27/2011 8:42,Against,1,Against,46,409192893_5910090302001,Mon 20 October 2008 05:55 PM,barack_obamba_and_his_presidency,EAG154
+90478284,TRUE,20,7/27/2011 6:27,For,0.8199,For,47,409192893_5910090302001,Tue 21 October 2008 05:59 AM,barack_obamba_and_his_presidency,rayld2
+90478285,TRUE,27,7/27/2011 8:50,Against,0.6626,"Against
+Not Sure",48,409192893_5910090302001,Tue 21 October 2008 06:03 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478286,FALSE,3,7/27/2011 7:44,Not Sure,1,,49,409192893_5910090302001,Tue 21 October 2008 06:14 AM,barack_obamba_and_his_presidency,SGTBJH
+90478287,TRUE,1,7/27/2011 3:58,Not Sure,1,Not Sure,50,409192893_5910090302001,Tue 21 October 2008 08:32 AM,barack_obamba_and_his_presidency,rayld2
+90478293,FALSE,3,7/27/2011 6:24,Against,1,,56,409192893_5910090302001,Tue 21 October 2008 05:13 PM,barack_obamba_and_his_presidency,EAG154
+90478294,FALSE,3,7/27/2011 7:10,Not Sure,0.6803,,57,409192893_5910090302001,Wed 22 October 2008 09:41 AM,barack_obamba_and_his_presidency,Raunchy
+90478295,FALSE,3,7/27/2011 6:54,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478296,FALSE,3,7/27/2011 8:59,Against,0.6434,,1,409192893_1490088471001,Mon 17 March 2008 09:37 AM,barack_obamba_and_his_presidency,scwestusmc
+90478297,TRUE,1,7/27/2011 8:10,For,1,For,2,409192893_1490088471001,Mon 17 March 2008 09:55 AM,barack_obamba_and_his_presidency,scwestusmc
+90478298,TRUE,25,7/27/2011 8:56,For,0.8565,For,3,409192893_1490088471001,Mon 17 March 2008 09:58 AM,barack_obamba_and_his_presidency,MightyB
+90478299,TRUE,31,7/27/2011 9:00,Against,0.893,"For
+Against
+Not Sure",4,409192893_1490088471001,Mon 17 March 2008 09:59 AM,barack_obamba_and_his_presidency,Opfor6
+90478302,TRUE,1,7/27/2011 9:06,Against,1,Against,7,409192893_1490088471001,Mon 17 March 2008 11:23 AM,barack_obamba_and_his_presidency,scwestusmc
+90478304,FALSE,3,7/27/2011 5:25,Against,0.6658,,9,409192893_1490088471001,Mon 17 March 2008 11:48 AM,barack_obamba_and_his_presidency,Opfor6
+90478306,TRUE,1,7/27/2011 8:49,For,1,Against,11,409192893_1490088471001,Mon 17 March 2008 12:16 PM,barack_obamba_and_his_presidency,scwestusmc
+90478307,TRUE,27,7/27/2011 8:43,Against,0.8923,"Against
+Not Sure",12,409192893_1490088471001,Mon 17 March 2008 12:20 PM,barack_obamba_and_his_presidency,FortesFortunaJuvat
+90478308,TRUE,2,7/27/2011 7:25,Against,1,Against,13,409192893_1490088471001,Mon 17 March 2008 12:21 PM,barack_obamba_and_his_presidency,scwestusmc
+90478309,TRUE,24,7/27/2011 9:40,Not Sure,0.9189,Not Sure,14,409192893_1490088471001,Mon 17 March 2008 12:25 PM,barack_obamba_and_his_presidency,scwestusmc
+90478312,TRUE,1,7/27/2011 8:05,For,1,Not Sure,17,409192893_1490088471001,Mon 17 March 2008 12:32 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478313,FALSE,3,7/27/2011 7:02,Not Sure,1,,18,409192893_1490088471001,Mon 17 March 2008 12:34 PM,barack_obamba_and_his_presidency,scwestusmc
+90478315,TRUE,1,7/27/2011 3:53,Against,1,Not Sure,20,409192893_1490088471001,Mon 17 March 2008 12:45 PM,barack_obamba_and_his_presidency,FortesFortunaJuvat
+90478318,TRUE,1,7/27/2011 7:22,Not Sure,1,Against,23,409192893_1490088471001,Mon 17 March 2008 12:53 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478320,FALSE,3,7/27/2011 1:19,Against,1,,25,409192893_1490088471001,Mon 17 March 2008 12:55 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478322,TRUE,1,7/27/2011 4:12,Not Sure,1,Against,27,409192893_1490088471001,Mon 17 March 2008 12:56 PM,barack_obamba_and_his_presidency,CombatParatrooper
+90478323,TRUE,1,7/27/2011 8:58,For,1,For,28,409192893_1490088471001,Mon 17 March 2008 12:59 PM,barack_obamba_and_his_presidency,pken
+90478325,TRUE,25,7/27/2011 9:01,Against,0.7755,"Against
+Not Sure",30,409192893_1490088471001,Mon 17 March 2008 01:03 PM,barack_obamba_and_his_presidency,Opfor6
+90478331,TRUE,1,7/27/2011 8:17,Against,1,Against,36,409192893_1490088471001,Mon 17 March 2008 01:16 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478332,TRUE,21,7/27/2011 6:09,Against,1,Against,37,409192893_1490088471001,Mon 17 March 2008 01:18 PM,barack_obamba_and_his_presidency,scwestusmc
+90478336,TRUE,1,7/27/2011 7:30,For,1,Not Sure,41,409192893_1490088471001,Mon 17 March 2008 01:37 PM,barack_obamba_and_his_presidency,scwestusmc
+90478338,TRUE,29,7/27/2011 8:49,For,0.8417,"For
+Not Sure",43,409192893_1490088471001,Mon 17 March 2008 01:41 PM,barack_obamba_and_his_presidency,nurse_attorney
+90478341,FALSE,3,7/27/2011 5:06,Against,0.7168,,46,409192893_1490088471001,Mon 17 March 2008 01:53 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478344,FALSE,3,7/27/2011 6:23,For,0.6703,,49,409192893_1490088471001,Mon 17 March 2008 02:33 PM,barack_obamba_and_his_presidency,Berlin93
+90478346,TRUE,1,7/26/2011 19:00,Against,1,For,51,409192893_1490088471001,Mon 17 March 2008 02:50 PM,barack_obamba_and_his_presidency,aggie_swife
+90478347,FALSE,3,7/27/2011 4:31,For,1,,52,409192893_1490088471001,Mon 17 March 2008 02:51 PM,barack_obamba_and_his_presidency,liberal90
+90478351,TRUE,1,7/27/2011 8:20,Not Sure,1,Not Sure,56,409192893_1490088471001,Mon 17 March 2008 03:49 PM,barack_obamba_and_his_presidency,Aco275RGR
+90478353,TRUE,1,7/26/2011 19:10,Against,1,Against,58,409192893_1490088471001,Mon 17 March 2008 04:39 PM,barack_obamba_and_his_presidency,pken
+90478355,TRUE,1,7/27/2011 4:09,Not Sure,1,For,60,409192893_1490088471001,Mon 17 March 2008 05:59 PM,barack_obamba_and_his_presidency,outrageusa
+90478356,FALSE,3,7/27/2011 8:21,For,1,,61,409192893_1490088471001,Mon 17 March 2008 06:30 PM,barack_obamba_and_his_presidency,WepsFP
+90478361,FALSE,3,7/27/2011 6:27,Not Sure,0.641,,66,409192893_1490088471001,Mon 17 March 2008 07:11 PM,barack_obamba_and_his_presidency,Woody_in_La
+90478363,TRUE,1,7/26/2011 22:18,For,1,"For
+Not Sure",68,409192893_1490088471001,Mon 17 March 2008 07:51 PM,barack_obamba_and_his_presidency,Berlin93
+90478365,FALSE,3,7/27/2011 7:42,For,0.3829,,70,409192893_1490088471001,Mon 17 March 2008 08:21 PM,barack_obamba_and_his_presidency,Migbuster
+90478372,TRUE,1,7/27/2011 4:04,Not Sure,1,Not Sure,74,409192893_1490088471001,Mon 17 March 2008 08:59 PM,barack_obamba_and_his_presidency,Migbuster
+90478373,FALSE,3,7/27/2011 7:10,Not Sure,0.6499,,75,409192893_1490088471001,Tue 18 March 2008 05:21 AM,barack_obamba_and_his_presidency,FortesFortunaJuvat
+90478374,FALSE,3,7/27/2011 8:10,Against,1,,76,409192893_1490088471001,Tue 18 March 2008 05:32 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478375,TRUE,1,7/27/2011 8:57,For,1,Not Sure,77,409192893_1490088471001,Tue 18 March 2008 05:37 AM,barack_obamba_and_his_presidency,WhoFreak
+90478376,FALSE,3,7/27/2011 7:25,Against,0.6365,,78,409192893_1490088471001,Tue 18 March 2008 05:43 AM,barack_obamba_and_his_presidency,FortesFortunaJuvat
+90478379,FALSE,3,7/27/2011 6:34,Not Sure,0.3672,,81,409192893_1490088471001,Tue 18 March 2008 05:55 AM,barack_obamba_and_his_presidency,WhoFreak
+90478380,FALSE,3,7/27/2011 8:44,Against,0.6582,,82,409192893_1490088471001,Tue 18 March 2008 06:06 AM,barack_obamba_and_his_presidency,
+90478384,FALSE,3,7/27/2011 8:46,Against,0.6506,,86,409192893_1490088471001,Tue 18 March 2008 11:11 AM,barack_obamba_and_his_presidency,scwestusmc
+90478386,TRUE,27,7/27/2011 8:48,Not Sure,0.9617,Not Sure,88,409192893_1490088471001,Tue 18 March 2008 11:36 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478387,FALSE,3,7/27/2011 7:44,Against,0.6621,,89,409192893_1490088471001,Tue 18 March 2008 11:40 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478388,FALSE,3,7/27/2011 7:02,Against,0.7079,,90,409192893_1490088471001,Tue 18 March 2008 04:51 PM,barack_obamba_and_his_presidency,thorin001
+90478389,FALSE,3,7/27/2011 3:40,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478390,FALSE,4,7/27/2011 7:10,Against,0.7919,,1,4960045241001_2730008802001,Wed 10 December 2008 05:29 AM,barack_obamba_and_his_presidency,Kegler300
+90478391,FALSE,4,7/27/2011 9:09,Against,0.4768,,2,4960045241001_2730008802001,Wed 10 December 2008 05:34 AM,barack_obamba_and_his_presidency,mnoble1066
+90478392,FALSE,3,7/27/2011 8:42,Against,0.6764,,3,4960045241001_2730008802001,Wed 10 December 2008 05:42 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478393,FALSE,4,7/27/2011 5:53,Against,0.7684,,4,4960045241001_2730008802001,Wed 10 December 2008 05:43 AM,barack_obamba_and_his_presidency,bill_kananen
+90478394,FALSE,3,7/27/2011 6:50,Not Sure,0.6557,,5,4960045241001_2730008802001,Wed 10 December 2008 05:46 AM,barack_obamba_and_his_presidency,mnoble1066
+90478395,FALSE,3,7/27/2011 6:25,For,1,,6,4960045241001_2730008802001,Wed 10 December 2008 05:49 AM,barack_obamba_and_his_presidency,BrandonKnight
+90478396,FALSE,3,7/27/2011 8:41,Against,0.6533,,7,4960045241001_2730008802001,Wed 10 December 2008 05:53 AM,barack_obamba_and_his_presidency,21yrsUSCGUSCS
+90478397,FALSE,3,7/27/2011 7:36,Against,0.7113,,8,4960045241001_2730008802001,Wed 10 December 2008 05:54 AM,barack_obamba_and_his_presidency,greywolfghost
+90478398,FALSE,3,7/27/2011 7:32,Against,1,,9,4960045241001_2730008802001,Wed 10 December 2008 06:56 AM,barack_obamba_and_his_presidency,adminnco1
+90478399,FALSE,3,7/27/2011 8:43,Against,0.6249,,10,4960045241001_2730008802001,Wed 10 December 2008 07:30 AM,barack_obamba_and_his_presidency,liberal90
+90478400,FALSE,3,7/27/2011 5:25,Against,1,,11,4960045241001_2730008802001,Wed 10 December 2008 07:34 AM,barack_obamba_and_his_presidency,outlaws93
+90478401,FALSE,3,7/27/2011 3:53,Against,1,,12,4960045241001_2730008802001,Wed 10 December 2008 07:34 AM,barack_obamba_and_his_presidency,bill_kananen
+90478402,FALSE,3,7/27/2011 6:36,Against,1,,13,4960045241001_2730008802001,Wed 10 December 2008 07:36 AM,barack_obamba_and_his_presidency,outlaws93
+90478403,FALSE,3,7/27/2011 3:53,Against,0.6583,,14,4960045241001_2730008802001,Wed 10 December 2008 07:39 AM,barack_obamba_and_his_presidency,
+90478404,FALSE,4,7/27/2011 9:06,For,0.7845,,15,4960045241001_2730008802001,Wed 10 December 2008 07:41 AM,barack_obamba_and_his_presidency,21yrsUSCGUSCS
+90478405,FALSE,3,7/27/2011 8:06,Against,0.6858,,16,4960045241001_2730008802001,Wed 10 December 2008 07:50 AM,barack_obamba_and_his_presidency,patriotgal08
+90478406,FALSE,3,7/27/2011 8:51,For,1,,17,4960045241001_2730008802001,Wed 10 December 2008 08:02 AM,barack_obamba_and_his_presidency,Kindsbach
+90478407,FALSE,3,7/27/2011 7:53,Not Sure,0.7192,,18,4960045241001_2730008802001,Wed 10 December 2008 08:08 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478408,FALSE,3,7/27/2011 6:23,Against,1,,19,4960045241001_2730008802001,Wed 10 December 2008 08:09 AM,barack_obamba_and_his_presidency,outlaws93
+90478409,FALSE,3,7/27/2011 6:53,For,0.6136,,20,4960045241001_2730008802001,Wed 10 December 2008 08:10 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478410,FALSE,3,7/27/2011 8:59,For,1,,21,4960045241001_2730008802001,Wed 10 December 2008 08:17 AM,barack_obamba_and_his_presidency,Kindsbach
+90478411,FALSE,3,7/27/2011 8:40,For,0.3909,,22,4960045241001_2730008802001,Wed 10 December 2008 08:19 AM,barack_obamba_and_his_presidency,Raunchy
+90478412,FALSE,3,7/27/2011 7:15,Against,0.6891,,23,4960045241001_2730008802001,Wed 10 December 2008 08:26 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478413,FALSE,3,7/27/2011 7:32,Not Sure,1,,24,4960045241001_2730008802001,Wed 10 December 2008 08:29 AM,barack_obamba_and_his_presidency,sldo
+90478414,FALSE,3,7/27/2011 5:36,Against,0.646,,25,4960045241001_2730008802001,Wed 10 December 2008 08:33 AM,barack_obamba_and_his_presidency,PhoenixDark
+90478415,FALSE,3,7/27/2011 8:46,Not Sure,0.6525,,26,4960045241001_2730008802001,Wed 10 December 2008 08:35 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478416,FALSE,3,7/27/2011 6:41,For,0.6761,,27,4960045241001_2730008802001,Wed 10 December 2008 09:12 AM,barack_obamba_and_his_presidency,CasinoRoyale
+90478417,FALSE,3,7/27/2011 8:58,Not Sure,0.3515,,28,4960045241001_2730008802001,Wed 10 December 2008 09:14 AM,barack_obamba_and_his_presidency,EspritDeCorps
+90478418,FALSE,3,7/27/2011 6:11,For,0.6918,,29,4960045241001_2730008802001,Wed 10 December 2008 09:15 AM,barack_obamba_and_his_presidency,liberal90
+90478419,FALSE,3,7/27/2011 7:10,For,0.6826,,30,4960045241001_2730008802001,Wed 10 December 2008 09:18 AM,barack_obamba_and_his_presidency,CasinoRoyale
+90478420,FALSE,3,7/27/2011 6:39,For,0.701,,31,4960045241001_2730008802001,Wed 10 December 2008 09:30 AM,barack_obamba_and_his_presidency,L0A1
+90478421,FALSE,3,7/27/2011 7:27,For,1,,32,4960045241001_2730008802001,Wed 10 December 2008 09:35 AM,barack_obamba_and_his_presidency,Kindsbach
+90478422,FALSE,3,7/27/2011 8:42,For,0.665,,33,4960045241001_2730008802001,Wed 10 December 2008 09:44 AM,barack_obamba_and_his_presidency,L0A1
+90478423,FALSE,4,7/27/2011 6:34,For,1,,34,4960045241001_2730008802001,Wed 10 December 2008 09:47 AM,barack_obamba_and_his_presidency,CasinoRoyale
+90478424,FALSE,4,7/27/2011 9:01,For,1,,35,4960045241001_2730008802001,Wed 10 December 2008 09:51 AM,barack_obamba_and_his_presidency,L0A1
+90478425,FALSE,3,7/27/2011 8:42,Against,0.6626,,36,4960045241001_2730008802001,Wed 10 December 2008 09:57 AM,barack_obamba_and_his_presidency,NM11AZ
+90478426,FALSE,3,7/27/2011 7:34,For,0.7227,,37,4960045241001_2730008802001,Wed 10 December 2008 10:00 AM,barack_obamba_and_his_presidency,NOVAMarine
+90478427,FALSE,3,7/27/2011 8:57,Not Sure,0.6099,,38,4960045241001_2730008802001,Wed 10 December 2008 10:02 AM,barack_obamba_and_his_presidency,mnoble1066
+90478428,FALSE,3,7/27/2011 6:29,Against,0.6396,,39,4960045241001_2730008802001,Wed 10 December 2008 10:02 AM,barack_obamba_and_his_presidency,L0A1
+90478429,FALSE,3,7/27/2011 7:04,For,0.7031,,40,4960045241001_2730008802001,Wed 10 December 2008 10:03 AM,barack_obamba_and_his_presidency,Fin_atic
+90478430,FALSE,4,7/27/2011 9:09,Against,0.4853,,41,4960045241001_2730008802001,Wed 10 December 2008 10:13 AM,barack_obamba_and_his_presidency,ipscone
+90478431,FALSE,3,7/27/2011 6:44,For,0.6498,,42,4960045241001_2730008802001,Wed 10 December 2008 10:29 AM,barack_obamba_and_his_presidency,mnoble1066
+90478432,FALSE,3,7/27/2011 4:28,Against,1,,43,4960045241001_2730008802001,Wed 10 December 2008 10:37 AM,barack_obamba_and_his_presidency,patriotgal08
+90478433,FALSE,3,7/27/2011 6:45,Against,0.6474,,44,4960045241001_2730008802001,Wed 10 December 2008 11:04 AM,barack_obamba_and_his_presidency,adminnco1
+90478434,FALSE,3,7/27/2011 8:10,For,0.6461,,45,4960045241001_2730008802001,Wed 10 December 2008 12:47 PM,barack_obamba_and_his_presidency,Fin_atic
+90478435,FALSE,3,7/27/2011 6:11,For,0.6386,,46,4960045241001_2730008802001,Wed 10 December 2008 02:37 PM,barack_obamba_and_his_presidency,busnrete8
+90478436,FALSE,3,7/27/2011 0:59,Against,0.6716,,47,4960045241001_2730008802001,Wed 10 December 2008 11:02 PM,barack_obamba_and_his_presidency,outlaws93
+90478437,FALSE,3,7/27/2011 8:50,For,0.6385,,48,4960045241001_2730008802001,Wed 10 December 2008 11:54 PM,barack_obamba_and_his_presidency,jdksfcret
+90478438,FALSE,3,7/27/2011 6:24,Not Sure,1,,49,4960045241001_2730008802001,Thu 11 December 2008 12:53 AM,barack_obamba_and_his_presidency,karlhungusjr
+90478439,FALSE,3,7/27/2011 8:47,Against,0.6424,,50,4960045241001_2730008802001,Thu 11 December 2008 02:53 AM,barack_obamba_and_his_presidency,adminnco1
+90478440,FALSE,3,7/27/2011 7:22,Against,0.7152,,51,4960045241001_2730008802001,Thu 11 December 2008 02:57 AM,barack_obamba_and_his_presidency,adminnco1
+90478441,FALSE,4,7/27/2011 7:42,Not Sure,0.7933,,52,4960045241001_2730008802001,Thu 11 December 2008 03:42 AM,barack_obamba_and_his_presidency,karlhungusjr
+90478442,FALSE,3,7/27/2011 7:19,Against,1,,53,4960045241001_2730008802001,Thu 11 December 2008 06:15 AM,barack_obamba_and_his_presidency,Raunchy
+90478443,FALSE,3,7/27/2011 8:48,Against,0.6616,,54,4960045241001_2730008802001,Thu 11 December 2008 09:15 AM,barack_obamba_and_his_presidency,dman1948
+90478444,FALSE,4,7/27/2011 6:36,Against,0.5285,,55,4960045241001_2730008802001,Thu 11 December 2008 10:20 AM,barack_obamba_and_his_presidency,patriotgal08
+90478445,FALSE,3,7/27/2011 7:04,Against,0.6461,,56,4960045241001_2730008802001,Fri 12 December 2008 06:20 PM,barack_obamba_and_his_presidency,adminnco1
+90478446,FALSE,4,7/27/2011 8:10,Not Sure,1,,57,4960045241001_2730008802001,Fri 12 December 2008 06:38 PM,barack_obamba_and_his_presidency,adminnco1
+90478447,FALSE,3,7/27/2011 8:45,Not Sure,0.656,,58,4960045241001_2730008802001,Fri 12 December 2008 10:17 PM,barack_obamba_and_his_presidency,karlhungusjr
+90478448,FALSE,3,7/27/2011 5:49,Against,1,,59,4960045241001_2730008802001,Sat 13 December 2008 06:43 AM,barack_obamba_and_his_presidency,RRR52
+90478449,FALSE,3,7/27/2011 8:40,Not Sure,0.6576,,60,4960045241001_2730008802001,Sat 13 December 2008 07:02 PM,barack_obamba_and_his_presidency,adminnco1
+90478450,FALSE,3,7/27/2011 8:56,Not Sure,0.6249,,61,4960045241001_2730008802001,Sat 13 December 2008 09:20 PM,barack_obamba_and_his_presidency,karlhungusjr
+90478451,FALSE,3,7/27/2011 7:48,Against,0.6479,,62,4960045241001_2730008802001,Wed 17 December 2008 08:34 AM,barack_obamba_and_his_presidency,21yrsUSCGUSCS
+90478452,FALSE,3,7/27/2011 7:36,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90478454,FALSE,3,7/27/2011 7:44,For,0.7282,,2,409192893_9480052332001,Tue 15 September 2009 11:42 AM,barack_obamba_and_his_presidency,The_Bonesaw
+90478455,FALSE,3,7/27/2011 8:50,Against,0.3438,,3,409192893_9480052332001,Tue 15 September 2009 11:48 AM,barack_obamba_and_his_presidency,The_Bonesaw
+90478456,FALSE,3,7/27/2011 8:10,Not Sure,0.7059,,4,409192893_9480052332001,Tue 15 September 2009 12:03 PM,barack_obamba_and_his_presidency,Marine5711
+90478458,FALSE,3,7/27/2011 8:47,Against,1,,6,409192893_9480052332001,Tue 15 September 2009 12:59 PM,barack_obamba_and_his_presidency,Marine5711
+90478459,FALSE,3,7/27/2011 5:49,For,0.373,,7,409192893_9480052332001,Tue 15 September 2009 01:02 PM,barack_obamba_and_his_presidency,1WW
+90478461,TRUE,1,7/26/2011 19:13,Not Sure,1,Not Sure,9,409192893_9480052332001,Tue 15 September 2009 01:16 PM,barack_obamba_and_his_presidency,USNVet940
+90478466,TRUE,1,7/26/2011 19:00,For,1,For,14,409192893_9480052332001,Tue 15 September 2009 02:02 PM,barack_obamba_and_his_presidency,Marine5711
+90478473,TRUE,1,7/27/2011 8:00,Against,1,Not Sure,21,409192893_9480052332001,Tue 15 September 2009 04:41 PM,barack_obamba_and_his_presidency,dman1948
+90478477,TRUE,1,7/27/2011 3:56,Against,1,For,25,409192893_9480052332001,Tue 15 September 2009 09:22 PM,barack_obamba_and_his_presidency,rcjarrell
+90478479,TRUE,1,7/27/2011 5:21,For,1,Not Sure,27,409192893_9480052332001,Wed 16 September 2009 02:30 AM,barack_obamba_and_his_presidency,jdksfcret
+90478486,TRUE,26,7/27/2011 8:41,Against,0.6267,"Against
+Not Sure",34,409192893_9480052332001,Wed 16 September 2009 10:39 AM,barack_obamba_and_his_presidency,downranger69
+90478490,TRUE,1,7/27/2011 7:50,Against,1,Not Sure,38,409192893_9480052332001,Wed 16 September 2009 12:28 PM,barack_obamba_and_his_presidency,Killswitch_Engage
+90478491,FALSE,3,7/27/2011 7:25,Against,0.6175,,39,409192893_9480052332001,Wed 16 September 2009 01:02 PM,barack_obamba_and_his_presidency,Marine5711
+90478492,FALSE,3,7/27/2011 8:50,Not Sure,0.6569,,40,409192893_9480052332001,Wed 16 September 2009 01:38 PM,barack_obamba_and_his_presidency,The_Bonesaw
+90478494,TRUE,1,7/27/2011 8:18,Against,1,For,42,409192893_9480052332001,Wed 16 September 2009 04:45 PM,barack_obamba_and_his_presidency,jdksfcret
+90478497,TRUE,1,7/26/2011 18:49,Not Sure,1,Not Sure,45,409192893_9480052332001,Wed 16 September 2009 09:54 PM,barack_obamba_and_his_presidency,rayld2
+90478501,TRUE,1,7/27/2011 8:20,For,1,Not Sure,49,409192893_9480052332001,Thu 17 September 2009 07:24 AM,barack_obamba_and_his_presidency,DEANEGILMOUR
+90478502,FALSE,3,7/27/2011 7:36,Not Sure,0.6587,,50,409192893_9480052332001,Thu 17 September 2009 07:29 AM,barack_obamba_and_his_presidency,Killswitch_Engage
+90478503,FALSE,3,7/27/2011 8:39,For,0.6732,,51,409192893_9480052332001,Thu 17 September 2009 08:48 AM,barack_obamba_and_his_presidency,The_Bonesaw
+90478504,FALSE,3,7/27/2011 7:10,For,0.6896,,52,409192893_9480052332001,Thu 17 September 2009 02:20 PM,barack_obamba_and_his_presidency,john2x
+90478505,FALSE,3,7/27/2011 6:05,Not Sure,0.677,,53,409192893_9480052332001,Thu 17 September 2009 02:34 PM,barack_obamba_and_his_presidency,john2x
+90478506,FALSE,3,7/27/2011 5:25,Not Sure,1,,54,409192893_9480052332001,Thu 17 September 2009 03:09 PM,barack_obamba_and_his_presidency,Marine5711
+90478507,FALSE,3,7/27/2011 7:36,Against,0.7256,,55,409192893_9480052332001,Thu 17 September 2009 08:42 PM,barack_obamba_and_his_presidency,greywolfghost
+90478508,FALSE,3,7/27/2011 5:52,For,0.6131,,Post ID,Thread ID,Time,Topic,User ID
+90478509,FALSE,3,7/27/2011 9:06,Against,0.6425,,1,672198221_3700057812001,Tue 24 March 2009 08:57 AM,barack_obamba_and_his_presidency,Anbar7
+90478510,FALSE,3,7/27/2011 7:44,Not Sure,0.6525,,2,672198221_3700057812001,Tue 24 March 2009 08:59 AM,barack_obamba_and_his_presidency,Anbar7
+90478511,FALSE,3,7/27/2011 5:14,For,1,,3,672198221_3700057812001,Tue 24 March 2009 09:04 AM,barack_obamba_and_his_presidency,Irwin_R_Schyster
+90478512,FALSE,3,7/27/2011 7:36,Against,0.7161,,4,672198221_3700057812001,Tue 24 March 2009 09:07 AM,barack_obamba_and_his_presidency,Anbar7
+90478513,FALSE,3,7/27/2011 8:43,Against,1,,5,672198221_3700057812001,Tue 24 March 2009 09:09 AM,barack_obamba_and_his_presidency,Anbar7
+90478514,FALSE,3,7/27/2011 7:30,Not Sure,1,,6,672198221_3700057812001,Tue 24 March 2009 09:23 AM,barack_obamba_and_his_presidency,outlaws93
+90478515,FALSE,3,7/27/2011 8:00,Against,1,,7,672198221_3700057812001,Tue 24 March 2009 09:24 AM,barack_obamba_and_his_presidency,stec74
+90478516,FALSE,3,7/27/2011 6:54,Against,1,,8,672198221_3700057812001,Tue 24 March 2009 09:26 AM,barack_obamba_and_his_presidency,Anbar7
+90478517,FALSE,3,7/27/2011 8:48,Against,0.643,,9,672198221_3700057812001,Tue 24 March 2009 09:30 AM,barack_obamba_and_his_presidency,EAG154
+90478518,FALSE,3,7/27/2011 8:49,Against,0.6825,,10,672198221_3700057812001,Tue 24 March 2009 09:44 AM,barack_obamba_and_his_presidency,NickBrand
+90478519,FALSE,3,7/27/2011 8:59,Against,0.6475,,11,672198221_3700057812001,Tue 24 March 2009 10:01 AM,barack_obamba_and_his_presidency,Anbar7
+90478520,FALSE,3,7/27/2011 4:14,Against,1,,12,672198221_3700057812001,Tue 24 March 2009 10:03 AM,barack_obamba_and_his_presidency,BayStateGal
+90478521,FALSE,3,7/27/2011 6:50,For,0.7079,,13,672198221_3700057812001,Tue 24 March 2009 10:06 AM,barack_obamba_and_his_presidency,L0A1
+90478522,FALSE,3,7/27/2011 8:41,Against,0.6537,,14,672198221_3700057812001,Tue 24 March 2009 10:13 AM,barack_obamba_and_his_presidency,L0A1
+90478523,FALSE,3,7/27/2011 7:32,For,0.6397,,15,672198221_3700057812001,Tue 24 March 2009 10:16 AM,barack_obamba_and_his_presidency,EAG154
+90478524,FALSE,3,7/27/2011 6:22,Against,0.6674,,16,672198221_3700057812001,Tue 24 March 2009 10:46 AM,barack_obamba_and_his_presidency,Anbar7
+90478525,FALSE,3,7/27/2011 7:46,For,0.6769,,17,672198221_3700057812001,Tue 24 March 2009 10:51 AM,barack_obamba_and_his_presidency,jack_flats
+90478526,FALSE,3,7/27/2011 7:01,Not Sure,0.3986,,18,672198221_3700057812001,Tue 24 March 2009 11:03 AM,barack_obamba_and_his_presidency,Anbar7
+90478527,FALSE,3,7/27/2011 7:57,For,1,,19,672198221_3700057812001,Tue 24 March 2009 11:10 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478528,FALSE,3,7/27/2011 8:06,Against,0.6181,,20,672198221_3700057812001,Tue 24 March 2009 11:17 AM,barack_obamba_and_his_presidency,nspreitler
+90478529,FALSE,3,7/27/2011 7:25,For,0.7216,,21,672198221_3700057812001,Tue 24 March 2009 11:31 AM,barack_obamba_and_his_presidency,L0A1
+90478530,FALSE,3,7/27/2011 8:50,For,0.7226,,22,672198221_3700057812001,Tue 24 March 2009 12:54 PM,barack_obamba_and_his_presidency,Anbar7
+90478531,FALSE,3,7/27/2011 5:41,Against,0.7188,,23,672198221_3700057812001,Tue 24 March 2009 01:28 PM,barack_obamba_and_his_presidency,Proudformermarine
+90478532,FALSE,3,7/27/2011 6:54,Against,1,,24,672198221_3700057812001,Tue 24 March 2009 01:49 PM,barack_obamba_and_his_presidency,nspreitler
+90478533,FALSE,3,7/27/2011 8:40,Not Sure,0.6758,,25,672198221_3700057812001,Tue 24 March 2009 02:01 PM,barack_obamba_and_his_presidency,EAG154
+90478534,FALSE,3,7/27/2011 7:34,Against,0.7045,,26,672198221_3700057812001,Tue 24 March 2009 02:04 PM,barack_obamba_and_his_presidency,EAG154
+90478535,FALSE,3,7/27/2011 6:41,Against,0.7023,,27,672198221_3700057812001,Tue 24 March 2009 02:26 PM,barack_obamba_and_his_presidency,busnrete8
+90478536,FALSE,3,7/27/2011 8:58,For,1,,28,672198221_3700057812001,Tue 24 March 2009 02:32 PM,barack_obamba_and_his_presidency,SUNLINER81
+90478537,FALSE,3,7/27/2011 8:48,Not Sure,0.6265,,29,672198221_3700057812001,Tue 24 March 2009 07:05 PM,barack_obamba_and_his_presidency,stillkit
+90478538,FALSE,3,7/27/2011 7:16,For,1,,30,672198221_3700057812001,Tue 24 March 2009 07:27 PM,barack_obamba_and_his_presidency,uh34d
+90478539,FALSE,3,7/27/2011 6:39,For,0.6696,,31,672198221_3700057812001,Tue 24 March 2009 07:41 PM,barack_obamba_and_his_presidency,Motive25
+90478540,FALSE,3,7/27/2011 8:10,Against,0.6757,,32,672198221_3700057812001,Tue 24 March 2009 08:11 PM,barack_obamba_and_his_presidency,Irwin_R_Schyster
+90478541,FALSE,3,7/27/2011 9:27,Against,0.6285,,33,672198221_3700057812001,Wed 25 March 2009 06:39 AM,barack_obamba_and_his_presidency,Anbar7
+90478542,FALSE,3,7/27/2011 7:20,Against,0.698,,34,672198221_3700057812001,Wed 25 March 2009 08:35 AM,barack_obamba_and_his_presidency,EAG154
+90478543,FALSE,3,7/27/2011 7:50,For,0.7292,,35,672198221_3700057812001,Wed 25 March 2009 08:42 AM,barack_obamba_and_his_presidency,CombatNAC
+90478544,FALSE,3,7/27/2011 7:08,Against,0.3604,,36,672198221_3700057812001,Wed 25 March 2009 08:47 AM,barack_obamba_and_his_presidency,Anbar7
+90478545,FALSE,3,7/27/2011 8:48,For,0.3797,,37,672198221_3700057812001,Wed 25 March 2009 10:04 AM,barack_obamba_and_his_presidency,nspreitler
+90478546,FALSE,4,7/27/2011 9:00,Not Sure,0.5004,,38,672198221_3700057812001,Wed 25 March 2009 10:08 AM,barack_obamba_and_his_presidency,Anbar7
+90478547,FALSE,3,7/27/2011 8:00,Against,1,,39,672198221_3700057812001,Wed 25 March 2009 10:11 AM,barack_obamba_and_his_presidency,GunnyRet03
+90478548,FALSE,3,7/27/2011 8:01,Against,0.7304,,40,672198221_3700057812001,Wed 25 March 2009 05:47 PM,barack_obamba_and_his_presidency,uh34d
+90478549,FALSE,3,7/27/2011 6:27,Not Sure,0.6359,,41,672198221_3700057812001,Fri 27 March 2009 08:36 AM,barack_obamba_and_his_presidency,EAG154
+90478550,FALSE,3,7/27/2011 6:00,Not Sure,0.352,,42,672198221_3700057812001,Fri 27 March 2009 11:28 AM,barack_obamba_and_his_presidency,uh34d
+90478551,FALSE,3,7/27/2011 6:58,Not Sure,0.6561,,43,672198221_3700057812001,Fri 27 March 2009 12:04 PM,barack_obamba_and_his_presidency,Motive25
+90478552,FALSE,3,7/27/2011 8:45,For,1,,44,672198221_3700057812001,Sat 28 March 2009 08:58 PM,barack_obamba_and_his_presidency,CombatNAC
+90478553,FALSE,4,7/27/2011 5:29,For,0.5017,,45,672198221_3700057812001,Sun 29 March 2009 08:28 AM,barack_obamba_and_his_presidency,EAG154

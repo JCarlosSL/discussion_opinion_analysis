@@ -1,0 +1,273 @@
+_unit_id,_golden,_trusted_judgments,_last_judgment_at,opinion_toward_the_above_topic,opinion_toward_the_above_topic:confidence,opinion_toward_the_above_topic_gold,post_id,thread_id,time,topic,user_id
+90476944,FALSE,4,7/27/2011 9:08,Not Sure,0.7975,,1,409192893_1100030352001,Fri 11 June 2010 02:46 AM,abortion_as_rights_or_choices,IHAWKER
+90476946,TRUE,26,7/27/2011 8:56,For,0.8504,"For
+Not Sure",3,409192893_1100030352001,Fri 11 June 2010 11:32 AM,abortion_as_rights_or_choices,Cider33_Alpha
+90476947,TRUE,20,7/27/2011 5:45,Not Sure,0.9195,Not Sure,4,409192893_1100030352001,Fri 11 June 2010 12:31 PM,abortion_as_rights_or_choices,IHAWKER
+90476950,FALSE,4,7/27/2011 9:27,For,0.7664,,7,409192893_1100030352001,Fri 11 June 2010 03:22 PM,abortion_as_rights_or_choices,cosmicfish
+90476954,TRUE,24,7/27/2011 9:27,Not Sure,0.6482,"For
+Against
+Not Sure",11,409192893_1100030352001,Fri 11 June 2010 04:12 PM,abortion_as_rights_or_choices,GunnyZak
+90476956,TRUE,1,7/27/2011 7:17,For,1,Against,13,409192893_1100030352001,Fri 11 June 2010 04:21 PM,abortion_as_rights_or_choices,SignalSgtWilliams
+90476957,TRUE,1,7/26/2011 18:51,Against,1,Against,14,409192893_1100030352001,Fri 11 June 2010 08:23 PM,abortion_as_rights_or_choices,PinkBlossoms
+90476959,FALSE,4,7/27/2011 9:27,For,0.7742,,16,409192893_1100030352001,Sat 12 June 2010 06:43 AM,abortion_as_rights_or_choices,SeaWitch1220
+90476962,TRUE,1,7/27/2011 3:49,For,1,Not Sure,19,409192893_1100030352001,Sat 12 June 2010 10:04 AM,abortion_as_rights_or_choices,skinman13
+90476963,TRUE,1,7/27/2011 8:59,For,1,Against,20,409192893_1100030352001,Sat 12 June 2010 10:49 AM,abortion_as_rights_or_choices,IHAWKER
+90476965,TRUE,1,7/26/2011 18:49,Not Sure,1,Not Sure,22,409192893_1100030352001,Sat 12 June 2010 02:06 PM,abortion_as_rights_or_choices,Boospar
+90476967,TRUE,12,7/27/2011 2:48,For,0.7521,Not Sure,24,409192893_1100030352001,Sat 12 June 2010 03:52 PM,abortion_as_rights_or_choices,skinman13
+90476968,TRUE,13,7/27/2011 7:22,Not Sure,0.3793,"Against
+Not Sure",25,409192893_1100030352001,Sat 12 June 2010 04:13 PM,abortion_as_rights_or_choices,LineDoggie
+90476969,TRUE,31,7/27/2011 9:41,Against,0.5394,"For
+Against
+Not Sure",26,409192893_1100030352001,Sat 12 June 2010 04:37 PM,abortion_as_rights_or_choices,GunnyZak
+90476974,TRUE,1,7/27/2011 7:28,Against,1,For,31,409192893_1100030352001,Sat 12 June 2010 10:38 PM,abortion_as_rights_or_choices,Golgoth
+90476975,TRUE,27,7/27/2011 8:39,For,0.8667,"For
+Not Sure",32,409192893_1100030352001,Sun 13 June 2010 05:02 AM,abortion_as_rights_or_choices,thorin001
+90476976,TRUE,1,7/27/2011 4:15,Not Sure,1,Not Sure,33,409192893_1100030352001,Sun 13 June 2010 06:41 AM,abortion_as_rights_or_choices,SeaWitch1220
+90476987,FALSE,4,7/27/2011 9:08,Against,0.5017,,44,409192893_1100030352001,Sun 13 June 2010 02:18 PM,abortion_as_rights_or_choices,Esample1
+90476992,FALSE,4,7/27/2011 9:27,For,0.5222,,49,409192893_1100030352001,Thu 17 June 2010 07:37 PM,abortion_as_rights_or_choices,Boospar
+90476993,FALSE,4,7/27/2011 9:27,Against,0.7514,,50,409192893_1100030352001,Thu 17 June 2010 07:45 PM,abortion_as_rights_or_choices,Boospar
+90476994,FALSE,4,7/27/2011 9:08,Not Sure,0.7448,,51,409192893_1100030352001,Thu 17 June 2010 07:58 PM,abortion_as_rights_or_choices,Boospar
+90476995,FALSE,3,7/27/2011 8:44,For,0.6597,,52,409192893_1100030352001,Thu 17 June 2010 09:06 PM,abortion_as_rights_or_choices,thorin001
+90476996,FALSE,3,7/27/2011 1:31,Not Sure,0.6604,,53,409192893_1100030352001,Thu 17 June 2010 09:47 PM,abortion_as_rights_or_choices,Boospar
+90476997,FALSE,3,7/27/2011 6:44,Not Sure,0.6268,,54,409192893_1100030352001,Fri 18 June 2010 12:05 PM,abortion_as_rights_or_choices,thorin001
+90476998,FALSE,4,7/27/2011 9:41,For,0.5417,,55,409192893_1100030352001,Fri 18 June 2010 02:10 PM,abortion_as_rights_or_choices,Boospar
+90476999,FALSE,3,7/27/2011 8:03,For,1,,56,409192893_1100030352001,Fri 18 June 2010 05:12 PM,abortion_as_rights_or_choices,thorin001
+90477000,FALSE,3,7/27/2011 6:36,Against,0.7094,,57,409192893_1100030352001,Fri 18 June 2010 06:47 PM,abortion_as_rights_or_choices,Boospar
+90477001,FALSE,4,7/27/2011 9:08,Not Sure,0.5193,,58,409192893_1100030352001,Fri 18 June 2010 06:51 PM,abortion_as_rights_or_choices,Boospar
+90477002,FALSE,4,7/27/2011 4:52,For,0.5213,,59,409192893_1100030352001,Fri 18 June 2010 08:06 PM,abortion_as_rights_or_choices,thorin001
+90477003,FALSE,4,7/27/2011 9:27,Not Sure,0.7763,,60,409192893_1100030352001,Fri 18 June 2010 08:08 PM,abortion_as_rights_or_choices,thorin001
+90477004,FALSE,4,7/27/2011 9:08,Not Sure,0.5572,,61,409192893_1100030352001,Fri 18 June 2010 08:23 PM,abortion_as_rights_or_choices,Boospar
+90477005,FALSE,3,7/27/2011 8:47,Not Sure,0.6099,,62,409192893_1100030352001,Fri 18 June 2010 08:26 PM,abortion_as_rights_or_choices,Boospar
+90477006,FALSE,4,7/27/2011 9:27,Not Sure,0.7891,,63,409192893_1100030352001,Sat 19 June 2010 07:54 AM,abortion_as_rights_or_choices,tawodi
+90477007,FALSE,4,7/27/2011 9:41,For,0.5211,,64,409192893_1100030352001,Sat 19 June 2010 08:04 AM,abortion_as_rights_or_choices,Cider33_Alpha
+90477008,FALSE,3,7/27/2011 1:28,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477009,FALSE,4,7/27/2011 9:27,For,0.5067,,1,409192893_2520020171001,Fri 22 February 2008 10:08 PM,abortion_as_rights_or_choices,machiavellean
+90477010,FALSE,4,7/27/2011 9:27,Against,0.7504,,2,409192893_2520020171001,Sun 09 March 2008 03:55 PM,abortion_as_rights_or_choices,aggie_swife
+90477011,FALSE,3,7/27/2011 4:21,For,1,,3,409192893_2520020171001,Sun 09 March 2008 03:58 PM,abortion_as_rights_or_choices,scottrj50
+90477012,FALSE,4,7/27/2011 9:40,Against,1,,4,409192893_2520020171001,Sun 09 March 2008 04:10 PM,abortion_as_rights_or_choices,mmulder67
+90477013,FALSE,4,7/27/2011 9:40,Against,0.7325,,5,409192893_2520020171001,Sun 09 March 2008 04:19 PM,abortion_as_rights_or_choices,Persy
+90477014,FALSE,4,7/27/2011 9:40,Against,0.4994,,6,409192893_2520020171001,Sun 09 March 2008 04:22 PM,abortion_as_rights_or_choices,mmulder67
+90477015,FALSE,4,7/27/2011 9:40,Not Sure,0.5007,,7,409192893_2520020171001,Sun 09 March 2008 04:34 PM,abortion_as_rights_or_choices,aggie_swife
+90477016,FALSE,4,7/27/2011 9:41,Not Sure,0.4962,,8,409192893_2520020171001,Sun 09 March 2008 05:26 PM,abortion_as_rights_or_choices,mmulder67
+90477017,FALSE,4,7/27/2011 9:41,For,0.5148,,9,409192893_2520020171001,Sun 09 March 2008 05:40 PM,abortion_as_rights_or_choices,Marou
+90477018,FALSE,3,7/27/2011 7:34,Against,0.7237,,10,409192893_2520020171001,Sun 09 March 2008 05:53 PM,abortion_as_rights_or_choices,mmulder67
+90477019,FALSE,3,7/27/2011 8:00,For,1,,11,409192893_2520020171001,Sun 09 March 2008 06:02 PM,abortion_as_rights_or_choices,Marou
+90477020,FALSE,3,7/27/2011 6:23,Not Sure,0.6884,,12,409192893_2520020171001,Sun 09 March 2008 06:14 PM,abortion_as_rights_or_choices,Golgoth
+90477021,FALSE,3,7/27/2011 7:29,Against,0.66,,13,409192893_2520020171001,Sun 09 March 2008 06:48 PM,abortion_as_rights_or_choices,sweetsuds
+90477022,FALSE,3,7/27/2011 5:21,Against,1,,14,409192893_2520020171001,Sun 09 March 2008 09:27 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477023,FALSE,3,7/27/2011 3:56,Against,1,,15,409192893_2520020171001,Sun 09 March 2008 09:40 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477024,FALSE,3,7/27/2011 7:36,Against,0.6288,,16,409192893_2520020171001,Sun 09 March 2008 09:44 PM,abortion_as_rights_or_choices,mmulder67
+90477025,FALSE,3,7/27/2011 8:45,Against,0.6655,,17,409192893_2520020171001,Sun 09 March 2008 10:22 PM,abortion_as_rights_or_choices,scottrj50
+90477026,FALSE,3,7/27/2011 6:37,Against,1,,18,409192893_2520020171001,Mon 10 March 2008 04:32 AM,abortion_as_rights_or_choices,PinkBlossoms
+90477027,FALSE,3,7/27/2011 7:07,Not Sure,0.3635,,19,409192893_2520020171001,Mon 10 March 2008 05:41 AM,abortion_as_rights_or_choices,GunnyRet03
+90477028,FALSE,3,7/27/2011 2:04,For,0.6486,,20,409192893_2520020171001,Mon 10 March 2008 06:44 AM,abortion_as_rights_or_choices,Fightdirector
+90477029,FALSE,3,7/27/2011 4:21,Not Sure,1,,21,409192893_2520020171001,Mon 10 March 2008 06:57 AM,abortion_as_rights_or_choices,Fightdirector
+90477030,FALSE,3,7/27/2011 0:22,For,1,,22,409192893_2520020171001,Mon 10 March 2008 07:53 AM,abortion_as_rights_or_choices,sweetsuds
+90477031,FALSE,3,7/27/2011 8:00,Not Sure,0.6771,,23,409192893_2520020171001,Mon 10 March 2008 08:29 AM,abortion_as_rights_or_choices,DocTrowerFMF
+90477032,FALSE,3,7/27/2011 8:52,For,1,,24,409192893_2520020171001,Mon 10 March 2008 08:37 AM,abortion_as_rights_or_choices,Fightdirector
+90477033,FALSE,3,7/27/2011 4:38,For,0.7027,,25,409192893_2520020171001,Mon 10 March 2008 09:39 AM,abortion_as_rights_or_choices,WhoFreak
+90477034,FALSE,3,7/27/2011 7:20,Not Sure,0.6771,,26,409192893_2520020171001,Mon 10 March 2008 11:53 AM,abortion_as_rights_or_choices,rm444
+90477035,FALSE,3,7/27/2011 6:38,Not Sure,0.7116,,27,409192893_2520020171001,Mon 10 March 2008 02:46 PM,abortion_as_rights_or_choices,nurse_attorney
+90477036,FALSE,3,7/27/2011 6:58,Not Sure,0.6675,,28,409192893_2520020171001,Mon 10 March 2008 02:49 PM,abortion_as_rights_or_choices,nurse_attorney
+90477037,FALSE,3,7/27/2011 7:25,Not Sure,0.668,,29,409192893_2520020171001,Mon 10 March 2008 03:02 PM,abortion_as_rights_or_choices,Persy
+90477038,FALSE,3,7/27/2011 8:47,Not Sure,0.353,,30,409192893_2520020171001,Mon 10 March 2008 03:17 PM,abortion_as_rights_or_choices,sweetsuds
+90477039,FALSE,3,7/27/2011 7:34,Not Sure,0.3642,,31,409192893_2520020171001,Mon 10 March 2008 07:24 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477040,FALSE,3,7/27/2011 5:39,For,0.6616,,32,409192893_2520020171001,Mon 10 March 2008 07:34 PM,abortion_as_rights_or_choices,sweetsuds
+90477041,FALSE,3,7/27/2011 6:02,Against,1,,33,409192893_2520020171001,Mon 10 March 2008 07:53 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477042,FALSE,3,7/27/2011 9:06,Not Sure,0.679,,34,409192893_2520020171001,Mon 10 March 2008 07:57 PM,abortion_as_rights_or_choices,billbright
+90477043,FALSE,3,7/27/2011 6:08,Not Sure,0.6922,,35,409192893_2520020171001,Mon 10 March 2008 08:23 PM,abortion_as_rights_or_choices,SwtDivaLove
+90477044,FALSE,3,7/27/2011 7:37,Not Sure,0.6845,,36,409192893_2520020171001,Tue 11 March 2008 09:46 AM,abortion_as_rights_or_choices,nurse_attorney
+90477045,FALSE,3,7/27/2011 4:19,Not Sure,0.6629,,37,409192893_2520020171001,Tue 11 March 2008 09:50 AM,abortion_as_rights_or_choices,sweetsuds
+90477046,FALSE,3,7/27/2011 7:03,Against,0.6944,,38,409192893_2520020171001,Tue 11 March 2008 09:51 AM,abortion_as_rights_or_choices,nurse_attorney
+90477047,FALSE,3,7/27/2011 8:42,Not Sure,0.6524,,39,409192893_2520020171001,Tue 11 March 2008 09:52 AM,abortion_as_rights_or_choices,nurse_attorney
+90477048,FALSE,4,7/27/2011 9:01,For,1,,40,409192893_2520020171001,Tue 11 March 2008 09:54 AM,abortion_as_rights_or_choices,nurse_attorney
+90477049,FALSE,3,7/27/2011 2:23,Against,0.6931,,41,409192893_2520020171001,Tue 11 March 2008 10:06 AM,abortion_as_rights_or_choices,sweetsuds
+90477050,FALSE,4,7/27/2011 4:50,Not Sure,0.7349,,42,409192893_2520020171001,Tue 11 March 2008 02:27 PM,abortion_as_rights_or_choices,CalDreaming02
+90477051,FALSE,3,7/27/2011 8:45,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477052,FALSE,3,7/27/2011 1:29,Against,1,,1,5531905206_6420099791001,Fri 05 September 2008 04:24 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477053,FALSE,3,7/27/2011 7:19,For,1,,2,5531905206_6420099791001,Fri 05 September 2008 04:53 PM,abortion_as_rights_or_choices,sweetsuds
+90477054,FALSE,3,7/27/2011 5:51,For,0.6244,,3,5531905206_6420099791001,Fri 05 September 2008 05:18 PM,abortion_as_rights_or_choices,mmulder67
+90477055,FALSE,3,7/27/2011 6:57,Against,1,,4,5531905206_6420099791001,Fri 05 September 2008 05:20 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477056,FALSE,3,7/27/2011 7:55,Not Sure,1,,5,5531905206_6420099791001,Fri 05 September 2008 05:25 PM,abortion_as_rights_or_choices,Silverbusa
+90477057,FALSE,3,7/27/2011 8:52,Not Sure,0.6403,,6,5531905206_6420099791001,Fri 05 September 2008 05:38 PM,abortion_as_rights_or_choices,mmulder67
+90477058,FALSE,3,7/27/2011 4:34,Not Sure,1,,7,5531905206_6420099791001,Fri 05 September 2008 05:39 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477059,FALSE,3,7/27/2011 6:05,For,0.6958,,8,5531905206_6420099791001,Fri 05 September 2008 05:49 PM,abortion_as_rights_or_choices,mmulder67
+90477060,FALSE,3,7/27/2011 7:48,Against,0.7037,,9,5531905206_6420099791001,Fri 05 September 2008 06:19 PM,abortion_as_rights_or_choices,Silverbusa
+90477061,FALSE,3,7/27/2011 7:27,For,0.6235,,10,5531905206_6420099791001,Fri 05 September 2008 06:47 PM,abortion_as_rights_or_choices,mmulder67
+90477062,FALSE,4,7/27/2011 7:43,Not Sure,0.7869,,11,5531905206_6420099791001,Fri 05 September 2008 06:49 PM,abortion_as_rights_or_choices,Silverbusa
+90477063,FALSE,3,7/27/2011 7:38,For,0.6291,,12,5531905206_6420099791001,Fri 05 September 2008 07:17 PM,abortion_as_rights_or_choices,SkipHadaway
+90477064,FALSE,3,7/27/2011 6:52,Against,0.6661,,13,5531905206_6420099791001,Fri 05 September 2008 07:40 PM,abortion_as_rights_or_choices,sweetsuds
+90477065,FALSE,3,7/27/2011 6:57,For,1,,14,5531905206_6420099791001,Fri 05 September 2008 07:45 PM,abortion_as_rights_or_choices,HANtheMANN
+90477066,FALSE,3,7/27/2011 4:21,For,1,,15,5531905206_6420099791001,Fri 05 September 2008 08:09 PM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477067,FALSE,3,7/27/2011 7:16,Against,0.7256,,16,5531905206_6420099791001,Fri 05 September 2008 09:18 PM,abortion_as_rights_or_choices,Silverbusa
+90477068,FALSE,3,7/27/2011 7:05,For,1,,17,5531905206_6420099791001,Fri 05 September 2008 09:30 PM,abortion_as_rights_or_choices,mmulder67
+90477069,FALSE,3,7/27/2011 4:51,For,1,,18,5531905206_6420099791001,Fri 05 September 2008 10:18 PM,abortion_as_rights_or_choices,RetiredMarineWife
+90477070,FALSE,3,7/27/2011 7:11,For,0.6821,,19,5531905206_6420099791001,Sat 06 September 2008 07:56 AM,abortion_as_rights_or_choices,Sgt_Salaam
+90477071,FALSE,4,7/27/2011 9:09,For,1,,20,5531905206_6420099791001,Sat 06 September 2008 09:13 AM,abortion_as_rights_or_choices,SurfaceDog
+90477072,FALSE,3,7/27/2011 7:15,Against,0.6994,,21,5531905206_6420099791001,Sat 06 September 2008 09:55 AM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477073,FALSE,3,7/27/2011 8:44,For,1,,22,5531905206_6420099791001,Sat 06 September 2008 10:36 AM,abortion_as_rights_or_choices,Sgt_Salaam
+90477074,FALSE,3,7/27/2011 6:48,For,0.3628,,23,5531905206_6420099791001,Sat 06 September 2008 10:45 AM,abortion_as_rights_or_choices,sweetsuds
+90477075,FALSE,3,7/27/2011 7:48,For,0.641,,24,5531905206_6420099791001,Sat 06 September 2008 10:50 AM,abortion_as_rights_or_choices,sweetsuds
+90477076,FALSE,3,7/27/2011 7:07,Against,1,,25,5531905206_6420099791001,Sat 06 September 2008 11:16 AM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477077,FALSE,3,7/27/2011 4:23,For,1,,26,5531905206_6420099791001,Sat 06 September 2008 12:32 PM,abortion_as_rights_or_choices,sweetsuds
+90477078,FALSE,3,7/27/2011 1:46,For,0.6843,,27,5531905206_6420099791001,Sat 06 September 2008 01:20 PM,abortion_as_rights_or_choices,undercoversister
+90477079,FALSE,3,7/27/2011 1:49,For,0.6687,,28,5531905206_6420099791001,Sat 06 September 2008 02:58 PM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477080,FALSE,3,7/27/2011 8:13,Not Sure,0.3825,,29,5531905206_6420099791001,Sat 06 September 2008 03:05 PM,abortion_as_rights_or_choices,billbright
+90477081,FALSE,3,7/27/2011 7:54,Against,0.7125,,30,5531905206_6420099791001,Sat 06 September 2008 03:06 PM,abortion_as_rights_or_choices,billbright
+90477082,FALSE,3,7/27/2011 6:29,Against,0.6568,,31,5531905206_6420099791001,Sat 06 September 2008 04:27 PM,abortion_as_rights_or_choices,Silverbusa
+90477083,FALSE,3,7/27/2011 7:34,For,0.6832,,32,5531905206_6420099791001,Sat 06 September 2008 04:27 PM,abortion_as_rights_or_choices,rayld2
+90477084,FALSE,3,7/27/2011 7:27,Against,1,,33,5531905206_6420099791001,Sat 06 September 2008 04:34 PM,abortion_as_rights_or_choices,Silverbusa
+90477085,FALSE,3,7/27/2011 7:27,Against,0.4035,,34,5531905206_6420099791001,Sat 06 September 2008 05:13 PM,abortion_as_rights_or_choices,Fin_atic
+90477086,FALSE,3,7/27/2011 5:23,For,0.6835,,35,5531905206_6420099791001,Sat 06 September 2008 05:26 PM,abortion_as_rights_or_choices,sweetsuds
+90477087,FALSE,3,7/27/2011 7:19,For,1,,36,5531905206_6420099791001,Sat 06 September 2008 06:23 PM,abortion_as_rights_or_choices,liberal90
+90477088,FALSE,3,7/27/2011 5:48,For,0.6114,,37,5531905206_6420099791001,Sat 06 September 2008 06:30 PM,abortion_as_rights_or_choices,Grachus
+90477089,FALSE,4,7/27/2011 8:04,For,0.4662,,38,5531905206_6420099791001,Sat 06 September 2008 07:03 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477090,FALSE,3,7/27/2011 7:15,For,0.664,,39,5531905206_6420099791001,Sat 06 September 2008 07:05 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477091,FALSE,3,7/27/2011 8:57,For,1,,40,5531905206_6420099791001,Sat 06 September 2008 07:09 PM,abortion_as_rights_or_choices,sweetsuds
+90477092,FALSE,3,7/27/2011 7:22,Against,0.7079,,41,5531905206_6420099791001,Sat 06 September 2008 07:11 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477093,FALSE,3,7/27/2011 8:20,Against,0.3684,,42,5531905206_6420099791001,Sat 06 September 2008 07:27 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477094,FALSE,3,7/27/2011 8:48,For,0.6322,,43,5531905206_6420099791001,Sat 06 September 2008 07:55 PM,abortion_as_rights_or_choices,sweetsuds
+90477095,FALSE,3,7/27/2011 6:50,Against,0.7074,,44,5531905206_6420099791001,Sat 06 September 2008 07:56 PM,abortion_as_rights_or_choices,Tower_Flower
+90477096,FALSE,3,7/27/2011 8:59,Against,0.3822,,45,5531905206_6420099791001,Sat 06 September 2008 10:23 PM,abortion_as_rights_or_choices,Silverbusa
+90477097,FALSE,4,7/27/2011 5:05,Against,0.7962,,46,5531905206_6420099791001,Sat 06 September 2008 10:27 PM,abortion_as_rights_or_choices,Silverbusa
+90477098,FALSE,3,7/27/2011 7:57,For,1,,47,5531905206_6420099791001,Sat 06 September 2008 10:37 PM,abortion_as_rights_or_choices,undercoversister
+90477099,FALSE,3,7/27/2011 6:58,For,0.6118,,48,5531905206_6420099791001,Sat 06 September 2008 10:57 PM,abortion_as_rights_or_choices,Silverbusa
+90477100,FALSE,3,7/27/2011 8:48,For,1,,49,5531905206_6420099791001,Sat 06 September 2008 10:59 PM,abortion_as_rights_or_choices,undercoversister
+90477101,FALSE,4,7/27/2011 9:00,For,1,,50,5531905206_6420099791001,Sun 07 September 2008 01:14 AM,abortion_as_rights_or_choices,mmulder67
+90477102,FALSE,3,7/27/2011 6:06,For,0.6853,,51,5531905206_6420099791001,Sun 07 September 2008 12:41 PM,abortion_as_rights_or_choices,Tower_Flower
+90477103,FALSE,3,7/27/2011 9:08,For,0.3538,,52,5531905206_6420099791001,Sun 07 September 2008 02:52 PM,abortion_as_rights_or_choices,Grachus
+90477104,FALSE,3,7/27/2011 6:48,For,0.6648,,53,5531905206_6420099791001,Sun 07 September 2008 03:59 PM,abortion_as_rights_or_choices,billbright
+90477105,FALSE,3,7/27/2011 6:50,Against,0.7206,,54,5531905206_6420099791001,Sun 07 September 2008 05:11 PM,abortion_as_rights_or_choices,USAF_76_2_80
+90477106,FALSE,3,7/27/2011 8:57,For,0.6622,,55,5531905206_6420099791001,Sun 07 September 2008 05:17 PM,abortion_as_rights_or_choices,rayld2
+90477107,FALSE,3,7/27/2011 7:41,Against,0.3656,,56,5531905206_6420099791001,Sun 07 September 2008 05:22 PM,abortion_as_rights_or_choices,rayld2
+90477108,FALSE,3,7/27/2011 7:03,Not Sure,0.6448,,57,5531905206_6420099791001,Sun 07 September 2008 09:18 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477109,FALSE,3,7/27/2011 7:32,For,1,,58,5531905206_6420099791001,Mon 08 September 2008 12:41 AM,abortion_as_rights_or_choices,mmulder67
+90477110,FALSE,3,7/27/2011 6:57,For,1,,59,5531905206_6420099791001,Mon 08 September 2008 05:37 AM,abortion_as_rights_or_choices,rayld2
+90477111,FALSE,3,7/27/2011 8:11,Not Sure,0.6479,,60,5531905206_6420099791001,Mon 08 September 2008 12:47 PM,abortion_as_rights_or_choices,Tower_Flower
+90477112,FALSE,3,7/27/2011 5:36,Against,1,,61,5531905206_6420099791001,Mon 08 September 2008 03:08 PM,abortion_as_rights_or_choices,Fighterpilotmafia
+90477113,FALSE,3,7/27/2011 8:06,Against,0.6387,,62,5531905206_6420099791001,Mon 08 September 2008 07:26 PM,abortion_as_rights_or_choices,billbright
+90477114,FALSE,3,7/27/2011 5:48,Against,1,,63,5531905206_6420099791001,Mon 08 September 2008 11:53 PM,abortion_as_rights_or_choices,nspreitler
+90477115,FALSE,3,7/27/2011 8:39,For,0.6861,,64,5531905206_6420099791001,Tue 09 September 2008 12:53 AM,abortion_as_rights_or_choices,mmulder67
+90477116,FALSE,3,7/27/2011 6:00,For,0.6272,,65,5531905206_6420099791001,Tue 09 September 2008 01:14 AM,abortion_as_rights_or_choices,mmulder67
+90477117,FALSE,3,7/27/2011 8:42,Against,0.6688,,66,5531905206_6420099791001,Tue 09 September 2008 05:51 AM,abortion_as_rights_or_choices,Angie1228
+90477118,FALSE,3,7/27/2011 8:41,For,0.7,,67,5531905206_6420099791001,Tue 09 September 2008 07:08 AM,abortion_as_rights_or_choices,rayld2
+90477119,FALSE,3,7/27/2011 7:11,For,1,,68,5531905206_6420099791001,Tue 09 September 2008 10:21 AM,abortion_as_rights_or_choices,mmulder67
+90477120,FALSE,3,7/27/2011 8:56,For,0.6829,,69,5531905206_6420099791001,Tue 09 September 2008 10:29 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477121,FALSE,3,7/27/2011 7:20,Not Sure,1,,70,5531905206_6420099791001,Tue 09 September 2008 11:07 AM,abortion_as_rights_or_choices,Tower_Flower
+90477122,FALSE,3,7/27/2011 4:27,For,0.6853,,71,5531905206_6420099791001,Tue 09 September 2008 11:17 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477123,FALSE,3,7/27/2011 7:04,Not Sure,1,,72,5531905206_6420099791001,Tue 09 September 2008 11:27 AM,abortion_as_rights_or_choices,Tower_Flower
+90477124,FALSE,4,7/27/2011 6:53,For,1,,73,5531905206_6420099791001,Tue 09 September 2008 11:37 AM,abortion_as_rights_or_choices,anoldnotboldrecondo
+90477125,FALSE,5,7/27/2011 9:09,For,0.6281,,74,5531905206_6420099791001,Tue 09 September 2008 11:42 AM,abortion_as_rights_or_choices,Tower_Flower
+90477126,FALSE,3,7/27/2011 7:04,For,0.628,,75,5531905206_6420099791001,Tue 09 September 2008 11:43 AM,abortion_as_rights_or_choices,Angie1228
+90477127,FALSE,3,7/27/2011 4:53,For,0.3811,,76,5531905206_6420099791001,Tue 09 September 2008 01:51 PM,abortion_as_rights_or_choices,rayld2
+90477128,FALSE,3,7/27/2011 4:50,Not Sure,1,,77,5531905206_6420099791001,Tue 09 September 2008 02:40 PM,abortion_as_rights_or_choices,Tower_Flower
+90477129,FALSE,3,7/27/2011 5:53,Not Sure,1,,78,5531905206_6420099791001,Wed 10 September 2008 08:00 AM,abortion_as_rights_or_choices,sweetsuds
+90477130,FALSE,3,7/27/2011 6:24,Not Sure,0.6764,,79,5531905206_6420099791001,Wed 10 September 2008 09:21 AM,abortion_as_rights_or_choices,tawodi
+90477131,FALSE,3,7/27/2011 7:54,Not Sure,0.6725,,80,5531905206_6420099791001,Wed 10 September 2008 05:52 PM,abortion_as_rights_or_choices,sweetsuds
+90477132,FALSE,3,7/27/2011 5:55,Not Sure,0.7073,,81,5531905206_6420099791001,Wed 10 September 2008 06:22 PM,abortion_as_rights_or_choices,tawodi
+90477133,FALSE,3,7/27/2011 5:39,For,0.7139,,82,5531905206_6420099791001,Wed 01 October 2008 06:34 AM,abortion_as_rights_or_choices,lcplcross
+90477134,FALSE,3,7/27/2011 5:43,For,1,,83,5531905206_6420099791001,Tue 28 October 2008 03:13 PM,abortion_as_rights_or_choices,entmjzi
+90477135,FALSE,3,7/27/2011 4:17,Against,0.6655,,84,5531905206_6420099791001,Wed 12 November 2008 02:03 PM,abortion_as_rights_or_choices,Whirled_Peas
+90477136,FALSE,3,7/27/2011 8:45,Not Sure,0.3531,,85,5531905206_6420099791001,Thu 13 November 2008 06:33 PM,abortion_as_rights_or_choices,sweetsuds
+90477137,FALSE,3,7/27/2011 2:09,Not Sure,0.6694,,86,5531905206_6420099791001,Fri 14 November 2008 07:42 AM,abortion_as_rights_or_choices,Whirled_Peas
+90477138,FALSE,3,7/27/2011 7:19,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477139,FALSE,4,7/27/2011 6:39,Not Sure,0.5082,,1,409192893_1310027322001,Tue 19 May 2009 08:50 PM,abortion_as_rights_or_choices,Fightdirector
+90477141,TRUE,26,7/27/2011 9:27,Not Sure,0.7203,"Against
+Not Sure",3,409192893_1310027322001,Tue 19 May 2009 09:26 PM,abortion_as_rights_or_choices,Yooper_tj
+90477143,TRUE,1,7/27/2011 8:13,Against,1,For,5,409192893_1310027322001,Tue 19 May 2009 10:02 PM,abortion_as_rights_or_choices,Tangler
+90477148,TRUE,1,7/26/2011 19:12,Against,1,Not Sure,7,409192893_1310027322001,Wed 20 May 2009 06:02 AM,abortion_as_rights_or_choices,ACR26
+90477149,TRUE,10,7/27/2011 1:55,For,0.7166,"Against
+Not Sure",8,409192893_1310027322001,Wed 20 May 2009 06:13 AM,abortion_as_rights_or_choices,rayld2
+90477154,FALSE,3,7/27/2011 7:11,Against,0.649,,13,409192893_1310027322001,Wed 20 May 2009 08:13 AM,abortion_as_rights_or_choices,Irwin_R_Schyster
+90477156,FALSE,4,7/27/2011 6:11,Against,0.529,,15,409192893_1310027322001,Wed 20 May 2009 01:19 PM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477157,TRUE,12,7/27/2011 2:58,Against,0.834,Against,16,409192893_1310027322001,Wed 20 May 2009 01:24 PM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477158,TRUE,1,7/27/2011 7:24,For,1,For,17,409192893_1310027322001,Wed 20 May 2009 03:23 PM,abortion_as_rights_or_choices,thorin001
+90477159,TRUE,23,7/27/2011 9:01,For,0.7962,For,18,409192893_1310027322001,Wed 20 May 2009 06:29 PM,abortion_as_rights_or_choices,Tangler
+90477160,TRUE,1,7/27/2011 7:27,Not Sure,1,For,19,409192893_1310027322001,Wed 20 May 2009 07:15 PM,abortion_as_rights_or_choices,PinkBlossoms
+90477161,TRUE,1,7/27/2011 4:16,Not Sure,1,Against,20,409192893_1310027322001,Wed 20 May 2009 09:01 PM,abortion_as_rights_or_choices,Fightdirector
+90477162,FALSE,3,7/27/2011 8:13,Against,0.7037,,21,409192893_1310027322001,Thu 21 May 2009 04:19 AM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477163,FALSE,3,7/27/2011 7:39,Against,0.661,,22,409192893_1310027322001,Thu 21 May 2009 04:26 AM,abortion_as_rights_or_choices,QuanticoBornMarine
+90477164,TRUE,3,7/26/2011 23:14,Not Sure,0.6733,"For
+Not Sure",23,409192893_1310027322001,Thu 21 May 2009 04:47 AM,abortion_as_rights_or_choices,backtoiraq
+90477167,FALSE,3,7/27/2011 8:41,For,0.6292,,26,409192893_1310027322001,Thu 21 May 2009 04:53 AM,abortion_as_rights_or_choices,backtoiraq
+90477168,FALSE,3,7/27/2011 8:03,Not Sure,1,,27,409192893_1310027322001,Thu 21 May 2009 04:59 AM,abortion_as_rights_or_choices,skinman13
+90477169,FALSE,3,7/27/2011 5:05,Against,1,,28,409192893_1310027322001,Thu 21 May 2009 06:13 AM,abortion_as_rights_or_choices,PinkBlossoms
+90477170,TRUE,22,7/27/2011 8:48,Not Sure,0.4036,"For
+Not Sure",29,409192893_1310027322001,Thu 21 May 2009 06:25 AM,abortion_as_rights_or_choices,SeaWitch1220
+90477171,FALSE,4,7/27/2011 6:41,Not Sure,0.4358,,30,409192893_1310027322001,Thu 21 May 2009 06:30 AM,abortion_as_rights_or_choices,DMarkUhler
+90477172,FALSE,3,7/27/2011 8:00,For,0.7295,,31,409192893_1310027322001,Thu 21 May 2009 06:46 AM,abortion_as_rights_or_choices,cosmicfish
+90477173,FALSE,3,7/27/2011 6:41,Against,1,,32,409192893_1310027322001,Thu 21 May 2009 06:54 AM,abortion_as_rights_or_choices,Fightdirector
+90477174,FALSE,3,7/27/2011 8:49,For,0.7007,,33,409192893_1310027322001,Thu 21 May 2009 07:35 AM,abortion_as_rights_or_choices,rayld2
+90477175,FALSE,3,7/27/2011 7:24,Not Sure,0.6359,,34,409192893_1310027322001,Thu 21 May 2009 09:42 AM,abortion_as_rights_or_choices,dragonflyer04
+90477176,FALSE,3,7/27/2011 7:44,For,0.366,,35,409192893_1310027322001,Thu 21 May 2009 11:19 AM,abortion_as_rights_or_choices,mnoble1066
+90477177,FALSE,3,7/27/2011 8:10,For,1,,36,409192893_1310027322001,Thu 21 May 2009 02:28 PM,abortion_as_rights_or_choices,SeaWitch1220
+90477178,FALSE,3,7/27/2011 7:24,For,0.6502,,37,409192893_1310027322001,Thu 21 May 2009 02:38 PM,abortion_as_rights_or_choices,cosmicfish
+90477179,FALSE,3,7/27/2011 6:05,Against,1,,38,409192893_1310027322001,Fri 22 May 2009 03:31 AM,abortion_as_rights_or_choices,mnoble1066
+90477180,FALSE,3,7/27/2011 2:55,For,0.7292,,39,409192893_1310027322001,Fri 22 May 2009 04:42 AM,abortion_as_rights_or_choices,SeaWitch1220
+90477181,FALSE,3,7/27/2011 3:32,For,0.6678,,40,409192893_1310027322001,Fri 22 May 2009 05:39 AM,abortion_as_rights_or_choices,ProgMod
+90477182,FALSE,3,7/27/2011 8:39,For,1,,41,409192893_1310027322001,Fri 22 May 2009 09:18 PM,abortion_as_rights_or_choices,skinman13
+90477183,FALSE,3,7/27/2011 7:04,For,0.709,,42,409192893_1310027322001,Sat 23 May 2009 04:21 PM,abortion_as_rights_or_choices,ColdWarGranny
+90477184,FALSE,3,7/27/2011 7:50,For,0.6352,,43,409192893_1310027322001,Sun 24 May 2009 12:33 AM,abortion_as_rights_or_choices,thorin001
+90477185,FALSE,4,7/27/2011 9:01,For,0.5535,,44,409192893_1310027322001,Sun 24 May 2009 07:11 PM,abortion_as_rights_or_choices,KJ1110
+90477186,FALSE,4,7/27/2011 5:54,For,1,,45,409192893_1310027322001,Tue 02 June 2009 06:27 AM,abortion_as_rights_or_choices,R102v2
+90477187,FALSE,3,7/27/2011 7:28,For,0.6396,,46,409192893_1310027322001,Tue 02 June 2009 06:48 AM,abortion_as_rights_or_choices,soscorpio
+90477188,FALSE,3,7/27/2011 6:57,Not Sure,0.6375,,47,409192893_1310027322001,Tue 02 June 2009 09:42 AM,abortion_as_rights_or_choices,thorin001
+90477189,FALSE,3,7/27/2011 5:47,Not Sure,0.6829,,48,409192893_1310027322001,Tue 02 June 2009 12:16 PM,abortion_as_rights_or_choices,soscorpio
+90477190,FALSE,3,7/27/2011 8:13,Against,0.6743,,49,409192893_1310027322001,Tue 02 June 2009 12:23 PM,abortion_as_rights_or_choices,L0A1
+90477191,FALSE,3,7/27/2011 7:12,Not Sure,1,,Post ID,Thread ID,Time,Topic,User ID
+90477192,FALSE,3,7/27/2011 7:03,Against,0.7324,,1,409192893_6200039561001,Wed 23 January 2008 07:59 AM,abortion_as_rights_or_choices,Fightdirector
+90477193,FALSE,3,7/27/2011 8:03,For,1,,2,409192893_6200039561001,Wed 23 January 2008 08:06 AM,abortion_as_rights_or_choices,sweetsuds
+90477194,FALSE,3,7/27/2011 7:56,For,1,,3,409192893_6200039561001,Wed 23 January 2008 08:18 AM,abortion_as_rights_or_choices,LRS51st
+90477195,FALSE,3,7/27/2011 9:27,For,0.7095,,4,409192893_6200039561001,Wed 23 January 2008 08:21 AM,abortion_as_rights_or_choices,rm444
+90477196,FALSE,3,7/27/2011 3:32,For,0.6914,,5,409192893_6200039561001,Wed 23 January 2008 08:24 AM,abortion_as_rights_or_choices,Fightdirector
+90477197,FALSE,3,7/27/2011 7:43,Not Sure,1,,6,409192893_6200039561001,Wed 23 January 2008 08:26 AM,abortion_as_rights_or_choices,Killswitch_Engage
+90477198,FALSE,3,7/27/2011 6:17,Against,0.3685,,7,409192893_6200039561001,Wed 23 January 2008 08:31 AM,abortion_as_rights_or_choices,OrangeCat97
+90477199,FALSE,3,7/27/2011 4:14,Against,0.6843,,8,409192893_6200039561001,Wed 23 January 2008 08:34 AM,abortion_as_rights_or_choices,Fightdirector
+90477200,FALSE,3,7/27/2011 7:21,Not Sure,0.6273,,9,409192893_6200039561001,Wed 23 January 2008 08:54 AM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477201,FALSE,3,7/27/2011 6:25,Not Sure,1,,10,409192893_6200039561001,Wed 23 January 2008 09:43 AM,abortion_as_rights_or_choices,The_Bonesaw
+90477202,FALSE,3,7/27/2011 7:17,For,0.6452,,11,409192893_6200039561001,Wed 23 January 2008 09:53 AM,abortion_as_rights_or_choices,PSimon572
+90477203,FALSE,3,7/27/2011 6:32,Not Sure,1,,12,409192893_6200039561001,Wed 23 January 2008 10:00 AM,abortion_as_rights_or_choices,rm444
+90477204,FALSE,3,7/27/2011 8:45,For,1,,13,409192893_6200039561001,Wed 23 January 2008 10:53 AM,abortion_as_rights_or_choices,OrangeCat97
+90477205,FALSE,3,7/27/2011 8:45,For,0.3623,,14,409192893_6200039561001,Wed 23 January 2008 11:59 AM,abortion_as_rights_or_choices,boughtwaprice
+90477206,FALSE,3,7/27/2011 7:37,Against,0.643,,15,409192893_6200039561001,Wed 23 January 2008 12:07 PM,abortion_as_rights_or_choices,PUFFBOY
+90477207,FALSE,3,7/27/2011 2:19,For,0.6352,,16,409192893_6200039561001,Wed 23 January 2008 12:14 PM,abortion_as_rights_or_choices,torkel
+90477208,FALSE,3,7/27/2011 7:41,For,1,,17,409192893_6200039561001,Wed 23 January 2008 12:21 PM,abortion_as_rights_or_choices,WhoFreak
+90477209,FALSE,3,7/27/2011 7:46,For,0.6137,,18,409192893_6200039561001,Wed 23 January 2008 01:04 PM,abortion_as_rights_or_choices,LRS51st
+90477210,FALSE,4,7/27/2011 8:56,Against,0.7419,,19,409192893_6200039561001,Wed 23 January 2008 01:42 PM,abortion_as_rights_or_choices,Tomcatt
+90477211,FALSE,3,7/27/2011 4:53,Not Sure,0.6361,,20,409192893_6200039561001,Wed 23 January 2008 01:51 PM,abortion_as_rights_or_choices,alcyone
+90477212,FALSE,3,7/27/2011 7:30,For,1,,21,409192893_6200039561001,Wed 23 January 2008 01:54 PM,abortion_as_rights_or_choices,FriscoLady01
+90477213,FALSE,3,7/27/2011 7:19,Against,1,,22,409192893_6200039561001,Wed 23 January 2008 01:56 PM,abortion_as_rights_or_choices,Kegler300
+90477214,FALSE,3,7/27/2011 4:21,Not Sure,0.6572,,23,409192893_6200039561001,Wed 23 January 2008 02:04 PM,abortion_as_rights_or_choices,scottrj50
+90477215,FALSE,3,7/27/2011 5:41,Against,0.7167,,24,409192893_6200039561001,Wed 23 January 2008 02:16 PM,abortion_as_rights_or_choices,navy8086
+90477216,FALSE,3,7/27/2011 4:15,Not Sure,0.7027,,25,409192893_6200039561001,Wed 23 January 2008 02:21 PM,abortion_as_rights_or_choices,LRS51st
+90477217,FALSE,3,7/27/2011 7:10,Against,1,,26,409192893_6200039561001,Wed 23 January 2008 02:22 PM,abortion_as_rights_or_choices,scottrj50
+90477218,FALSE,3,7/27/2011 8:53,For,1,,27,409192893_6200039561001,Wed 23 January 2008 02:23 PM,abortion_as_rights_or_choices,FriscoLady01
+90477219,FALSE,3,7/27/2011 7:19,Not Sure,0.6201,,28,409192893_6200039561001,Wed 23 January 2008 02:27 PM,abortion_as_rights_or_choices,LRS51st
+90477220,FALSE,3,7/27/2011 6:54,Not Sure,0.646,,29,409192893_6200039561001,Wed 23 January 2008 02:28 PM,abortion_as_rights_or_choices,Opfor6
+90477221,FALSE,3,7/27/2011 8:51,Not Sure,0.6496,,30,409192893_6200039561001,Wed 23 January 2008 02:38 PM,abortion_as_rights_or_choices,scottrj50
+90477222,FALSE,3,7/27/2011 3:54,Not Sure,0.6371,,31,409192893_6200039561001,Wed 23 January 2008 02:41 PM,abortion_as_rights_or_choices,beatch71
+90477223,FALSE,3,7/27/2011 8:47,Against,0.6546,,32,409192893_6200039561001,Wed 23 January 2008 02:43 PM,abortion_as_rights_or_choices,pken
+90477224,FALSE,3,7/27/2011 6:09,For,1,,33,409192893_6200039561001,Wed 23 January 2008 02:47 PM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477225,FALSE,3,7/27/2011 7:22,Against,1,,34,409192893_6200039561001,Wed 23 January 2008 03:14 PM,abortion_as_rights_or_choices,navy8086
+90477226,FALSE,3,7/27/2011 7:41,For,0.7285,,35,409192893_6200039561001,Wed 23 January 2008 03:21 PM,abortion_as_rights_or_choices,FortesFortunaJuvat
+90477227,FALSE,4,7/27/2011 6:44,For,0.5243,,36,409192893_6200039561001,Wed 23 January 2008 03:23 PM,abortion_as_rights_or_choices,rm444
+90477228,FALSE,3,7/27/2011 4:37,For,0.7006,,37,409192893_6200039561001,Wed 23 January 2008 03:31 PM,abortion_as_rights_or_choices,Duster6
+90477229,FALSE,3,7/27/2011 4:29,Not Sure,1,,38,409192893_6200039561001,Wed 23 January 2008 03:55 PM,abortion_as_rights_or_choices,aggie_swife
+90477230,FALSE,3,7/27/2011 7:17,For,1,,39,409192893_6200039561001,Wed 23 January 2008 05:45 PM,abortion_as_rights_or_choices,PhoenixDark
+90477231,FALSE,3,7/27/2011 6:03,For,1,,40,409192893_6200039561001,Wed 23 January 2008 05:57 PM,abortion_as_rights_or_choices,PSimon572
+90477232,FALSE,3,7/27/2011 7:49,For,0.7138,,41,409192893_6200039561001,Wed 23 January 2008 06:01 PM,abortion_as_rights_or_choices,marineJacksonsgirl
+90477233,FALSE,3,7/27/2011 8:12,For,0.7165,,42,409192893_6200039561001,Wed 23 January 2008 06:11 PM,abortion_as_rights_or_choices,sweetsuds
+90477234,FALSE,3,7/27/2011 6:22,Against,1,,43,409192893_6200039561001,Wed 23 January 2008 06:11 PM,abortion_as_rights_or_choices,aggie_swife
+90477235,FALSE,4,7/27/2011 5:32,Not Sure,1,,44,409192893_6200039561001,Wed 23 January 2008 06:19 PM,abortion_as_rights_or_choices,sweetsuds
+90477236,FALSE,3,7/27/2011 8:49,Not Sure,0.6667,,45,409192893_6200039561001,Wed 23 January 2008 07:58 PM,abortion_as_rights_or_choices,aggie_swife
+90477237,FALSE,3,7/27/2011 8:47,For,1,,46,409192893_6200039561001,Wed 23 January 2008 08:21 PM,abortion_as_rights_or_choices,liberal90
+90477238,FALSE,3,7/27/2011 6:41,Against,1,,47,409192893_6200039561001,Wed 23 January 2008 08:31 PM,abortion_as_rights_or_choices,OldUSAFSniper
+90477239,FALSE,3,7/27/2011 8:06,Against,0.6399,,48,409192893_6200039561001,Wed 23 January 2008 11:15 PM,abortion_as_rights_or_choices,Opfor6
+90477240,FALSE,3,7/27/2011 8:05,Against,1,,49,409192893_6200039561001,Wed 23 January 2008 11:25 PM,abortion_as_rights_or_choices,undercoversister
+90477241,FALSE,3,7/27/2011 7:12,Against,0.3819,,50,409192893_6200039561001,Wed 23 January 2008 11:47 PM,abortion_as_rights_or_choices,Opfor6
+90477242,FALSE,3,7/27/2011 7:36,Against,0.6757,,51,409192893_6200039561001,Thu 24 January 2008 07:28 AM,abortion_as_rights_or_choices,Fightdirector
+90477243,FALSE,3,7/27/2011 7:31,For,0.3656,,52,409192893_6200039561001,Thu 24 January 2008 08:33 AM,abortion_as_rights_or_choices,pken
+90477244,FALSE,3,7/27/2011 8:09,Not Sure,0.3367,,53,409192893_6200039561001,Thu 24 January 2008 09:23 AM,abortion_as_rights_or_choices,Fightdirector
+90477245,FALSE,3,7/27/2011 6:41,Not Sure,1,,54,409192893_6200039561001,Thu 24 January 2008 09:55 AM,abortion_as_rights_or_choices,oldmole
+90477246,FALSE,3,7/27/2011 7:34,Not Sure,0.6258,,55,409192893_6200039561001,Thu 24 January 2008 10:13 AM,abortion_as_rights_or_choices,rm444
+90477249,FALSE,3,7/27/2011 0:53,Not Sure,0.705,,56,409192893_6200039561001,Thu 24 January 2008 10:59 AM,abortion_as_rights_or_choices,LRS51st
