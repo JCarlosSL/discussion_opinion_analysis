@@ -1,4 +1,4 @@
-user-id,text,topic,thread-id,time,post-id,reply-to,reply-by
+user-id text,topic  thread-id time  post-id reply-to  reply-by
 Minsa_Peru,ACTUALIZACIÓN | Esta es la situación del #COVID19 en Perú hasta las 00:00 horas del 2 de agosto.… https://t.co/dpPeNB14Bq,covid-19,1,2020-08-02 21:54:21,1290043285298323456,,Minsa_Peru
 japc05," Pregunta, esos casos positivos adicionales de donde vienen de lo reportado de los gobiernos regionales fuera de las pruebas? o de las mismas pruebas pero que recién se tiene el resultado?",covid-19,2,2020-08-03 23:42:32,1290432895899914245,Minsa_Peru,japc05
 inesrias, Las pruebas rápidas no sirven y por eso muere mucha gente que s confía de esas pruebas,covid-19,3,2020-08-03 22:28:06,1290414165832736768,Minsa_Peru,inesrias
