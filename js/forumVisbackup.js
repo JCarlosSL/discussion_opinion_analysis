@@ -16,19 +16,19 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
         events: {
             onMouseOver: null
         },
-        colorList:['#04B45F','#DF3A01','#BDBDBD'],/*verde, rojo, plomo*/
+        colorList:['#04B45F','#0084ff','#572364','#e3e314','#DF3A01'],
         threadRadius:160,
         peopleNodeMaxOpa:.6,
-        maxArcHeight:40,/*radio nombres*/
-        topLevelArcHeight:30,/*alto de top levelpost arch*/
-        minArcHeight:5,/*alto minimo de los arch*/
-        packRadiusRate:0.8,/*radio q contiene a las burbujas dentro del circuclo*/
-        maxPeoplePadding:21,/**/
+        maxArcHeight:40,
+        topLevelArcHeight:30,
+        minArcHeight:5,
+        packRadiusRate:0.8,
+        maxPeoplePadding:1,
         peopleOpinionRate:1,
         peopleFocusRate:1,
-        timelineLabelHeight:40,
-        timeBarWidth:6,
-        maxTooltipChartCount:200,
+        timelineLabelHeight:50,
+        timeBarWidth:5,
+        maxTooltipChartCount:240,
         clusterMarkSize:5,
         threadArcHeight:2,
         clusterSummaryArcHeight:10,
@@ -959,12 +959,6 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
                 }
               });
         },
-        _mytrick:function(p,val){
-          	  var self = this;
-              p.each(function(d){
-          		self._showTooltip(val,d,self.opinionMeta.indexOf(d.opinion));
-              });
-        },
         _highlightMiniThreadPeople:function(user){
           d3.selectAll('.miniThread').each(function(d){
             if(user){
@@ -978,7 +972,6 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
         },
         _onMouseOverPost:function(d){
           //'postLink_'+d.thread_id+'_'+d.post_id;
-		  var val = window.pageYOffset + 40;
           var self = this;
           var thread = self.chart.selectAll('.focusThread').selectAll('#thread_'+d.thread_id);
           
@@ -987,6 +980,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
           var selectPostArc = thread.selectAll('#post_'+d.thread_id+'_'+d.post_id);
           self.timeView.selectAll('.'+self.classNames.postBar).classed('fade',true);
           self._highlightPost(selectPostArc, true);
+
 
           //highlight reply posts and reply links
           var replyTo = [];
@@ -1000,8 +994,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
               self._highlightPost(rp);
               self._drawReplyLink(thread,selectPost,rp);
               rp.each(function(rd){
-                self._showTooltip(val,rd,self.opinionMeta.indexOf(rd.opinion),null,{x:1350,y:100});
-			    val += 70;
+                self._showTooltip(rd,self.opinionMeta.indexOf(rd.opinion),null,{x:1350,y:100});
                 peopleList.push(rd);
                 linkList.push(rd.post_id);
               });
@@ -1011,8 +1004,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
               self._highlightPost(rp);
               self._drawReplyLink(thread,rp,selectPost);
               rp.each(function(rd){
-                self._showTooltip(val,rd,self.opinionMeta.indexOf(rd.opinion));
-			    val += 70;
+                self._showTooltip(rd,self.opinionMeta.indexOf(rd.opinion));
                 peopleList.push(rd);
                 linkList.push(rd.post_id);
               });              
@@ -1040,20 +1032,18 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
 
 
           //show tooltip
-          self._showTooltip(val,d,self.opinionMeta.indexOf(d.opinion),true, {x:1500,y:300});
-		  val += 70;
+          self._showTooltip(d,self.opinionMeta.indexOf(d.opinion),true, {x:1500,y:300});
         },
-        _showTooltip:function(val,postData, opinionIndex, select, pos){
+        _showTooltip:function(postData, opinionIndex, select, pos){
           var self = this;
           var arcData = postData.arcData;
-          //var offsetX = 580;
-          var offsetX = screen.width;
-          //var offsetY  = 10;
+          var offsetX = 380;
+          var offsetY  = 50;
           
           var midAngle = (arcData.startAngle+arcData.endAngle)/2 -self.angleOffset;
-          var posX =  Math.cos(midAngle)*(self.threadRadius+arcData.height)  ;
+          var posX =   Math.cos(midAngle)*(self.threadRadius+arcData.height)  ;
           var posY =  Math.sin(midAngle)*(self.threadRadius+arcData.height)  ;
-          var tooltipHeight = 250, tooltipWidth = 300;
+          var tooltipHeight = 5, tooltipWidth = 300;
           var tx,ty;
 
           var processTooltipContent = function(text){
@@ -1066,7 +1056,6 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
             }
             return content.slice(0, self.settings.maxTooltipChartCount);
           };
-		  /*
           if(posX>0&&posY<0){
             ty = posY - tooltipHeight;
             tx = posX;
@@ -1080,12 +1069,8 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
             tx = posX - tooltipWidth;
             ty = posY - tooltipHeight;
           }
-		  */
-          //tx+=self.chartWidth/2 + offsetX+tooltipWidth;
-          tx = offsetX;
-          //ty+=self.chartHeight/2 + offsetY;
-          //ty+=self.chartHeight;
-          ty = val;
+          tx+=self.chartWidth/2 + offsetX+tooltipWidth;
+          ty+=self.chartHeight/2 + offsetY;
           var postContent = processTooltipContent(postData.content);
           var content = '<p>' +postContent+'</p>';
 
@@ -1094,12 +1079,9 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
             opinionClass+= ' select';
           }
           if(pos){
-            /*nv.tooltip.show([pos.x, pos.y], content, 'e', null, null,opinionClass);*/
-            nv.tooltip.show([screen.width, ty], content, 'e', null, null,opinionClass);
+            nv.tooltip.show([pos.x, pos.y], content, 'e', null, null,opinionClass);
           }else{
-            nv.tooltip.show([screen.width, ty], content, 'e', null, null,opinionClass);
-            //nv.tooltip.show([tx, ty], content, 'e', null, null,opinionClass);
-            //nv.tooltip.show([1400, 200], content, 'e', null, null,opinionClass);
+            nv.tooltip.show([tx, ty], content, 'e', null, null,opinionClass);
           }
           
 
@@ -1136,7 +1118,6 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
           thread.selectAll('.peopleNode').classed('fade',false);*/
         },
         _onMouseOverPeople:function(d){
-		  var val = window.pageYOffset + 40;
           var self = this;
           if(!d||!d.post){
             return;
@@ -1149,12 +1130,8 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
           d.post.forEach(function(post){
               var p = thread.selectAll('#post_'+d.thread_id+'_'+post.post_id);
               self._highlightPost(p);
-              self._mytrick(p,val);
-			  		val += 70;
               var l = thread.selectAll('#postLink_'+d.thread_id+'_'+post.post_id);
               self._highlightPost(l);
-              //self._mytrick(l,val);
-			  //		val += 80;
               //l.classed('fade',false);
               //l.classed('highlight', true);
 
