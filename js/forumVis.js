@@ -1223,7 +1223,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
         },
         _drawLegend:function(){
           var self = this;
-          var height = self.settings.legendHeight*0.8;
+          var height = self.settings.legendHeight*1.1;
           var legendContainer = self.chart.append('g').attr('transform','translate(50,'+(self.chartHeight-self.settings.legendHeight)+')' );
               legendContainer.append("svg:image")
                .attr('x',200)
