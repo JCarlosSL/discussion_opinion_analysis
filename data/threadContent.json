@@ -1,13 +1,5 @@
 var threadContentData = [
 {"post":[
-{ "topic":"Topic",
-		"thread_id":"Thread ID",
-		"post_id":post-id,
-		"time":"Time",
-		"content":"Post Content",
-		"user_id":"User ID",
-		"replyBy": [replyTo],
-		"replyTo": [replyBy]},
 { "topic":"Cuestion-de-confianza",
 		"thread_id":"5",
 		"post_id":1,
@@ -535,5 +527,5 @@ var threadContentData = [
 		"content":"@FrepapBancada https://t.co/LI2di03MoE",
 		"user_id":"jvilacordova",
 		"replyBy": [],
-		"replyTo": [51]},
+		"replyTo": [51]}
 ],"id":"5"}]
