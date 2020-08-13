@@ -6,7 +6,7 @@ var threadContentData = [
 		"time":1596683285.0,
 		"content":"The Frepap bench expresses its rejection of the discriminatory statements of the citizen Pedro Cateriano. Nin… https://t.co/Nrm6DJwegp",
 		"user_id":"FrepapBancada",
-		"replyBy": [],
+		"replyBy": [2,3,4,5,6,7,8,9,10,11,12,13],
 		"replyTo": []},
 { "topic":"Cuestion-de-confianza",
 		"thread_id":"5",
