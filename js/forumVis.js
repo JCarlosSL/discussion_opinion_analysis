@@ -16,7 +16,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
         events: {
             onMouseOver: null
         },
-        colorList:['#FF0000','#00FF00','#F2F6F2','#FFFF00','#0000FF','#6AD2DA','##6B1A8B','#F88E1D'],/**/
+        colorList:['#FF0000','#00FF00','#848484','#FFFF00','#0000FF','#6AD2DA','#572364','#F88E1D'],/**/
         threadRadius:160,
         peopleNodeMaxOpa:.6,
         maxArcHeight:40,/*radio nombres*/

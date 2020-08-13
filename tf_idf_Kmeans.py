@@ -25,14 +25,18 @@ def print_top_words(model, feature_names, n_top_words):
 
 
 data = []
-with open('thread5.tsv',encoding='utf-8') as tsvfile:
-    reader = csv.reader(tsvfile, delimiter='\t')
-    for row in reader:
-        data.append(row)
+#with open('thread5.tsv',encoding='utf-8') as tsvfile:
+#    reader = csv.reader(tsvfile, delimiter='\t')
+#    for row in reader:
+#        data.append(row)
+df = pd.read_csv('output.tsv',sep=',')
 
+for id,row in df.iterrows():
+    data.append([row['user-id'],row['text'],row['topic'],row['thread-id'],row['time'],row['post-id'],row['replyTo'],row['replyBy']])
 
+#print(data)
 data = np.array(data)
-corpus = data[:,5]
+corpus = data[:,1] #5 1
 
 #random.shuffle(corpus)
 
@@ -66,8 +70,8 @@ filee.write("var clusterResult=[\n")
 results = pd.DataFrame()
 
 results['document_text'] = corpus
-results['thread_id'] = data[:,1]
-results['post_id'] = data[:,2]
+results['thread_id'] = data[:,3] #1 3
+results['post_id'] = data[:,5] #2 5
 results['cluster_id'] = km.labels_
 #print("\n Resultado de grupos:\n", results)
 
