@@ -41,7 +41,14 @@ corpus = data[:,5] #5 1
 #random.shuffle(corpus)
 
 word = stopwords.words('english')
-
+word.append('https')
+word.append('fkrklect')
+#word.append('frepap')
+#word.append('frepapbancada')
+#word.append('mariacespedesc')
+word.append('quot')
+word.append('39')
+word.append('co')
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2,
                                    max_features=n_features,
                                    stop_words=word) #'english')

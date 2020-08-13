@@ -4,12 +4,12 @@ var clusterResult=[
 			"-size":"0",
 			"title": {
 			 "phrase": [
-				"companies",
 				"salary",
-				"health",
 				"need",
-				"already",
+				"companies",
+				"health",
 				"private",
+				"already",
 				"cabinet",
 				"want",
 			 ] 
@@ -25,18 +25,22 @@ var clusterResult=[
 			 "phrase": [
 				"frepapbancada",
 				"working",
-				"however",
-				"fkrklect",
-				"frepap",
+				"work",
 				"friends",
 				"get",
 				"giving",
+				"go",
+				"god",
 			 ] 
 			},
 			"document": [ 
+			 { "-refid": "5_3" }, 
 			 { "-refid": "5_21" }, 
 			 { "-refid": "5_45" }, 
+			 { "-refid": "5_48" }, 
 			 { "-refid": "5_51" }, 
+			 { "-refid": "5_65" }, 
+			 { "-refid": "5_66" }, 
 			] 
 		}, 
 		{
@@ -44,18 +48,20 @@ var clusterResult=[
 			"-size":"2",
 			"title": {
 			 "phrase": [
-				"frepap",
-				"manipulated",
-				"politicians",
-				"people",
-				"good",
+				"true",
+				"discriminatory",
 				"frepapbancada",
+				"people",
 				"working",
-				"health",
+				"confirm",
+				"say",
+				"congratulate",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_62" }, 
+			 { "-refid": "5_10" }, 
+			 { "-refid": "5_14" }, 
+			 { "-refid": "5_25" }, 
 			] 
 		}, 
 		{
@@ -66,11 +72,11 @@ var clusterResult=[
 				"bayolet34387315",
 				"frepapbancada",
 				"better",
-				"39",
-				"god",
-				"health",
-				"groups",
-				"great",
+				"interests",
+				"friends",
+				"get",
+				"giving",
+				"go",
 			 ] 
 			},
 			"document": [ 
@@ -85,18 +91,19 @@ var clusterResult=[
 			"-size":"4",
 			"title": {
 			 "phrase": [
-				"expresses",
-				"discriminatory",
-				"statements",
-				"pedro",
-				"bench",
-				"cateriano",
-				"https",
-				"co",
+				"national",
+				"frepap",
+				"groups",
+				"parties",
+				"statement",
+				"already",
+				"think",
+				"frepapbancada",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_1" }, 
+			 { "-refid": "5_5" }, 
+			 { "-refid": "5_33" }, 
 			] 
 		}, 
 		{
@@ -104,19 +111,19 @@ var clusterResult=[
 			"-size":"5",
 			"title": {
 			 "phrase": [
-				"39",
-				"going",
-				"peruvians",
-				"mr",
-				"pandemic",
-				"statements",
-				"political",
-				"cateriano",
+				"necessary",
+				"advertising",
+				"journalism",
+				"state",
+				"media",
+				"private",
+				"mariacespedesc",
+				"frepapbancada",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_26" }, 
-			 { "-refid": "5_28" }, 
+			 { "-refid": "5_39" }, 
+			 { "-refid": "5_63" }, 
 			] 
 		}, 
 		{
@@ -125,58 +132,57 @@ var clusterResult=[
 			"title": {
 			 "phrase": [
 				"frepapbancada",
-				"39",
-				"true",
-				"mariacespedesc",
 				"political",
-				"peru",
-				"people",
-				"work",
+				"us",
+				"cateriano",
+				"going",
+				"congress",
+				"want",
+				"like",
 			 ] 
 			},
 			"document": [ 
 			 { "-refid": "Thread ID_post-id" }, 
+			 { "-refid": "5_1" }, 
 			 { "-refid": "5_2" }, 
 			 { "-refid": "5_4" }, 
 			 { "-refid": "5_6" }, 
+			 { "-refid": "5_7" }, 
 			 { "-refid": "5_8" }, 
 			 { "-refid": "5_9" }, 
-			 { "-refid": "5_10" }, 
 			 { "-refid": "5_11" }, 
 			 { "-refid": "5_12" }, 
 			 { "-refid": "5_13" }, 
-			 { "-refid": "5_14" }, 
+			 { "-refid": "5_15" }, 
 			 { "-refid": "5_16" }, 
 			 { "-refid": "5_17" }, 
 			 { "-refid": "5_18" }, 
+			 { "-refid": "5_19" }, 
 			 { "-refid": "5_20" }, 
-			 { "-refid": "5_22" }, 
 			 { "-refid": "5_23" }, 
 			 { "-refid": "5_24" }, 
-			 { "-refid": "5_25" }, 
+			 { "-refid": "5_26" }, 
 			 { "-refid": "5_27" }, 
-			 { "-refid": "5_29" }, 
+			 { "-refid": "5_28" }, 
 			 { "-refid": "5_30" }, 
 			 { "-refid": "5_31" }, 
 			 { "-refid": "5_32" }, 
 			 { "-refid": "5_35" }, 
 			 { "-refid": "5_37" }, 
 			 { "-refid": "5_38" }, 
-			 { "-refid": "5_39" }, 
 			 { "-refid": "5_40" }, 
 			 { "-refid": "5_41" }, 
+			 { "-refid": "5_42" }, 
 			 { "-refid": "5_43" }, 
 			 { "-refid": "5_44" }, 
 			 { "-refid": "5_46" }, 
 			 { "-refid": "5_47" }, 
 			 { "-refid": "5_49" }, 
-			 { "-refid": "5_52" }, 
 			 { "-refid": "5_57" }, 
 			 { "-refid": "5_58" }, 
 			 { "-refid": "5_59" }, 
 			 { "-refid": "5_60" }, 
 			 { "-refid": "5_61" }, 
-			 { "-refid": "5_63" }, 
 			 { "-refid": "5_64" }, 
 			] 
 		}, 
@@ -185,20 +191,18 @@ var clusterResult=[
 			"-size":"7",
 			"title": {
 			 "phrase": [
-				"https",
-				"co",
-				"frepapbancada",
-				"working",
+				"favor",
+				"continue",
+				"bench",
+				"peru",
+				"peruvians",
 				"frepap",
+				"however",
 				"friends",
-				"get",
-				"giving",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_48" }, 
-			 { "-refid": "5_65" }, 
-			 { "-refid": "5_66" }, 
+			 { "-refid": "5_52" }, 
 			] 
 		}, 
 		{
@@ -206,22 +210,18 @@ var clusterResult=[
 			"-size":"8",
 			"title": {
 			 "phrase": [
-				"quot",
-				"experience",
-				"https",
-				"co",
-				"bad",
+				"jorgevillenal",
+				"thing",
+				"ignorant",
 				"frepapbancada",
-				"politics",
-				"many",
+				"however",
+				"friends",
+				"get",
+				"giving",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_3" }, 
-			 { "-refid": "5_7" }, 
-			 { "-refid": "5_15" }, 
-			 { "-refid": "5_19" }, 
-			 { "-refid": "5_42" }, 
+			 { "-refid": "5_22" }, 
 			] 
 		}, 
 		{
@@ -229,19 +229,18 @@ var clusterResult=[
 			"-size":"9",
 			"title": {
 			 "phrase": [
-				"national",
-				"frepap",
-				"groups",
-				"parties",
-				"already",
-				"think",
-				"statement",
+				"victims",
+				"sheep",
+				"bad",
+				"know",
+				"see",
 				"frepapbancada",
+				"manipulated",
+				"groups",
 			 ] 
 			},
 			"document": [ 
-			 { "-refid": "5_5" }, 
-			 { "-refid": "5_33" }, 
+			 { "-refid": "5_29" }, 
 			] 
 		}, 
 		{
@@ -252,16 +251,17 @@ var clusterResult=[
 				"good",
 				"frepap",
 				"frepapbancada",
-				"working",
+				"manipulated",
+				"politicians",
+				"people",
 				"however",
-				"fkrklect",
 				"friends",
-				"get",
 			 ] 
 			},
 			"document": [ 
 			 { "-refid": "5_34" }, 
 			 { "-refid": "5_36" }, 
+			 { "-refid": "5_62" }, 
 			] 
 		}, 
 ]
