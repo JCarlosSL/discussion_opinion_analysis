@@ -1,21 +1,22 @@
 import json
 
-data = []
-data.append({
+data = {}
+data['people'] = []
+data['people'].append({
     'name': 'Scott',
     'website': 'stackabuse.com',
-    'from': 'Nebraska'
+    'from': 7
 })
-data.append({
+data['people'].append({
     'name': 'Larry',
     'website': 'google.com',
-    'from': 'Michigan'
+    'from': 4
 })
-data.append({
+data['people'].append({
     'name': 'Tim',
     'website': 'apple.com',
-    'from': 'Alabama'
+    'from': 3
 })
-print(data)
+
 with open('data.txt', 'a') as outfile:
     json.dump(data, outfile)
