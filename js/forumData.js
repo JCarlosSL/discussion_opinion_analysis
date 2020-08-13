@@ -2,7 +2,7 @@
 var forumData = function () {
 
 var threadIdList =[];
-var opinionMeta = ['A','B','C','D','E'];//['For','Against','Not Sure'];
+var opinionMeta = ['Anger','Fear','Neutral','Joy','Sadness','Analytical','Confident','Tentative'];//['For','Against','Not Sure'];
 var clusterData = [];
 var clusterMeta = [];
 var maxReply = 0;
@@ -63,7 +63,7 @@ function processCluster(clusterRaw){
 
  
 function processAnnotationData(rawData){
-	var opinionPostCount=[0,0,0,0,0];//[0,0,0];
+	var opinionPostCount=[0,0,0,0,0,0,0,0];//[0,0,0];
 	threadIdList = threadContentData.map(function(d){
 		return d.id;
 	});

@@ -16,7 +16,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
         events: {
             onMouseOver: null
         },
-        colorList:['#04B45F','#DF3A01','#BDBDBD'],/*verde, rojo, plomo*/
+        colorList:['#04B45F','#0084ff','#572364','#e3e314','#DF3A01','#F3329F','#00FFFF','#000000'],/**/
         threadRadius:160,
         peopleNodeMaxOpa:.6,
         maxArcHeight:40,/*radio nombres*/
@@ -246,6 +246,7 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
 
               self.miniThreads.on('click',function(d){
                 self._generateFocusThread(d.threadData);
+				self._generateTimeView(d.threadData);
               });
               self.miniThreads.call(self._drawThreadRing,self);
               self.miniThreads.call(self._drawPeople,self); 
