@@ -26,8 +26,8 @@ function processCluster(clusterRaw){
 				return;
 			}
 			var idStr = id.split('_');
-			var treadId = idStr[0]+'_'+idStr[1];
-			var postId = Number(idStr[2]);
+			var treadId = idStr[0];
+			var postId = Number(idStr[1]);
 			if(pIdList.indexOf(id)!==-1){
 				return;
 			}else{

@@ -190,8 +190,8 @@ COLLECTIVEI.CHART.WIDGET.forumVisWidget = function (options) {
                 .append("feGaussianBlur")
                 .attr("stdDeviation", 5);
 
-              self._generateFocusThread(self.threadData[1]);
-              self._generateTimeView(self.threadData[1]);
+              self._generateFocusThread(self.threadData[0]);
+              self._generateTimeView(self.threadData[0]);
               self._drawLegend();
             //self._drawThreadRing();
             //self._drawPeople();
