@@ -25,7 +25,7 @@ def print_top_words(model, feature_names, n_top_words):
 
 
 data = []
-with open('data.tsv',encoding='utf-8') as tsvfile:
+with open('thread5.tsv',encoding='utf-8') as tsvfile:
     reader = csv.reader(tsvfile, delimiter='\t')
     for row in reader:
         data.append(row)
@@ -37,10 +37,6 @@ corpus = data[:,5]
 #random.shuffle(corpus)
 
 word = stopwords.words('english')
-word.append('apos')
-word.append('quot')
-word.append('amp')
-word.append('000')
 
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2,
                                    max_features=n_features,

@@ -2,7 +2,7 @@
 var forumData = function () {
 
 var threadIdList =[];
-var opinionMeta = ['Anger','Fear','Neutral','Joy','Sadness','Analytical','Confident','Tentative'];//['For','Against','Not Sure'];
+var opinionMeta = ['anger','fear','neutral','joy','sadness','analytical','confident','tentative'];//['For','Against','Not Sure'];
 var clusterData = [];
 var clusterMeta = [];
 var maxReply = 0;
@@ -26,8 +26,8 @@ function processCluster(clusterRaw){
 				return;
 			}
 			var idStr = id.split('_');
-			var treadId = idStr[0]+'_'+idStr[1];
-			var postId = Number(idStr[2]);
+			var treadId = idStr[0];
+			var postId = Number(idStr[1]);
 			if(pIdList.indexOf(id)!==-1){
 				return;
 			}else{
