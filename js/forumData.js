@@ -2,7 +2,7 @@
 var forumData = function () {
 
 var threadIdList =[];
-var opinionMeta = ['Anger','Fear','Neutral','Joy','Sadness','Analytical','Confident','Tentative'];//['For','Against','Not Sure'];
+var opinionMeta = ['anger','fear','neutral','joy','sadness','analytical','confident','tentative'];//['For','Against','Not Sure'];
 var clusterData = [];
 var clusterMeta = [];
 var maxReply = 0;
